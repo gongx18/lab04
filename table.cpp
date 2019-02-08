@@ -91,11 +91,13 @@ std::string Table::get(unsigned int key) const{
 	int index = hashFunction(key); 
 	list<Entry>:: iterator i;  
 	for(i = table[index].begin(); i != table[index].end(); i++){
+		cout<<"entered"<<endl;
+		cout<<"i->key is: "<< i->get_key()<<endl;  
 		if(i->get_key() == key){
 			return i->get_data(); 			
 		}
 	}
-	return ""; 
+	return "emtpy"; 
 }
 
 bool Table::remove(unsigned int key){
@@ -120,9 +122,6 @@ std::ostream& operator<<(std::ostream& out, const Table& t){
 	Entry* a = new Entry[size]; 
  	//repeat for loop
 	for(int i = 0; i < size; i++){
-		//for(int j = 0; j < t.table[i].size(); j++){
-		//	a[count] = 
-		//}
 		for(list<Entry>::iterator j = t.table[i].begin(); j != t.table[i].end(); j++){
 			a[count] = *j; 
 			count++; 
