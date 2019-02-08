@@ -8,13 +8,9 @@
 
 using namespace std; 
 
-string Table::toString(Entry e){
-	return std::to_string(e.get_key()) + " " + std::to_string(e.get_data()); 
-}
-
-void Table::mergeSort(Entry a[], size_t size){
-	size_t leftArraySize();
-	size_t rightArraySize();
+void mergeSort(Entry a[], int size){
+	int leftArraySize;
+	int rightArraySize;
 
 	if(size>1){
 		leftArraySize = size/2;
@@ -25,11 +21,11 @@ void Table::mergeSort(Entry a[], size_t size){
 	}
 }
 
-void Table::merge(Entry a[], size_t leftArraySize, size_t rightArraySize){
-	int* tempArray;
-	size_t copied = 0;
-	size_t leftCopied = 0;
-	size_t rightCopied = 0;
+void merge(Entry a[], int leftArraySize, int rightArraySize){
+	Entry* tempArray;
+	int copied = 0;
+	int leftCopied = 0;
+	int rightCopied = 0;
 
 	tempArray = new Entry[leftArraySize + rightArraySize]; 
 	
@@ -49,7 +45,7 @@ void Table::merge(Entry a[], size_t leftArraySize, size_t rightArraySize){
 		tempArray[copied++] = (a + leftArraySize)[rightCopied++];
 	}
 
-	for(size_t i=0; i<leftArraySize + rightArraySize; i++){
+	for(int i=0; i<leftArraySize + rightArraySize; i++){
 		a[i] = tempArray[i];
 	}
 
@@ -58,7 +54,7 @@ void Table::merge(Entry a[], size_t leftArraySize, size_t rightArraySize){
 
 int Table::hashFunction(int key) const{ //not sure why do I need to put const at the end; 
 	return key % 100;
-
+}
 
 
 
@@ -99,6 +95,7 @@ std::string Table::get(unsigned int key) const{
 			return i->get_data(); 			
 		}
 	}
+	return ""; 
 }
 
 bool Table::remove(unsigned int key){
@@ -119,18 +116,25 @@ std::ostream& operator<<(std::ostream& out, const Table& t){
 	//place all Entry objects in the Hash table into a vector; 
 	int size = t.BUCKET; 
 	int count = 0; 
-	Entry[] a = new Entry[size];
+	//Entry a[] = new Entry[size];
+	Entry* a = new Entry[size]; 
  	//repeat for loop
 	for(int i = 0; i < size; i++){
-		for(list<Entry>::iterator j = t[i].begin(); j != t[i].end(); j++){
+		//for(int j = 0; j < t.table[i].size(); j++){
+		//	a[count] = 
+		//}
+		for(list<Entry>::iterator j = t.table[i].begin(); j != t.table[i].end(); j++){
 			a[count] = *j; 
 			count++; 
 		}
 	}
-	mergeSort(a, count); 
+	mergeSort(a, count); //merge sort is not called on Table object;  
 	for(int k = 0; k < count; k++){
-		out << a[k].toString(); 
+		out << toString(a[k]); 
 	}
+
+	delete[] a; 
+
 	return out; 
 }
 

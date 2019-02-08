@@ -9,6 +9,8 @@
 #include <string>
 #include <iosfwd>
 
+using namespace std; 
+
 class Entry {
     
 public:
@@ -24,6 +26,7 @@ public:
     
     // operator conversion function simplifies comparisons
     operator unsigned int () const;
+    string toString(Entry e); 
     
     // input and output friends
     friend std::istream& operator>>

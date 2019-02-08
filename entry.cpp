@@ -8,10 +8,16 @@
 #include <list> 
 #include <iostream>
 #include "entry.h"
+#include <string>
 
 using namespace std;
 
 unsigned int Entry::accesses = 0;
+
+
+string toString(Entry e){
+	return std::to_string(e.get_key()) + " " + e.get_data(); 
+}
 
 Entry::Entry(unsigned int key, std::string data)
 : key(key), data(data) { }
