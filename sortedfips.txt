@@ -1,3142 +1,3142 @@
-2100 Haines, Alaska
-8083 Montezuma, Colorado
-13083 Dade, Georgia
-17067 Hancock, Illinois
-17091 Kankakee, Illinois
-13199 Meriwether, Georgia
-21083 Graves, Kentucky
-20083 Hodgeman, Kansas
-17083 Jersey, Illinois
-19097 Jackson, Iowa
-27091 Martin, Minnesota
-22099 St Martin, Louisiana
-29195 Saline, Missouri
-39041 Delaware, Ohio
-28141 Tishomingo, Mississippi
-35041 Roosevelt, New Mexico
-26099 Macomb, Michigan
-40083 Logan, Oklahoma
-13283 Treutlen, Georgia
-19183 Washington, Iowa
-26083 Keweenaw, Michigan
-37195 Wilson, North Carolina
-46095 Mellette, South Dakota
-1095 Marshall, Alabama
-29095 Jackson, Missouri
-39095 Lucas, Ohio
-27095 Mille Lacs, Minnesota
-22095 St John The Baptist, Louisiana
-42095 Northampton, Pennsylvania
-37099 Jackson, North Carolina
-48199 Hardin, Texas
-20099 Labette, Kansas
-5099 Nevada, Arkansas
-48291 Liberty, Texas
-26091 Lenawee, Michigan
-29091 Howell, Missouri
-1091 Marengo, Alabama
-20191 Sumner, Kansas
-36099 Seneca, New York
-48367 Parker, Texas
-39067 Harrison, Ohio
-26067 Ionia, Michigan
-21067 Fayette, Kentucky
-16067 Minidoka, Idaho
-21167 Mercer, Kentucky
-29067 Douglas, Missouri
-48267 Kimble, Texas
-38067 Pembina, North Dakota
-13167 Johnson, Georgia
-2068 Denali, Alaska
-47069 Hardeman, Tennessee
-30069 Petroleum, Montana
-19169 Story, Iowa
-46069 Hyde, South Dakota
-48399 Runnels, Texas
-18099 Marshall, Indiana
-31099 Kearney, Nebraska
-17199 Williamson, Illinois
-28099 Neshoba, Mississippi
-38099 Walsh, North Dakota
-48497 Wise, Texas
-28097 Montgomery, Mississippi
-51069 Frederick, Virginia
-17069 Hardin, Illinois
-37169 Stokes, North Carolina
-40069 Johnston, Oklahoma
-21069 Fleming, Kentucky
-26069 Iosco, Michigan
-39069 Henry, Ohio
-18169 Wabash, Indiana
-51091 Highland, Virginia
-21191 Pendleton, Kentucky
-37091 Hertford, North Carolina
-39091 Logan, Ohio
-48491 Williamson, Texas
-30091 Sheridan, Montana
-47091 Johnson, Tennessee
-48191 Hall, Texas
-17191 Wayne, Illinois
-13191 McIntosh, Georgia
-36091 Saratoga, New York
-21091 Hancock, Kentucky
-31091 Hooker, Nebraska
-20091 Johnson, Kansas
-37191 Wayne, North Carolina
-45091 York, South Carolina
-51183 Sussex, Virginia
-16083 Twin Falls, Idaho
-48083 Coleman, Texas
-38083 Sheridan, North Dakota
-51083 Halifax, Virginia
-13183 Long, Georgia
-45083 Spartanburg, South Carolina
-18083 Knox, Indiana
-13297 Walton, Georgia
-51595 Emporia City, Virginia
-48095 Concho, Texas
-17095 Knox, Illinois
-51195 Wise, Virginia
-13095 Dougherty, Georgia
-17195 Whiteside, Illinois
-51097 King and Queen, Virginia
-40097 Mayes, Oklahoma
-36097 Schuyler, New York
-29097 Jasper, Missouri
-51099 King George, Virginia
-51600 Fairfax City, Virginia
-51800 Suffolk City, Virginia
-51700 Newport News City, Virginia
-47001 Anderson, Tennessee
-42001 Adams, Pennsylvania
-35001 Bernalillo, New Mexico
-54069 Ohio, West Virginia
-16069 Nez Perce, Idaho
-17169 Schuyler, Illinois
-51169 Scott, Virginia
-13269 Taylor, Georgia
-13069 Coffee, Georgia
-31169 Thayer, Nebraska
-45069 Marlboro, South Carolina
-21169 Metcalfe, Kentucky
-48169 Garza, Texas
-18069 Huntington, Indiana
-22069 Natchitoches, Louisiana
-41069 Wheeler, Oregon
-42069 Lackawanna, Pennsylvania
-48069 Castro, Texas
-53069 Wahkiakum, Washington
-36069 Ontario, New York
-48269 King, Texas
-48469 Victoria, Texas
-13169 Jones, Georgia
-28069 Kemper, Mississippi
-39169 Wayne, Ohio
-47169 Trousdale, Tennessee
-19069 Franklin, Iowa
-29169 Pulaski, Missouri
-38069 Pierce, North Dakota
-20169 Saline, Kansas
-29069 Dunklin, Missouri
-12069 Lake, Florida
-1069 Houston, Alabama
-27069 Kittson, Minnesota
-27169 Winona, Minnesota
-31069 Garden, Nebraska
-20069 Gray, Kansas
-6069 San Benito, California
-48369 Parmer, Texas
-5069 Jefferson, Arkansas
-54097 Upshur, West Virginia
-21197 Powell, Kentucky
-48197 Hardeman, Texas
-22097 St Landry, Louisiana
-48099 Coryell, Texas
-42099 Perry, Pennsylvania
-21199 Pulaski, Kentucky
-12099 Palm Beach, Florida
-13099 Early, Georgia
-19099 Jasper, Iowa
-29099 Jefferson, Missouri
-48299 Llano, Texas
-17099 La Salle, Illinois
-29199 Scotland, Missouri
-30099 Teton, Montana
-27099 Mower, Minnesota
-21099 Hart, Kentucky
-6099 Stanislaus, California
-20199 Wallace, Kansas
-48499 Wood, Texas
-51199 York, Virginia
-54099 Wayne, West Virginia
-46099 Minnehaha, South Dakota
-39099 Mahoning, Ohio
-1099 Monroe, Alabama
-37199 Yancey, North Carolina
-55069 Lincoln, Wisconsin
-8069 Larimer, Colorado
-37069 Franklin, North Carolina
-51670 Hopewell City, Virginia
-2170 Matanuska Susitna, Alaska
-2270 Wade Hampton, Alaska
-51770 Roanoke City, Virginia
-2070 Dillingham, Alaska
-51570 Colonial Heights City, Virginia
-39171 Williams, Ohio
-16071 Oneida, Idaho
-19071 Fremont, Iowa
-37171 Surry, North Carolina
-31171 Thomas, Nebraska
-13271 Telfair, Georgia
-19171 Tama, Iowa
-20171 Scott, Kansas
-40071 Kay, Oklahoma
-29071 Franklin, Missouri
-42071 Lancaster, Pennsylvania
-18071 Jackson, Indiana
-47171 Unicoi, Tennessee
-51071 Giles, Virginia
-51171 Shenandoah, Virginia
-36071 Orange, New York
-26071 Iron, Michigan
-37071 Gaston, North Carolina
-47071 Hardin, Tennessee
-21171 Monroe, Kentucky
-30071 Phillips, Montana
-48171 Gillespie, Texas
-29171 Putnam, Missouri
-13171 Lamar, Georgia
-48371 Pecos, Texas
-48471 Walker, Texas
-5071 Johnson, Arkansas
-13071 Colquitt, Georgia
-48071 Chambers, Texas
-38071 Ramsey, North Dakota
-18171 Warren, Indiana
-21071 Floyd, Kentucky
-12071 Lee, Florida
-22071 Orleans, Louisiana
-45071 Newberry, South Carolina
-17071 Henderson, Illinois
-17171 Scott, Illinois
-27171 Wright, Minnesota
-6071 San Bernardino, California
-41071 Yamhill, Oregon
-39071 Highland, Ohio
-1071 Jackson, Alabama
-53071 Walla Walla, Washington
-8071 Las Animas, Colorado
-54071 Pendleton, West Virginia
-48271 Kinney, Texas
-55071 Manitowoc, Wisconsin
-31071 Garfield, Nebraska
-28071 Lafayette, Mississippi
-20071 Greeley, Kansas
-27071 Koochiching, Minnesota
-46071 Jackson, South Dakota
-8073 Lincoln, Colorado
-13173 Lanier, Georgia
-5073 Lafayette, Arkansas
-31073 Gosper, Nebraska
-45073 Oconee, South Carolina
-42073 Lawrence, Pennsylvania
-38073 Ransom, North Dakota
-6073 San Diego, California
-26073 Isabella, Michigan
-47173 Union, Tennessee
-18073 Jasper, Indiana
-53073 Whatcom, Washington
-48273 Kleberg, Texas
-48373 Polk, Texas
-17073 Henry, Illinois
-29173 Ralls, Missouri
-39073 Hocking, Ohio
-29073 Gasconade, Missouri
-19173 Taylor, Iowa
-13073 Columbia, Georgia
-30073 Pondera, Montana
-22073 Ouachita, Louisiana
-48173 Glasscock, Texas
-12073 Leon, Florida
-39173 Wood, Ohio
-51173 Smyth, Virginia
-20073 Greenwood, Kansas
-16073 Owyhee, Idaho
-51073 Gloucester, Virginia
-40073 Kingfisher, Oklahoma
-18173 Warrick, Indiana
-37073 Gates, North Carolina
-48473 Waller, Texas
-21073 Franklin, Kentucky
-27073 Lac Qui Parle, Minnesota
-17173 Shelby, Illinois
-36073 Orleans, New York
-20173 Sedgwick, Kansas
-21173 Montgomery, Kentucky
-55073 Marathon, Wisconsin
-31173 Thurston, Nebraska
-28073 Lamar, Mississippi
-19073 Greene, Iowa
-48073 Cherokee, Texas
-37173 Swain, North Carolina
-54073 Pleasants, West Virginia
-46073 Jerauld, South Dakota
-13273 Terrell, Georgia
-27173 Yellow Medicine, Minnesota
-1073 Jefferson, Alabama
-47073 Hawkins, Tennessee
-18075 Jay, Indiana
-37175 Transylvania, North Carolina
-17075 Iroquois, Illinois
-13275 Thomas, Georgia
-40075 Kiowa, Oklahoma
-22075 Plaquemines, Louisiana
-51175 Southampton, Virginia
-51075 Goochland, Virginia
-27075 Lake, Minnesota
-46075 Jones, South Dakota
-36075 Oswego, New York
-29075 Gentry, Missouri
-17175 Stark, Illinois
-12075 Levy, Florida
-8075 Logan, Colorado
-53075 Whitman, Washington
-30075 Powder River, Montana
-42075 Lebanon, Pennsylvania
-38075 Renville, North Dakota
-19075 Grundy, Iowa
-48375 Potter, Texas
-21075 Fulton, Kentucky
-48175 Goliad, Texas
-48475 Ward, Texas
-13175 Laurens, Georgia
-21175 Morgan, Kentucky
-16075 Payette, Idaho
-28075 Lauderdale, Mississippi
-6075 San Francisco, California
-26075 Jackson, Michigan
-55075 Marinette, Wisconsin
-47175 Van Buren, Tennessee
-1075 Lamar, Alabama
-20175 Seward, Kansas
-54075 Pocahontas, West Virginia
-47075 Haywood, Tennessee
-31075 Grant, Nebraska
-39075 Holmes, Ohio
-37075 Graham, North Carolina
-20075 Hamilton, Kansas
-39175 Wyandot, Ohio
-45075 Orangeburg, South Carolina
-19175 Union, Iowa
-29175 Randolph, Missouri
-48275 Knox, Texas
-31175 Valley, Nebraska
-13075 Cook, Georgia
-5075 Lawrence, Arkansas
-48075 Childress, Texas
-18175 Washington, Indiana
-51775 Salem City, Virginia
-6077 San Joaquin, California
-19177 Van Buren, Iowa
-40077 Latimer, Oklahoma
-48177 Gonzales, Texas
-29177 Ray, Missouri
-19077 Guthrie, Iowa
-51177 Spotsylvania, Virginia
-54077 Preston, West Virginia
-28077 Lawrence, Mississippi
-37077 Granville, North Carolina
-53077 Yakima, Washington
-31077 Greeley, Nebraska
-55077 Marquette, Wisconsin
-18177 Wayne, Indiana
-17177 Stephenson, Illinois
-20177 Shawnee, Kansas
-47077 Henderson, Tennessee
-30077 Powell, Montana
-38077 Richland, North Dakota
-48277 Lamar, Texas
-51077 Grayson, Virginia
-21177 Muhlenberg, Kentucky
-17077 Jackson, Illinois
-13177 Lee, Georgia
-46077 Kingsbury, South Dakota
-36077 Otsego, New York
-13077 Coweta, Georgia
-48377 Presidio, Texas
-1077 Lauderdale, Alabama
-48477 Washington, Texas
-37177 Tyrrell, North Carolina
-27077 Lake of The Woods, Minnesota
-8077 Mesa, Colorado
-47177 Warren, Tennessee
-22077 Pointe Coupee, Louisiana
-16077 Power, Idaho
-39077 Huron, Ohio
-31177 Washington, Nebraska
-12077 Liberty, Florida
-42077 Lehigh, Pennsylvania
-29077 Greene, Missouri
-13277 Tift, Georgia
-48077 Clay, Texas
-26077 Kalamazoo, Michigan
-21077 Gallatin, Kentucky
-18077 Jefferson, Indiana
-5077 Lee, Arkansas
-20077 Harper, Kansas
-45077 Pickens, South Carolina
-51678 Lexington City, Virginia
-55078 Menominee, Wisconsin
-31179 Wayne, Nebraska
-40079 Le Flore, Oklahoma
-47079 Henry, Tennessee
-20079 Harvey, Kansas
-18179 Wells, Indiana
-19079 Hamilton, Iowa
-29079 Grundy, Missouri
-27079 Le Sueur, Minnesota
-17179 Tazewell, Illinois
-26079 Kalkaska, Michigan
-17079 Jasper, Illinois
-42079 Luzerne, Pennsylvania
-21079 Garrard, Kentucky
-21179 Nelson, Kentucky
-8079 Mineral, Colorado
-20179 Sheridan, Kansas
-38079 Rolette, North Dakota
-6079 San Luis Obispo, California
-29179 Reynolds, Missouri
-16079 Shoshone, Idaho
-31079 Hall, Nebraska
-18079 Jennings, Indiana
-5079 Lincoln, Arkansas
-13079 Crawford, Georgia
-30079 Prairie, Montana
-36079 Putnam, New York
-46079 Lake, South Dakota
-48479 Webb, Texas
-13279 Toombs, Georgia
-37179 Union, North Carolina
-19179 Wapello, Iowa
-1079 Lawrence, Alabama
-28079 Leake, Mississippi
-51179 Stafford, Virginia
-37079 Greene, North Carolina
-12079 Madison, Florida
-39079 Jackson, Ohio
-48179 Gray, Texas
-55079 Milwaukee, Wisconsin
-47179 Washington, Tennessee
-48379 Rains, Texas
-48079 Cochran, Texas
-54079 Putnam, West Virginia
-51079 Greene, Virginia
-13179 Liberty, Georgia
-45079 Richland, South Carolina
-22079 Rapides, Louisiana
-48279 Lamb, Texas
-51780 South Boston City, Virginia
-2280 Wrangell Petersburg, Alaska
-2180 Nome, Alaska
-51580 Covington City, Virginia
-51680 Lynchburg City, Virginia
-47181 Wayne, Tennessee
-18181 White, Indiana
-48181 Grayson, Texas
-1081 Lee, Alabama
-17181 Union, Illinois
-28081 Lee, Mississippi
-39081 Jefferson, Ohio
-6081 San Mateo, California
-22081 Red River, Louisiana
-21181 Nicholas, Kentucky
-19081 Hancock, Iowa
-46081 Lawrence, South Dakota
-12081 Manatee, Florida
-48481 Wharton, Texas
-19181 Warren, Iowa
-55081 Monroe, Wisconsin
-48281 Lampasas, Texas
-48081 Coke, Texas
-17081 Jefferson, Illinois
-29081 Harrison, Missouri
-36081 Queens, New York
-37181 Vance, North Carolina
-29181 Ripley, Missouri
-13181 Lincoln, Georgia
-37081 Guilford, North Carolina
-51181 Surry, Virginia
-47081 Hickman, Tennessee
-48381 Randall, Texas
-26081 Kent, Michigan
-38081 Sargent, North Dakota
-13081 Crisp, Georgia
-21081 Grant, Kentucky
-31181 Webster, Nebraska
-27081 Lincoln, Minnesota
-8081 Moffat, Colorado
-5081 Little River, Arkansas
-30081 Ravalli, Montana
-54081 Raleigh, West Virginia
-51081 Greensville, Virginia
-16081 Teton, Idaho
-13281 Towns, Georgia
-18081 Johnson, Indiana
-20181 Sherman, Kansas
-31081 Hamilton, Nebraska
-45081 Saluda, South Carolina
-20081 Haskell, Kansas
-42081 Lycoming, Pennsylvania
-40081 Lincoln, Oklahoma
-2282 Yakutat, Alaska
-37083 Halifax, North Carolina
-54083 Randolph, West Virginia
-36083 Rensselaer, New York
-22083 Richland, Louisiana
-46083 Lincoln, South Dakota
-18183 Whitley, Indiana
-21183 Ohio, Kentucky
-29083 Henry, Missouri
-30083 Richland, Montana
-48483 Wheeler, Texas
-12083 Marion, Florida
-19083 Hardin, Iowa
-6083 Santa Barbara, California
-47083 Houston, Tennessee
-48383 Reagan, Texas
-27083 Lyon, Minnesota
-55083 Oconto, Wisconsin
-31183 Wheeler, Nebraska
-42083 McKean, Pennsylvania
-31083 Harlan, Nebraska
-48283 La Salle, Texas
-17183 Vermilion, Illinois
-20183 Smith, Kansas
-39083 Knox, Ohio
-37183 Wake, North Carolina
-47183 Weakley, Tennessee
-29183 St Charles, Missouri
-51683 Manassas City, Virginia
-28083 Leflore, Mississippi
-5083 Logan, Arkansas
-48183 Gregg, Texas
-1083 Limestone, Alabama
-22085 Sabine, Louisiana
-13085 Dawson, Georgia
-48085 Collin, Texas
-36085 Richmond, New York
-18085 Kosciusko, Indiana
-30085 Roosevelt, Montana
-39085 Lake, Ohio
-37185 Warren, North Carolina
-27085 McLeod, Minnesota
-29085 Hickory, Missouri
-16085 Valley, Idaho
-19185 Wayne, Iowa
-47085 Humphreys, Tennessee
-21185 Oldham, Kentucky
-37085 Harnett, North Carolina
-1085 Lowndes, Alabama
-29185 St Clair, Missouri
-48285 Lavaca, Texas
-40085 Love, Oklahoma
-2185 North Slope, Alaska
-31185 York, Nebraska
-48385 Real, Texas
-12085 Martin, Florida
-28085 Lincoln, Mississippi
-20185 Stafford, Kansas
-17185 Wabash, Illinois
-13285 Troup, Georgia
-45085 Sumter, South Carolina
-46085 Lyman, South Dakota
-47185 White, Tennessee
-21085 Grayson, Kentucky
-31085 Hayes, Nebraska
-48485 Wichita, Texas
-20085 Jackson, Kansas
-38085 Sioux, North Dakota
-6085 Santa Clara, California
-51185 Tazewell, Virginia
-51685 Manassas Park City, Virginia
-48185 Grimes, Texas
-54085 Ritchie, West Virginia
-19085 Harrison, Iowa
-13185 Lowndes, Georgia
-55085 Oneida, Wisconsin
-42085 Mercer, Pennsylvania
-5085 Lonoke, Arkansas
-17085 Jo Daviess, Illinois
-26085 Lake, Michigan
-8085 Montrose, Colorado
-51085 Hanover, Virginia
-29186 Ste Genevieve, Missouri
-12086 Miami-Dade, Florida
-21087 Green, Kentucky
-46087 McCook, South Dakota
-54087 Roane, West Virginia
-39087 Lawrence, Ohio
-38087 Slope, North Dakota
-28087 Lowndes, Mississippi
-48087 Collingsworth, Texas
-13287 Turner, Georgia
-37087 Haywood, North Carolina
-17087 Johnson, Illinois
-26087 Lapeer, Michigan
-29187 St Francois, Missouri
-6087 Santa Cruz, California
-20087 Jefferson, Kansas
-31087 Hitchcock, Nebraska
-19187 Webster, Iowa
-48387 Red River, Texas
-29087 Holt, Missouri
-13087 Decatur, Georgia
-12087 Monroe, Florida
-17187 Warren, Illinois
-37187 Washington, North Carolina
-8087 Morgan, Colorado
-1087 Macon, Alabama
-55087 Outagamie, Wisconsin
-36087 Rockland, New York
-21187 Owen, Kentucky
-47087 Jackson, Tennessee
-48287 Lee, Texas
-22087 St Bernard, Louisiana
-13187 Lumpkin, Georgia
-51087 Henrico, Virginia
-19087 Henry, Iowa
-5087 Madison, Arkansas
-42087 Mifflin, Pennsylvania
-40087 Mcclain, Oklahoma
-48487 Wilbarger, Texas
-20187 Stanton, Kansas
-30087 Rosebud, Montana
-47187 Williamson, Tennessee
-16087 Washington, Idaho
-45087 Union, South Carolina
-27087 Mahnomen, Minnesota
-51187 Warren, Virginia
-48187 Guadalupe, Texas
-18087 Lagrange, Indiana
-2188 Northwest Arctic, Alaska
-27089 Marshall, Minnesota
-47089 Jefferson, Tennessee
-5089 Marion, Arkansas
-20189 Stevens, Kansas
-40089 McCurtain, Oklahoma
-54089 Summers, West Virginia
-1089 Madison, Alabama
-48189 Hale, Texas
-31089 Holt, Nebraska
-47189 Wilson, Tennessee
-17189 Washington, Illinois
-38089 Stark, North Dakota
-29089 Howard, Missouri
-19089 Howard, Iowa
-28089 Madison, Mississippi
-55089 Ozaukee, Wisconsin
-13289 Twiggs, Georgia
-22089 St Charles, Louisiana
-37089 Henderson, North Carolina
-39089 Licking, Ohio
-48289 Leon, Texas
-45089 Williamsburg, South Carolina
-13089 De Kalb, Georgia
-48089 Colorado, Texas
-12089 Nassau, Florida
-36089 St Lawrence, New York
-21189 Owsley, Kentucky
-42089 Monroe, Pennsylvania
-51089 Henry, Virginia
-46089 McPherson, South Dakota
-37189 Watauga, North Carolina
-18089 Lake, Indiana
-29189 St Louis, Missouri
-48389 Reeves, Texas
-6089 Shasta, California
-21089 Greenup, Kentucky
-48489 Willacy, Texas
-13189 McDuffie, Georgia
-26089 Leelanau, Michigan
-19189 Winnebago, Iowa
-8089 Otero, Colorado
-20089 Jewell, Kansas
-30089 Sanders, Montana
-17089 Kane, Illinois
-2090 Fairbanks North Star, Alaska
-2290 Yukon Koyukuk, Alaska
-51690 Martinsville City, Virginia
-51590 Danville City, Virginia
-51790 Staunton City, Virginia
-18091 La Porte, Indiana
-13091 Dodge, Georgia
-6091 Sierra, California
-12091 Okaloosa, Florida
-54091 Taylor, West Virginia
-46091 Marshall, South Dakota
-40091 McIntosh, Oklahoma
-19091 Humboldt, Iowa
-28091 Marion, Mississippi
-13291 Union, Georgia
-51191 Washington, Virginia
-48091 Comal, Texas
-8091 Ouray, Colorado
-5091 Miller, Arkansas
-19191 Winneshiek, Iowa
-38091 Steele, North Dakota
-8099 Prowers, Colorado
-55091 Pepin, Wisconsin
-22091 St Helena, Louisiana
-48391 Refugio, Texas
-42091 Montgomery, Pennsylvania
-20193 Thomas, Kansas
-46093 Meade, South Dakota
-21093 Hardin, Kentucky
-38093 Stutsman, North Dakota
-51193 Westmoreland, Virginia
-31093 Howard, Nebraska
-1093 Marion, Alabama
-42093 Montour, Pennsylvania
-36093 Schenectady, New York
-48293 Limestone, Texas
-55093 Pierce, Wisconsin
-19193 Woodbury, Iowa
-47093 Knox, Tennessee
-48193 Hamilton, Texas
-22093 St James, Louisiana
-13093 Dooly, Georgia
-5093 Mississippi, Arkansas
-12093 Okeechobee, Florida
-21193 Perry, Kentucky
-6093 Siskiyou, California
-30093 Silver Bow, Montana
-48093 Comanche, Texas
-28093 Marshall, Mississippi
-40093 Major, Oklahoma
-27093 Meeker, Minnesota
-17193 White, Illinois
-51093 Isle of Wight, Virginia
-26093 Livingston, Michigan
-54093 Tucker, West Virginia
-37193 Wilkes, North Carolina
-48393 Roberts, Texas
-18093 Lawrence, Indiana
-20093 Kearny, Kansas
-17093 Kendall, Illinois
-39093 Lorain, Ohio
-13193 Macon, Georgia
-37093 Hoke, North Carolina
-48493 Wilson, Texas
-8093 Park, Colorado
-13293 Upson, Georgia
-29093 Iron, Missouri
-19093 Ida, Iowa
-20195 Trego, Kansas
-48395 Robertson, Texas
-48195 Hansford, Texas
-38095 Towner, North Dakota
-51095 James City, Virginia
-19195 Worth, Iowa
-5095 Monroe, Arkansas
-55095 Polk, Wisconsin
-40095 Marshall, Oklahoma
-21095 Harlan, Kentucky
-21195 Pike, Kentucky
-26095 Luce, Michigan
-36095 Schoharie, New York
-8095 Phillips, Colorado
-48495 Winkler, Texas
-48295 Lipscomb, Texas
-18095 Madison, Indiana
-47095 Lake, Tennessee
-13195 Madison, Georgia
-20095 Kingman, Kansas
-30095 Stillwater, Montana
-19095 Iowa, Iowa
-54095 Tyler, West Virginia
-37095 Hyde, North Carolina
-31095 Jefferson, Nebraska
-13295 Walker, Georgia
-12095 Orange, Florida
-6095 Solano, California
-28095 Monroe, Mississippi
-40099 Murray, Oklahoma
-55097 Portage, Wisconsin
-12097 Osceola, Florida
-29197 Schuyler, Missouri
-38097 Traill, North Dakota
-19197 Wright, Iowa
-27097 Morrison, Minnesota
-20197 Wabaunsee, Kansas
-26097 Mackinac, Michigan
-37097 Iredell, North Carolina
-17097 Lake, Illinois
-39097 Madison, Ohio
-13097 Douglas, Georgia
-47097 Lauderdale, Tennessee
-51197 Wythe, Virginia
-31097 Johnson, Nebraska
-1097 Mobile, Alabama
-17197 Will, Illinois
-48397 Rockwall, Texas
-46097 Miner, South Dakota
-13197 Marion, Georgia
-48097 Cooke, Texas
-21097 Harrison, Kentucky
-6097 Sonoma, California
-18097 Marion, Indiana
-8097 Pitkin, Colorado
-37197 Yadkin, North Carolina
-30097 Sweet Grass, Montana
-20097 Kiowa, Kansas
-48297 Live Oak, Texas
-42097 Northumberland, Pennsylvania
-47099 Lawrence, Tennessee
-55099 Price, Wisconsin
-13299 Ware, Georgia
-55101 Racine, Wisconsin
-37101 Johnston, North Carolina
-12101 Pasco, Florida
-44001 Bristol, Rhode Island
-40001 Adair, Oklahoma
-13001 Appling, Georgia
-19101 Jefferson, Iowa
-55001 Adams, Wisconsin
-48201 Harris, Texas
-41001 Baker, Oregon
-2201 Prince Wales Ketchikan, Alaska
-49001 Beaver, Utah
-33001 Belknap, New Hampshire
-48101 Cottle, Texas
-13101 Echols, Georgia
-13301 Warren, Georgia
-11001 District of Columbia, District of Columbia
-6101 Sutter, California
-48501 Yoakum, Texas
-42101 Philadelphia, Pennsylvania
-40101 Muskogee, Oklahoma
-12001 Alachua, Florida
-18001 Adams, Indiana
-30001 Beaverhead, Montana
-28101 Newton, Mississippi
-4001 Apache, Arizona
-17101 Lawrence, Illinois
-31101 Keith, Nebraska
-22001 Acadia, Louisiana
-27001 Aitkin, Minnesota
-13201 Miller, Georgia
-8001 Adams, Colorado
-17201 Winnebago, Illinois
-15001 Hawaii, Hawaii
-22101 St Mary, Louisiana
-53001 Adams, Washington
-21001 Adair, Kentucky
-46101 Moody, South Dakota
-20101 Lane, Kansas
-48001 Anderson, Texas
-21101 Henderson, Kentucky
-21201 Robertson, Kentucky
-1001 Autauga, Alabama
-39101 Marion, Ohio
-28001 Adams, Mississippi
-48301 Loving, Texas
-54001 Barbour, West Virginia
-51101 King William, Virginia
-38001 Adams, North Dakota
-50001 Addison, Vermont
-26101 Manistee, Michigan
-19001 Adair, Iowa
-8101 Pueblo, Colorado
-5101 Newton, Arkansas
-23001 Androscoggin, Maine
-48401 Rusk, Texas
-36101 Steuben, New York
-37001 Alamance, North Carolina
-56001 Albany, Wyoming
-32001 Churchill, Nevada
-10001 Kent, Delaware
-5001 Arkansas, Arkansas
-20201 Washington, Kansas
-16001 Ada, Idaho
-18101 Martin, Indiana
-25001 Barnstable, Massachusetts
-31001 Adams, Nebraska
-26001 Alcona, Michigan
-17001 Adams, Illinois
-45001 Abbeville, South Carolina
-47101 Lewis, Tennessee
-9001 Fairfield, Connecticut
-51001 Accomack, Virginia
-54101 Webster, West Virginia
-20001 Allen, Kansas
-34001 Atlantic, New Jersey
-39001 Adams, Ohio
-30101 Toole, Montana
-1101 Montgomery, Alabama
-24001 Allegany, Maryland
-6001 Alameda, California
-38101 Ward, North Dakota
-29201 Scott, Missouri
-29001 Adair, Missouri
-36001 Albany, New York
-27101 Murray, Minnesota
-29101 Johnson, Missouri
-19003 Adams, Iowa
-29103 Knox, Missouri
-38103 Wells, North Dakota
-31003 Antelope, Nebraska
-37003 Alexander, North Carolina
-34003 Bergen, New Jersey
-12003 Baker, Florida
-49003 Box Elder, Utah
-39103 Medina, Ohio
-48303 Lubbock, Texas
-51003 Albemarle, Virginia
-44003 Kent, Rhode Island
-18003 Allen, Indiana
-27103 Nicollet, Minnesota
-8103 Rio Blanco, Colorado
-25003 Berkshire, Massachusetts
-28003 Alcorn, Mississippi
-48103 Crane, Texas
-18103 Miami, Indiana
-29003 Andrew, Missouri
-42103 Pike, Pennsylvania
-26103 Marquette, Michigan
-9003 Hartford, Connecticut
-5103 Ouachita, Arkansas
-20003 Anderson, Kansas
-23003 Aroostook, Maine
-41003 Benton, Oregon
-32003 Clark, Nevada
-31103 Keya Paha, Nebraska
-5003 Ashley, Arkansas
-46003 Aurora, South Dakota
-1003 Baldwin, Alabama
-40003 Alfalfa, Oklahoma
-48203 Harrison, Texas
-20103 Leavenworth, Kansas
-6003 Alpine, California
-13103 Effingham, Georgia
-12103 Pinellas, Florida
-8003 Alamosa, Colorado
-50003 Bennington, Vermont
-22003 Allen, Louisiana
-48503 Young, Texas
-30103 Treasure, Montana
-16003 Adams, Idaho
-53003 Asotin, Washington
-55003 Ashland, Wisconsin
-15003 Honolulu, Hawaii
-17003 Alexander, Illinois
-1103 Morgan, Alabama
-38003 Barnes, North Dakota
-46103 Pennington, South Dakota
-54103 Wetzel, West Virginia
-45003 Aiken, South Carolina
-36003 Allegany, New York
-6103 Tehama, California
-21203 Rockcastle, Kentucky
-27003 Anoka, Minnesota
-24003 Anne Arundel, Maryland
-17203 Woodford, Illinois
-13003 Atkinson, Georgia
-48403 Sabine, Texas
-51103 Lancaster, Virginia
-22103 St Tammany, Louisiana
-28103 Noxubee, Mississippi
-17103 Lee, Illinois
-47003 Bedford, Tennessee
-47103 Lincoln, Tennessee
-56003 Big Horn, Wyoming
-55103 Richland, Wisconsin
-39003 Allen, Ohio
-35003 Catron, New Mexico
-4003 Cochise, Arizona
-19103 Johnson, Iowa
-36103 Suffolk, New York
-33003 Carroll, New Hampshire
-30003 Big Horn, Montana
-26003 Alger, Michigan
-21103 Henry, Kentucky
-10003 New Castle, Delaware
-37103 Jones, North Carolina
-21003 Allen, Kentucky
-29203 Shannon, Missouri
-42003 Allegheny, Pennsylvania
-13303 Washington, Georgia
-20203 Wichita, Kansas
-40103 Noble, Oklahoma
-48003 Andrews, Texas
-54003 Berkeley, West Virginia
-31105 Kimball, Nebraska
-19005 Allamakee, Iowa
-54105 Wirt, West Virginia
-12005 Bay, Florida
-13105 Elbert, Georgia
-20005 Atchison, Kansas
-48105 Crockett, Texas
-36105 Sullivan, New York
-51105 Lee, Virginia
-24005 Baltimore, Maryland
-13005 Bacon, Georgia
-21005 Anderson, Kentucky
-50005 Caledonia, Vermont
-26105 Mason, Michigan
-37105 Lee, North Carolina
-8105 Rio Grande, Colorado
-56005 Campbell, Wyoming
-22105 Tangipahoa, Louisiana
-16005 Bannock, Idaho
-34005 Burlington, New Jersey
-30105 Valley, Montana
-46005 Beadle, South Dakota
-26005 Allegan, Michigan
-13305 Wayne, Georgia
-47105 Loudon, Tennessee
-44005 Newport, Rhode Island
-40105 Nowata, Oklahoma
-5005 Baxter, Arkansas
-38005 Benson, North Dakota
-25005 Bristol, Massachusetts
-18005 Bartholomew, Indiana
-4005 Coconino, Arizona
-6105 Trinity, California
-38105 Williams, North Dakota
-27005 Becker, Minnesota
-37005 Alleghany, North Carolina
-46105 Perkins, South Dakota
-40005 Atoka, Oklahoma
-8005 Arapahoe, Colorado
-48305 Lynn, Texas
-17105 Livingston, Illinois
-41005 Clackamas, Oregon
-48505 Zapata, Texas
-51005 Alleghany, Virginia
-55005 Barron, Wisconsin
-13205 Mitchell, Georgia
-21105 Hickman, Kentucky
-35005 Chaves, New Mexico
-31005 Arthur, Nebraska
-36005 Bronx, New York
-29005 Atchison, Missouri
-55105 Rock, Wisconsin
-39005 Ashland, Ohio
-45005 Allendale, South Carolina
-23005 Cumberland, Maine
-17005 Bond, Illinois
-21205 Rowan, Kentucky
-10005 Sussex, Delaware
-28005 Amite, Mississippi
-1005 Barbour, Alabama
-9005 Litchfield, Connecticut
-48405 San Augustine, Texas
-6005 Amador, California
-29205 Shelby, Missouri
-42005 Armstrong, Pennsylvania
-29105 Laclede, Missouri
-47005 Benton, Tennessee
-12105 Polk, Florida
-22005 Ascension, Louisiana
-49005 Cache, Utah
-42105 Potter, Pennsylvania
-20205 Wilson, Kansas
-5105 Perry, Arkansas
-19105 Jones, Iowa
-28105 Oktibbeha, Mississippi
-54005 Boone, West Virginia
-18105 Monroe, Indiana
-48005 Angelina, Texas
-53005 Benton, Washington
-33005 Cheshire, New Hampshire
-32005 Douglas, Nevada
-48205 Hartley, Texas
-27105 Nobles, Minnesota
-1105 Perry, Alabama
-39105 Meigs, Ohio
-20105 Lincoln, Kansas
-30005 Blaine, Montana
-35006 Cibola, New Mexico
-31007 Banner, Nebraska
-23007 Franklin, Maine
-47007 Bledsoe, Tennessee
-13007 Baker, Georgia
-29007 Audrain, Missouri
-21107 Hopkins, Kentucky
-19107 Keokuk, Iowa
-53007 Chelan, Washington
-29107 Lafayette, Missouri
-28107 Panola, Mississippi
-46107 Potter, South Dakota
-54007 Braxton, West Virginia
-29207 Stoddard, Missouri
-22007 Assumption, Louisiana
-38007 Billings, North Dakota
-40107 Okfuskee, Oklahoma
-9007 Middlesex, Connecticut
-54107 Wood, West Virginia
-31107 Knox, Nebraska
-22107 Tensas, Louisiana
-51107 Loudoun, Virginia
-12107 Putnam, Florida
-21207 Russell, Kentucky
-44007 Providence, Rhode Island
-37007 Anson, North Carolina
-33007 Coos, New Hampshire
-6007 Butte, California
-27107 Norman, Minnesota
-48207 Haskell, Texas
-46007 Bennett, South Dakota
-15007 Kauai, Hawaii
-25007 Dukes, Massachusetts
-42007 Beaver, Pennsylvania
-48307 McCulloch, Texas
-21007 Ballard, Kentucky
-5107 Phillips, Arkansas
-48507 Zavala, Texas
-26007 Alpena, Michigan
-36107 Tioga, New York
-8107 Routt, Colorado
-34007 Camden, New Jersey
-39007 Ashtabula, Ohio
-48407 San Jacinto, Texas
-50007 Chittenden, Vermont
-8007 Archuleta, Colorado
-37107 Lenoir, North Carolina
-16007 Bear Lake, Idaho
-41007 Clatsop, Oregon
-40007 Beaver, Oklahoma
-47107 McMinn, Tennessee
-26107 Mecosta, Michigan
-32007 Elko, Nevada
-6107 Tulare, California
-39107 Mercer, Ohio
-18007 Benton, Indiana
-12007 Bradford, Florida
-20207 Woodson, Kansas
-17107 Logan, Illinois
-45007 Anderson, South Carolina
-49007 Carbon, Utah
-55107 Rusk, Wisconsin
-30107 Wheatland, Montana
-30007 Broadwater, Montana
-36007 Broome, New York
-17007 Boone, Illinois
-5007 Benton, Arkansas
-1007 Bibb, Alabama
-13307 Webster, Georgia
-27007 Beltrami, Minnesota
-48107 Crosby, Texas
-56007 Carbon, Wyoming
-20107 Linn, Kansas
-20007 Barber, Kansas
-13207 Monroe, Georgia
-42107 Schuylkill, Pennsylvania
-48007 Aransas, Texas
-19007 Appanoose, Iowa
-35007 Colfax, New Mexico
-1107 Pickens, Alabama
-55007 Bayfield, Wisconsin
-28007 Attala, Mississippi
-13107 Emanuel, Georgia
-18107 Montgomery, Indiana
-4007 Gila, Arizona
-51007 Amelia, Virginia
-46009 Bon Homme, South Dakota
-12109 St Johns, Florida
-8109 Saguache, Colorado
-19109 Kossuth, Iowa
-28009 Benton, Mississippi
-45009 Bamberg, South Carolina
-19009 Audubon, Iowa
-1109 Pike, Alabama
-54009 Brooke, West Virginia
-26109 Menominee, Michigan
-53009 Clallam, Washington
-27009 Benton, Minnesota
-42109 Snyder, Pennsylvania
-48209 Hays, Texas
-31109 Lancaster, Nebraska
-31009 Blaine, Nebraska
-21009 Barren, Kentucky
-30109 Wibaux, Montana
-21209 Scott, Kentucky
-20009 Barton, Kansas
-29109 Lawrence, Missouri
-25009 Essex, Massachusetts
-27109 Olmsted, Minnesota
-36009 Cattaraugus, New York
-13209 Montgomery, Georgia
-48109 Culberson, Texas
-35009 Curry, New Mexico
-13009 Baldwin, Georgia
-41009 Columbia, Oregon
-39009 Athens, Ohio
-13309 Wheeler, Georgia
-50009 Essex, Vermont
-17109 McDonough, Illinois
-20209 Wyandotte, Kansas
-46109 Roberts, South Dakota
-29209 Stone, Missouri
-33009 Grafton, New Hampshire
-36109 Tompkins, New York
-22109 Terrebonne, Louisiana
-39109 Miami, Ohio
-40109 Oklahoma, Oklahoma
-37009 Ashe, North Carolina
-16009 Benewah, Idaho
-47009 Blount, Tennessee
-22009 Avoyelles, Louisiana
-51109 Louisa, Virginia
-20109 Logan, Kansas
-56009 Converse, Wyoming
-54109 Wyoming, West Virginia
-32009 Esmeralda, Nevada
-18009 Blackford, Indiana
-51009 Amherst, Virginia
-48409 San Patricio, Texas
-34009 Cape May, New Jersey
-18109 Morgan, Indiana
-9009 New Haven, Connecticut
-37109 Lincoln, North Carolina
-42009 Bedford, Pennsylvania
-55109 St Croix, Wisconsin
-21109 Jackson, Kentucky
-13109 Evans, Georgia
-48309 McLennan, Texas
-49009 Daggett, Utah
-47109 McNairy, Tennessee
-12009 Brevard, Florida
-38009 Bottineau, North Dakota
-44009 Washington, Rhode Island
-28109 Pearl River, Mississippi
-6109 Tuolumne, California
-24009 Calvert, Maryland
-29009 Barry, Missouri
-26009 Antrim, Michigan
-6009 Calaveras, California
-5009 Boone, Arkansas
-1009 Blount, Alabama
-30009 Carbon, Montana
-4009 Graham, Arizona
-23009 Hancock, Maine
-5109 Pike, Arkansas
-17009 Brown, Illinois
-15009 Maui, Hawaii
-48009 Archer, Texas
-8009 Baca, Colorado
-55009 Brown, Wisconsin
-40009 Beckham, Oklahoma
-32510 Carson City, Nevada
-2110 Juneau, Alaska
-51710 Norfolk City, Virginia
-51810 Virginia Beach City, Virginia
-24510 Baltimore City, Maryland
-51510 Alexandria City, Virginia
-51610 Falls Church City, Virginia
-29510 St Louis City, Missouri
-31011 Boone, Nebraska
-19011 Benton, Iowa
-48311 McMullen, Texas
-22011 Beauregard, Louisiana
-55111 Sauk, Wisconsin
-9011 New London, Connecticut
-26011 Arenac, Michigan
-35011 De Baca, New Mexico
-21211 Shelby, Kentucky
-21111 Jefferson, Kentucky
-17111 McHenry, Illinois
-28111 Perry, Mississippi
-42111 Somerset, Pennsylvania
-40111 Okmulgee, Oklahoma
-48011 Armstrong, Texas
-22111 Union, Louisiana
-25011 Franklin, Massachusetts
-13111 Fannin, Georgia
-6111 Ventura, California
-51011 Appomattox, Virginia
-27011 Big Stone, Minnesota
-18111 Newton, Indiana
-56011 Crook, Wyoming
-28011 Bolivar, Mississippi
-49011 Davis, Utah
-38011 Bowman, North Dakota
-20111 Lyon, Kansas
-21011 Bath, Kentucky
-36111 Ulster, New York
-45011 Barnwell, South Carolina
-48111 Dallam, Texas
-41011 Coos, Oregon
-33011 Hillsborough, New Hampshire
-27111 Otter Tail, Minnesota
-46111 Sanborn, South Dakota
-47011 Bradley, Tennessee
-53011 Clark, Washington
-29011 Barton, Missouri
-31111 Lincoln, Nebraska
-48411 San Saba, Texas
-39011 Auglaize, Ohio
-6011 Colusa, California
-55011 Buffalo, Wisconsin
-13311 White, Georgia
-30011 Carter, Montana
-24011 Caroline, Maryland
-46011 Brookings, South Dakota
-1011 Bullock, Alabama
-8011 Bent, Colorado
-5111 Poinsett, Arkansas
-37111 McDowell, North Carolina
-34011 Cumberland, New Jersey
-39111 Monroe, Ohio
-17011 Bureau, Illinois
-20011 Bourbon, Kansas
-47111 Macon, Tennessee
-30111 Yellowstone, Montana
-42011 Berks, Pennsylvania
-12011 Broward, Florida
-54011 Cabell, West Virginia
-36011 Cayuga, New York
-13011 Banks, Georgia
-37011 Avery, North Carolina
-13211 Morgan, Georgia
-50011 Franklin, Vermont
-16011 Bingham, Idaho
-29111 Lewis, Missouri
-29211 Sullivan, Missouri
-5011 Bradley, Arkansas
-40011 Blaine, Oklahoma
-48211 Hemphill, Texas
-12111 St Lucie, Florida
-18011 Boone, Indiana
-8111 San Juan, Colorado
-32011 Eureka, Nevada
-23011 Kennebec, Maine
-19111 Lee, Iowa
-26111 Midland, Michigan
-1111 Randolph, Alabama
-4011 Greenlee, Arizona
-51111 Lunenburg, Virginia
-4012 La Paz, Arizona
-5013 Calhoun, Arkansas
-50013 Grand Isle, Vermont
-23013 Knox, Maine
-19113 Linn, Iowa
-42113 Sullivan, Pennsylvania
-32013 Humboldt, Nevada
-51113 Madison, Virginia
-13013 Barrow, Georgia
-21013 Bell, Kentucky
-22113 Vermilion, Louisiana
-29013 Bates, Missouri
-55013 Burnett, Wisconsin
-13313 Whitfield, Georgia
-26113 Missaukee, Michigan
-26013 Baraga, Michigan
-36113 Warren, New York
-5113 Polk, Arkansas
-47113 Madison, Tennessee
-37113 Macon, North Carolina
-19013 Black Hawk, Iowa
-20113 McPherson, Kansas
-27013 Blue Earth, Minnesota
-29213 Taney, Missouri
-1013 Butler, Alabama
-18113 Noble, Indiana
-40013 Bryan, Oklahoma
-36013 Chautauqua, New York
-21213 Simpson, Kentucky
-6113 Yolo, California
-6013 Contra Costa, California
-31013 Box Butte, Nebraska
-40113 Osage, Oklahoma
-35013 Dona Ana, New Mexico
-29113 Lincoln, Missouri
-48313 Madison, Texas
-28013 Calhoun, Mississippi
-51013 Arlington, Virginia
-25013 Hampden, Massachusetts
-12013 Calhoun, Florida
-12113 Santa Rosa, Florida
-49013 Duchesne, Utah
-4013 Maricopa, Arizona
-41013 Crook, Oregon
-54013 Calhoun, West Virginia
-55113 Sawyer, Wisconsin
-38013 Burke, North Dakota
-20013 Brown, Kansas
-39113 Montgomery, Ohio
-48413 Schleicher, Texas
-21113 Jessamine, Kentucky
-46013 Brown, South Dakota
-17013 Calhoun, Illinois
-31113 Logan, Nebraska
-37013 Beaufort, North Carolina
-42013 Blair, Pennsylvania
-2013 Aleutians East, Alaska
-48213 Henderson, Texas
-48013 Atascosa, Texas
-17113 Mclean, Illinois
-33013 Merrimack, New Hampshire
-8113 San Miguel, Colorado
-34013 Essex, New Jersey
-45013 Beaufort, South Carolina
-8013 Boulder, Colorado
-39013 Belmont, Ohio
-9013 Tolland, Connecticut
-48113 Dallas, Texas
-30013 Cascade, Montana
-16013 Blaine, Idaho
-18013 Brown, Indiana
-47013 Campbell, Tennessee
-53013 Columbia, Washington
-24013 Carroll, Maryland
-13113 Fayette, Georgia
-1113 Russell, Alabama
-46113 Shannon, South Dakota
-22013 Bienville, Louisiana
-56013 Fremont, Wyoming
-28113 Pike, Mississippi
-13213 Murray, Georgia
-27113 Pennington, Minnesota
-8014 Broomfield, Colorado
-31115 Loup, Nebraska
-26015 Barry, Michigan
-6015 Del Norte, California
-38015 Burleigh, North Dakota
-6115 Yuba, California
-48115 Dawson, Texas
-23015 Lincoln, Maine
-29115 Linn, Missouri
-32015 Lander, Nevada
-13315 Wilcox, Georgia
-19015 Boone, Iowa
-5115 Pope, Arkansas
-16015 Boise, Idaho
-13115 Floyd, Georgia
-42115 Susquehanna, Pennsylvania
-21015 Boone, Kentucky
-27115 Pine, Minnesota
-8015 Chaffee, Colorado
-17015 Carroll, Illinois
-53015 Cowlitz, Washington
-48315 Marion, Texas
-48015 Austin, Texas
-51015 Augusta, Virginia
-51115 Mathews, Virginia
-5015 Carroll, Arkansas
-37115 Madison, North Carolina
-51515 Bedford City, Virginia
-26115 Monroe, Michigan
-20015 Butler, Kansas
-39115 Morgan, Ohio
-21215 Spencer, Kentucky
-8115 Sedgwick, Colorado
-49015 Emery, Utah
-1015 Calhoun, Alabama
-46115 Spink, South Dakota
-54015 Clay, West Virginia
-25015 Hampshire, Massachusetts
-22115 Vernon, Louisiana
-29215 Texas, Missouri
-48215 Hidalgo, Texas
-12015 Charlotte, Florida
-46015 Brule, South Dakota
-36115 Washington, New York
-55015 Calumet, Wisconsin
-55115 Shawano, Wisconsin
-36015 Chemung, New York
-50015 Lamoille, Vermont
-42015 Bradford, Pennsylvania
-40015 Caddo, Oklahoma
-9015 Windham, Connecticut
-56015 Goshen, Wyoming
-30015 Chouteau, Montana
-20115 Marion, Kansas
-45015 Berkeley, South Carolina
-24015 Cecil, Maryland
-1115 St Clair, Alabama
-40115 Ottawa, Oklahoma
-17115 Macon, Illinois
-39015 Brown, Ohio
-31015 Boyd, Nebraska
-12115 Sarasota, Florida
-27015 Brown, Minnesota
-18115 Ohio, Indiana
-22015 Bossier, Louisiana
-47115 Marion, Tennessee
-37015 Bertie, North Carolina
-34015 Gloucester, New Jersey
-13015 Bartow, Georgia
-35015 Eddy, New Mexico
-28015 Carroll, Mississippi
-4015 Mohave, Arizona
-48415 Scurry, Texas
-47015 Cannon, Tennessee
-33015 Rockingham, New Hampshire
-18015 Carroll, Indiana
-28115 Pontotoc, Mississippi
-21115 Johnson, Kentucky
-41015 Curry, Oregon
-13215 Muscogee, Georgia
-29015 Benton, Missouri
-19115 Louisa, Iowa
-2016 Aleutians West, Alaska
-48117 Deaf Smith, Texas
-18117 Orange, Indiana
-5017 Chicot, Arkansas
-27017 Carlton, Minnesota
-42117 Tioga, Pennsylvania
-5117 Prairie, Arkansas
-54017 Doddridge, West Virginia
-13317 Wilkes, Georgia
-29117 Livingston, Missouri
-29017 Bollinger, Missouri
-21217 Taylor, Kentucky
-38017 Cass, North Dakota
-51117 Mecklenburg, Virginia
-12017 Citrus, Florida
-1017 Chambers, Alabama
-27117 Pipestone, Minnesota
-17017 Cass, Illinois
-22017 Caddo, Louisiana
-53017 Douglas, Washington
-35017 Grant, New Mexico
-24017 Charles, Maryland
-1117 Shelby, Alabama
-45017 Calhoun, South Carolina
-8017 Cheyenne, Colorado
-6017 El Dorado, California
-41017 Deschutes, Oregon
-48417 Shackelford, Texas
-48317 Martin, Texas
-13017 Ben Hill, Georgia
-13217 Newton, Georgia
-47017 Carroll, Tennessee
-21017 Bourbon, Kentucky
-46117 Stanley, South Dakota
-51017 Bath, Virginia
-36017 Chenango, New York
-39117 Morrow, Ohio
-19117 Lucas, Iowa
-40117 Pawnee, Oklahoma
-25017 Middlesex, Massachusetts
-56017 Hot Springs, Wyoming
-31017 Brown, Nebraska
-39017 Butler, Ohio
-12117 Seminole, Florida
-13117 Forsyth, Georgia
-50017 Orange, Vermont
-36117 Wayne, New York
-21117 Kenton, Kentucky
-23017 Oxford, Maine
-30017 Custer, Montana
-18017 Cass, Indiana
-55117 Sheboygan, Wisconsin
-26117 Montcalm, Michigan
-22117 Washington, Louisiana
-49017 Garfield, Utah
-31117 McPherson, Nebraska
-46017 Buffalo, South Dakota
-42017 Bucks, Pennsylvania
-28117 Prentiss, Mississippi
-37017 Bladen, North Carolina
-4017 Navajo, Arizona
-48017 Bailey, Texas
-20117 Marshall, Kansas
-33017 Strafford, New Hampshire
-32017 Lincoln, Nevada
-28017 Chickasaw, Mississippi
-26017 Bay, Michigan
-20017 Chase, Kansas
-8117 Summit, Colorado
-16017 Bonner, Idaho
-47117 Marshall, Tennessee
-34017 Hudson, New Jersey
-19017 Bremer, Iowa
-55017 Chippewa, Wisconsin
-17117 Macoupin, Illinois
-48217 Hill, Texas
-37117 Martin, North Carolina
-29217 Vernon, Missouri
-40017 Canadian, Oklahoma
-27119 Polk, Minnesota
-4019 Pima, Arizona
-13119 Franklin, Georgia
-18019 Clark, Indiana
-6019 Fresno, California
-50019 Orleans, Vermont
-29019 Boone, Missouri
-13019 Berrien, Georgia
-25019 Nantucket, Massachusetts
-5019 Clark, Arkansas
-17019 Champaign, Illinois
-23019 Penobscot, Maine
-37119 Mecklenburg, North Carolina
-31119 Madison, Nebraska
-35019 Guadalupe, New Mexico
-36119 Westchester, New York
-22119 Webster, Louisiana
-20019 Chautauqua, Kansas
-42019 Butler, Pennsylvania
-54019 Fayette, West Virginia
-21119 Knott, Kentucky
-19019 Buchanan, Iowa
-48019 Bandera, Texas
-38019 Cavalier, North Dakota
-47019 Carter, Tennessee
-26019 Benzie, Michigan
-12019 Clay, Florida
-37019 Brunswick, North Carolina
-13319 Wilkinson, Georgia
-39119 Muskingum, Ohio
-48319 Mason, Texas
-20119 Meade, Kansas
-48419 Shelby, Texas
-28019 Choctaw, Mississippi
-55019 Clark, Wisconsin
-53019 Ferry, Washington
-18119 Owen, Indiana
-55119 Taylor, Wisconsin
-21219 Todd, Kentucky
-33019 Sullivan, New Hampshire
-8119 Teller, Colorado
-31019 Buffalo, Nebraska
-47119 Maury, Tennessee
-12119 Sumter, Florida
-1119 Sumter, Alabama
-30019 Daniels, Montana
-51119 Middlesex, Virginia
-46019 Butte, South Dakota
-1019 Cherokee, Alabama
-24019 Dorchester, Maryland
-48119 Delta, Texas
-32019 Lyon, Nevada
-5119 Pulaski, Arkansas
-46119 Sully, South Dakota
-29119 Mcdonald, Missouri
-19119 Lyon, Iowa
-49019 Grand, Utah
-21019 Boyd, Kentucky
-45019 Charleston, South Carolina
-41019 Douglas, Oregon
-16019 Bonneville, Idaho
-22019 Calcasieu, Louisiana
-39019 Carroll, Ohio
-34019 Hunterdon, New Jersey
-13219 Oconee, Georgia
-42119 Union, Pennsylvania
-48219 Hockley, Texas
-28119 Quitman, Mississippi
-29219 Warren, Missouri
-56019 Johnson, Wyoming
-8019 Clear Creek, Colorado
-27019 Carver, Minnesota
-40019 Carter, Oklahoma
-17119 Madison, Illinois
-51019 Bedford, Virginia
-26119 Montmorency, Michigan
-40119 Payne, Oklahoma
-36019 Clinton, New York
-51620 Franklin City, Virginia
-51520 Bristol City, Virginia
-51820 Waynesboro City, Virginia
-2220 Sitka, Alaska
-51720 Norton City, Virginia
-2020 Anchorage, Alaska
-55121 Trempealeau, Wisconsin
-20021 Cherokee, Kansas
-19121 Madison, Iowa
-36121 Wyoming, New York
-48321 Matagorda, Texas
-56021 Laramie, Wyoming
-55021 Columbia, Wisconsin
-32021 Mineral, Nevada
-40121 Pittsburg, Oklahoma
-27021 Cass, Minnesota
-49021 Iron, Utah
-18021 Clay, Indiana
-47121 Meigs, Tennessee
-26121 Muskegon, Michigan
-36021 Columbia, New York
-46021 Campbell, South Dakota
-5021 Clay, Arkansas
-8121 Washington, Colorado
-22021 Caldwell, Louisiana
-37021 Buncombe, North Carolina
-29121 Macon, Missouri
-42021 Cambria, Pennsylvania
-50021 Rutland, Vermont
-39121 Noble, Ohio
-35021 Harding, New Mexico
-37121 Mitchell, North Carolina
-53021 Franklin, Washington
-48221 Hood, Texas
-34021 Mercer, New Jersey
-13221 Oglethorpe, Georgia
-48421 Sherman, Texas
-47021 Cheatham, Tennessee
-25021 Norfolk, Massachusetts
-19021 Buena Vista, Iowa
-6021 Glenn, California
-48121 Denton, Texas
-39021 Champaign, Ohio
-42121 Venango, Pennsylvania
-18121 Parke, Indiana
-40021 Cherokee, Oklahoma
-17121 Marion, Illinois
-22121 West Baton Rouge, Louisiana
-21121 Knox, Kentucky
-13121 Fulton, Georgia
-16021 Boundary, Idaho
-28021 Claiborne, Mississippi
-21221 Trigg, Kentucky
-1021 Chilton, Alabama
-4021 Pinal, Arizona
-31021 Burt, Nebraska
-8021 Conejos, Colorado
-45021 Cherokee, South Carolina
-12021 Collier, Florida
-29021 Buchanan, Missouri
-51121 Montgomery, Virginia
-23021 Piscataquis, Maine
-24021 Frederick, Maryland
-28121 Rankin, Mississippi
-26021 Berrien, Michigan
-20121 Miami, Kansas
-13321 Worth, Georgia
-48021 Bastrop, Texas
-51021 Bland, Virginia
-29221 Washington, Missouri
-46121 Todd, South Dakota
-27121 Pope, Minnesota
-1121 Talladega, Alabama
-30021 Dawson, Montana
-21021 Boyle, Kentucky
-41021 Gilliam, Oregon
-54021 Gilmer, West Virginia
-17021 Christian, Illinois
-5121 Randolph, Arkansas
-31121 Merrick, Nebraska
-13021 Bibb, Georgia
-12121 Suwannee, Florida
-38021 Dickey, North Dakota
-2122 Kenai Peninsula, Alaska
-48023 Baylor, Texas
-42123 Warren, Pennsylvania
-28023 Clarke, Mississippi
-19123 Mahaska, Iowa
-32023 Nye, Nevada
-51023 Botetourt, Virginia
-5123 St Francis, Arkansas
-31023 Butler, Nebraska
-39023 Clark, Ohio
-26023 Branch, Michigan
-17023 Clark, Illinois
-19023 Butler, Iowa
-37023 Burke, North Carolina
-5023 Cleburne, Arkansas
-13223 Paulding, Georgia
-48423 Smith, Texas
-24023 Garrett, Maryland
-22123 West Carroll, Louisiana
-46023 Charles Mix, South Dakota
-12123 Taylor, Florida
-25023 Plymouth, Massachusetts
-48123 De Witt, Texas
-53023 Garfield, Washington
-13023 Bleckley, Georgia
-55023 Crawford, Wisconsin
-18123 Perry, Indiana
-27123 Ramsey, Minnesota
-49023 Juab, Utah
-39123 Ottawa, Ohio
-42023 Cameron, Pennsylvania
-21123 Larue, Kentucky
-23023 Sagadahoc, Maine
-17123 Marshall, Illinois
-48323 Maverick, Texas
-4023 Santa Cruz, Arizona
-21023 Bracken, Kentucky
-8123 Weld, Colorado
-41023 Grant, Oregon
-45023 Chester, South Carolina
-38023 Divide, North Dakota
-12023 Columbia, Florida
-50023 Washington, Vermont
-26123 Newaygo, Michigan
-27023 Chippewa, Minnesota
-40123 Pontotoc, Oklahoma
-36123 Yates, New York
-31123 Morrill, Nebraska
-29123 Madison, Missouri
-40023 Choctaw, Oklahoma
-46123 Tripp, South Dakota
-28123 Scott, Mississippi
-55123 Vernon, Wisconsin
-22023 Cameron, Louisiana
-34023 Middlesex, New Jersey
-1023 Choctaw, Alabama
-13123 Gilmer, Georgia
-48223 Hopkins, Texas
-29223 Wayne, Missouri
-29023 Butler, Missouri
-36023 Cortland, New York
-18023 Clinton, Indiana
-54023 Grant, West Virginia
-16023 Butte, Idaho
-37123 Montgomery, North Carolina
-8023 Costilla, Colorado
-6023 Humboldt, California
-30023 Deer Lodge, Montana
-35023 Hidalgo, New Mexico
-56023 Lincoln, Wyoming
-20023 Cheyenne, Kansas
-47023 Chester, Tennessee
-21223 Trimble, Kentucky
-1123 Tallapoosa, Alabama
-20123 Mitchell, Kansas
-47123 Monroe, Tennessee
-18125 Pike, Indiana
-34025 Monmouth, New Jersey
-35025 Lea, New Mexico
-48425 Somervell, Texas
-45025 Chesterfield, South Carolina
-16025 Camas, Idaho
-12125 Union, Florida
-39025 Clermont, Ohio
-23025 Somerset, Maine
-26125 Oakland, Michigan
-51025 Brunswick, Virginia
-48125 Dickens, Texas
-21125 Laurel, Kentucky
-25025 Suffolk, Massachusetts
-27125 Red Lake, Minnesota
-49025 Kane, Utah
-47025 Claiborne, Tennessee
-17025 Clay, Illinois
-48225 Houston, Texas
-5125 Saline, Arkansas
-39125 Paulding, Ohio
-42125 Washington, Pennsylvania
-56025 Natrona, Wyoming
-19125 Marion, Iowa
-22125 West Feliciana, Louisiana
-31125 Nance, Nebraska
-27025 Chisago, Minnesota
-29225 Webster, Missouri
-47125 Montgomery, Tennessee
-17125 Mason, Illinois
-40125 Pottawatomie, Oklahoma
-28025 Clay, Mississippi
-5025 Cleveland, Arkansas
-51125 Nelson, Virginia
-28125 Sharkey, Mississippi
-40025 Cimarron, Oklahoma
-8025 Crowley, Colorado
-55125 Vilas, Wisconsin
-36025 Delaware, New York
-53025 Grant, Washington
-1025 Clarke, Alabama
-50025 Windham, Vermont
-13125 Glascock, Georgia
-42025 Carbon, Pennsylvania
-48025 Bee, Texas
-20025 Clark, Kansas
-18025 Crawford, Indiana
-13225 Peach, Georgia
-37125 Moore, North Carolina
-41025 Harney, Oregon
-21025 Breathitt, Kentucky
-54025 Greenbrier, West Virginia
-8125 Yuma, Colorado
-24025 Harford, Maryland
-1125 Tuscaloosa, Alabama
-29025 Caldwell, Missouri
-20125 Montgomery, Kansas
-55025 Dane, Wisconsin
-26025 Calhoun, Michigan
-46025 Clark, South Dakota
-13025 Brantley, Georgia
-6025 Imperial, California
-22025 Catahoula, Louisiana
-4025 Yavapai, Arizona
-30025 Fallon, Montana
-21225 Union, Kentucky
-38025 Dunn, North Dakota
-29125 Maries, Missouri
-37025 Cabarrus, North Carolina
-46125 Turner, South Dakota
-48325 Medina, Texas
-19025 Calhoun, Iowa
-31025 Cass, Nebraska
-37027 Caldwell, North Carolina
-56027 Niobrara, Wyoming
-21227 Warren, Kentucky
-13027 Brooks, Georgia
-18027 Daviess, Indiana
-1127 Walker, Alabama
-53027 Grays Harbor, Washington
-29227 Worth, Missouri
-36027 Dutchess, New York
-49027 Millard, Utah
-27027 Clay, Minnesota
-20127 Morris, Kansas
-29027 Callaway, Missouri
-48027 Bell, Texas
-21127 Lawrence, Kentucky
-8027 Custer, Colorado
-28127 Simpson, Mississippi
-22027 Claiborne, Louisiana
-1027 Clay, Alabama
-17127 Massac, Illinois
-46127 Union, South Dakota
-17027 Clinton, Illinois
-20027 Clay, Kansas
-50027 Windsor, Vermont
-13227 Pickens, Georgia
-48127 Dimmit, Texas
-4027 Yuma, Arizona
-26127 Oceana, Michigan
-18127 Porter, Indiana
-5027 Columbia, Arkansas
-42027 Centre, Pennsylvania
-37127 Nash, North Carolina
-27127 Redwood, Minnesota
-6027 Inyo, California
-34027 Morris, New Jersey
-26027 Cass, Michigan
-47127 Moore, Tennessee
-21027 Breckinridge, Kentucky
-48327 Menard, Texas
-54027 Hampshire, West Virginia
-55127 Walworth, Wisconsin
-48427 Starr, Texas
-46027 Clay, South Dakota
-39027 Clinton, Ohio
-5127 Scott, Arkansas
-32027 Pershing, Nevada
-25027 Worcester, Massachusetts
-51027 Buchanan, Virginia
-40027 Cleveland, Oklahoma
-45027 Clarendon, South Carolina
-30027 Fergus, Montana
-13127 Glynn, Georgia
-12027 De Soto, Florida
-35027 Lincoln, New Mexico
-19027 Carroll, Iowa
-23027 Waldo, Maine
-16027 Canyon, Idaho
-12127 Volusia, Florida
-51127 New Kent, Virginia
-41027 Hood River, Oregon
-42127 Wayne, Pennsylvania
-40127 Pushmataha, Oklahoma
-31027 Cedar, Nebraska
-28027 Coahoma, Mississippi
-38027 Eddy, North Dakota
-39127 Perry, Ohio
-19127 Marshall, Iowa
-55027 Dodge, Wisconsin
-31127 Nemaha, Nebraska
-48227 Howard, Texas
-47027 Clay, Tennessee
-22127 Winn, Louisiana
-24027 Howard, Maryland
-29127 Marion, Missouri
-35028 Los Alamos, New Mexico
-13129 Gordon, Georgia
-17029 Coles, Illinois
-28129 Smith, Mississippi
-30029 Flathead, Montana
-22029 Concordia, Louisiana
-49029 Morgan, Utah
-21029 Bullitt, Kentucky
-46129 Walworth, South Dakota
-29229 Wright, Missouri
-21129 Lee, Kentucky
-40029 Coal, Oklahoma
-27029 Clearwater, Minnesota
-42029 Chester, Pennsylvania
-31129 Nuckolls, Nebraska
-41029 Jackson, Oregon
-27129 Renville, Minnesota
-8029 Delta, Colorado
-37029 Camden, North Carolina
-55129 Washburn, Wisconsin
-39129 Pickaway, Ohio
-54029 Hancock, West Virginia
-13029 Bryan, Georgia
-47129 Morgan, Tennessee
-35029 Luna, New Mexico
-26129 Ogemaw, Michigan
-19129 Mills, Iowa
-37129 New Hanover, North Carolina
-20129 Morton, Kansas
-21229 Washington, Kentucky
-39029 Columbiana, Ohio
-12029 Dixie, Florida
-29029 Camden, Missouri
-36029 Erie, New York
-1029 Cleburne, Alabama
-48129 Donley, Texas
-12129 Wakulla, Florida
-26029 Charlevoix, Michigan
-16029 Caribou, Idaho
-55029 Door, Wisconsin
-20029 Cloud, Kansas
-23029 Washington, Maine
-18029 Dearborn, Indiana
-6029 Kern, California
-46029 Codington, South Dakota
-24029 Kent, Maryland
-32029 Storey, Nevada
-48229 Hudspeth, Texas
-45029 Colleton, South Carolina
-18129 Posey, Indiana
-42129 Westmoreland, Pennsylvania
-31029 Chase, Nebraska
-5029 Conway, Arkansas
-48329 Midland, Texas
-51029 Buckingham, Virginia
-1129 Washington, Alabama
-19029 Cass, Iowa
-47029 Cocke, Tennessee
-56029 Park, Wyoming
-34029 Ocean, New Jersey
-28029 Copiah, Mississippi
-40129 Roger Mills, Oklahoma
-38029 Emmons, North Dakota
-5129 Searcy, Arkansas
-17129 Menard, Illinois
-13229 Pierce, Georgia
-29129 Mercer, Missouri
-48029 Bexar, Texas
-48429 Stephens, Texas
-53029 Island, Washington
-2130 Ketchikan Gateway, Alaska
-51530 Buena Vista City, Virginia
-51830 Williamsburg City, Virginia
-51630 Fredericksburg City, Virginia
-51730 Petersburg City, Virginia
-20031 Coffey, Kansas
-48031 Blanco, Texas
-1131 Wilcox, Alabama
-55131 Washington, Wisconsin
-47031 Coffee, Tennessee
-29131 Miller, Missouri
-29031 Cape Girardeau, Missouri
-17131 Mercer, Illinois
-1031 Coffee, Alabama
-42031 Clarion, Pennsylvania
-13231 Pike, Georgia
-26131 Ontonagon, Michigan
-32031 Washoe, Nevada
-5131 Sebastian, Arkansas
-19131 Mitchell, Iowa
-28131 Stone, Mississippi
-39031 Coshocton, Ohio
-6031 Kings, California
-45031 Darlington, South Carolina
-40031 Comanche, Oklahoma
-55031 Douglas, Wisconsin
-35031 Mckinley, New Mexico
-8031 Denver, Colorado
-18031 Decatur, Indiana
-21131 Leslie, Kentucky
-49031 Piute, Utah
-56031 Platte, Wyoming
-30031 Gallatin, Montana
-13031 Bulloch, Georgia
-27031 Cook, Minnesota
-39131 Pike, Ohio
-27131 Rice, Minnesota
-48331 Milam, Texas
-17031 Cook, Illinois
-16031 Cassia, Idaho
-23031 York, Maine
-31131 Otoe, Nebraska
-21231 Wayne, Kentucky
-12031 Duval, Florida
-5031 Craighead, Arkansas
-11031 Montgomery, District of Columbia
-13131 Grady, Georgia
-18131 Pulaski, Indiana
-36031 Essex, New York
-41031 Jefferson, Oregon
-31031 Cherry, Nebraska
-42131 Wyoming, Pennsylvania
-34031 Passaic, New Jersey
-21031 Butler, Kentucky
-24031 Montgomery, Maryland
-26031 Cheboygan, Michigan
-40131 Rogers, Oklahoma
-51131 Northampton, Virginia
-12131 Walton, Florida
-48131 Duval, Texas
-48431 Sterling, Texas
-22031 De Soto, Louisiana
-20131 Nemaha, Kansas
-47131 Obion, Tennessee
-38031 Foster, North Dakota
-46031 Corson, South Dakota
-37131 Northampton, North Carolina
-53031 Jefferson, Washington
-48231 Hunt, Texas
-28031 Covington, Mississippi
-37031 Carteret, North Carolina
-51031 Campbell, Virginia
-19031 Cedar, Iowa
-54031 Hardy, West Virginia
-2232 Skagway Hoonah Angoon, Alaska
-49033 Rich, Utah
-19033 Cerro Gordo, Iowa
-40033 Cotton, Oklahoma
-24033 Prince Georges, Maryland
-46033 Custer, South Dakota
-13133 Greene, Georgia
-28133 Sunflower, Mississippi
-45033 Dillon, South Carolina
-39033 Crawford, Ohio
-21033 Caldwell, Kentucky
-12133 Washington, Florida
-31033 Cheyenne, Nebraska
-18033 De Kalb, Indiana
-6033 Lake, California
-48333 Mills, Texas
-20133 Neosho, Kansas
-51133 Northumberland, Virginia
-54033 Harrison, West Virginia
-1133 Winston, Alabama
-55133 Waukesha, Wisconsin
-5033 Crawford, Arkansas
-22033 East Baton Rouge, Louisiana
-34033 Salem, New Jersey
-48433 Stonewall, Texas
-18133 Putnam, Indiana
-48033 Borden, Texas
-8033 Dolores, Colorado
-27133 Rock, Minnesota
-21133 Letcher, Kentucky
-47033 Crockett, Tennessee
-19133 Monona, Iowa
-5133 Sevier, Arkansas
-27033 Cottonwood, Minnesota
-30033 Garfield, Montana
-41033 Josephine, Oregon
-21233 Webster, Kentucky
-35033 Mora, New Mexico
-48233 Hutchinson, Texas
-39133 Portage, Ohio
-17033 Crawford, Illinois
-37033 Caswell, North Carolina
-40133 Seminole, Oklahoma
-37133 Onslow, North Carolina
-13033 Burke, Georgia
-20033 Comanche, Kansas
-12033 Escambia, Florida
-42033 Clearfield, Pennsylvania
-51033 Caroline, Virginia
-26033 Chippewa, Michigan
-29033 Carroll, Missouri
-48133 Eastland, Texas
-13233 Polk, Georgia
-28033 De Soto, Mississippi
-1033 Colbert, Alabama
-38033 Golden Valley, North Dakota
-16033 Clark, Idaho
-55033 Dunn, Wisconsin
-56033 Sheridan, Wyoming
-26133 Osceola, Michigan
-32033 White Pine, Nevada
-42133 York, Pennsylvania
-17133 Monroe, Illinois
-36033 Franklin, New York
-29133 Mississippi, Missouri
-53033 King, Washington
-31133 Pawnee, Nebraska
-47133 Overton, Tennessee
-27135 Roseau, Minnesota
-56035 Sublette, Wyoming
-40135 Sequoyah, Oklahoma
-17035 Cumberland, Illinois
-51035 Carroll, Virginia
-12035 Flagler, Florida
-48135 Ector, Texas
-19035 Cherokee, Iowa
-55035 Eau Claire, Wisconsin
-46035 Davison, South Dakota
-31035 Clay, Nebraska
-24035 Queen Annes, Maryland
-21235 Whitley, Kentucky
-13235 Pulaski, Georgia
-40035 Craig, Oklahoma
-34035 Somerset, New Jersey
-6035 Lassen, California
-21035 Calloway, Kentucky
-42035 Clinton, Pennsylvania
-30035 Glacier, Montana
-46135 Yankton, South Dakota
-26135 Oscoda, Michigan
-55135 Waupaca, Wisconsin
-37135 Orange, North Carolina
-47135 Perry, Tennessee
-18135 Randolph, Indiana
-29135 Moniteau, Missouri
-53035 Kitsap, Washington
-1035 Conecuh, Alabama
-39135 Preble, Ohio
-48035 Bosque, Texas
-45035 Dorchester, South Carolina
-26035 Clare, Michigan
-27035 Crow Wing, Minnesota
-35035 Otero, New Mexico
-13135 Gwinnett, Georgia
-17135 Montgomery, Illinois
-51135 Nottoway, Virginia
-51735 Poquoson City, Virginia
-29035 Carter, Missouri
-28135 Tallahatchie, Mississippi
-48235 Irion, Texas
-8035 Douglas, Colorado
-41035 Klamath, Oregon
-18035 Delaware, Indiana
-37035 Catawba, North Carolina
-54035 Jackson, West Virginia
-49035 Salt Lake, Utah
-5035 Crittenden, Arkansas
-19135 Monroe, Iowa
-47035 Cumberland, Tennessee
-48435 Sutton, Texas
-21135 Lewis, Kentucky
-28035 Forrest, Mississippi
-16035 Clearwater, Idaho
-38035 Grand Forks, North Dakota
-5135 Sharp, Arkansas
-22035 East Carroll, Louisiana
-20035 Cowley, Kansas
-20135 Ness, Kansas
-36035 Fulton, New York
-48335 Mitchell, Texas
-39035 Cuyahoga, Ohio
-31135 Perkins, Nebraska
-13035 Butts, Georgia
-51036 Charles City, Virginia
-1037 Coosa, Alabama
-41037 Lake, Oregon
-39137 Putnam, Ohio
-48137 Edwards, Texas
-31137 Phelps, Nebraska
-39037 Darke, Ohio
-29137 Monroe, Missouri
-35037 Quay, New Mexico
-47037 Davidson, Tennessee
-18037 Dubois, Indiana
-53037 Kittitas, Washington
-46137 Ziebach, South Dakota
-6037 Los Angeles, California
-12037 Franklin, Florida
-48037 Bowie, Texas
-5037 Cross, Arkansas
-38037 Grant, North Dakota
-47137 Pickett, Tennessee
-21037 Campbell, Kentucky
-19037 Chickasaw, Iowa
-30037 Golden Valley, Montana
-21237 Wolfe, Kentucky
-13037 Calhoun, Georgia
-24037 St Marys, Maryland
-26037 Clinton, Michigan
-51137 Orange, Virginia
-37137 Pamlico, North Carolina
-28137 Tate, Mississippi
-18137 Ripley, Indiana
-16037 Custer, Idaho
-55137 Waushara, Wisconsin
-20037 Crawford, Kansas
-40037 Creek, Oklahoma
-54037 Jefferson, West Virginia
-48437 Swisher, Texas
-49037 San Juan, Utah
-27137 St Louis, Minnesota
-28037 Franklin, Mississippi
-13237 Putnam, Georgia
-45037 Edgefield, South Carolina
-56037 Sweetwater, Wyoming
-13137 Habersham, Georgia
-20137 Norton, Kansas
-19137 Montgomery, Iowa
-31037 Colfax, Nebraska
-26137 Otsego, Michigan
-37037 Chatham, North Carolina
-29037 Cass, Missouri
-17137 Morgan, Illinois
-51037 Charlotte, Virginia
-17037 De Kalb, Illinois
-5137 Stone, Arkansas
-46037 Day, South Dakota
-34037 Sussex, New Jersey
-42037 Columbia, Pennsylvania
-8037 Eagle, Colorado
-40137 Stephens, Oklahoma
-55037 Florence, Wisconsin
-36037 Genesee, New York
-22037 East Feliciana, Louisiana
-48237 Jack, Texas
-21137 Lincoln, Kentucky
-48337 Montague, Texas
-27037 Dakota, Minnesota
-17139 Moultrie, Illinois
-20139 Osage, Kansas
-13139 Hall, Georgia
-19039 Clarke, Iowa
-28139 Tippah, Mississippi
-21139 Livingston, Kentucky
-18139 Rush, Indiana
-42039 Crawford, Pennsylvania
-1039 Covington, Alabama
-34039 Union, New Jersey
-48339 Montgomery, Texas
-13039 Camden, Georgia
-54039 Kanawha, West Virginia
-48039 Brazoria, Texas
-49039 Sanpete, Utah
-31139 Pierce, Nebraska
-53039 Klickitat, Washington
-51139 Page, Virginia
-55039 Fond Du Lac, Wisconsin
-56039 Teton, Wyoming
-48439 Tarrant, Texas
-48239 Jackson, Texas
-35039 Rio Arriba, New Mexico
-21239 Woodford, Kentucky
-45039 Fairfield, South Carolina
-26039 Crawford, Michigan
-29039 Cedar, Missouri
-21039 Carlisle, Kentucky
-41039 Lane, Oregon
-24039 Somerset, Maryland
-39039 Defiance, Ohio
-47139 Polk, Tennessee
-36039 Greene, New York
-40139 Texas, Oklahoma
-38039 Griggs, North Dakota
-30039 Granite, Montana
-26139 Ottawa, Michigan
-40039 Custer, Oklahoma
-6039 Madera, California
-17039 Dewitt, Illinois
-5039 Dallas, Arkansas
-5139 Union, Arkansas
-16039 Elmore, Idaho
-37039 Cherokee, North Carolina
-13239 Quitman, Georgia
-8039 Elbert, Colorado
-46039 Deuel, South Dakota
-12039 Gadsden, Florida
-18039 Elkhart, Indiana
-48139 Ellis, Texas
-19139 Muscatine, Iowa
-20039 Decatur, Kansas
-27139 Scott, Minnesota
-22039 Evangeline, Louisiana
-47039 Decatur, Tennessee
-37139 Pasquotank, North Carolina
-28039 George, Mississippi
-29139 Montgomery, Missouri
-31039 Cuming, Nebraska
-55139 Winnebago, Wisconsin
-39139 Richland, Ohio
-27039 Dodge, Minnesota
-51740 Portsmouth City, Virginia
-51540 Charlottesville City, Virginia
-51840 Winchester City, Virginia
-2240 Southeast Fairbanks, Alaska
-51640 Galax City, Virginia
-47141 Putnam, Tennessee
-31141 Platte, Nebraska
-12041 Gilchrist, Florida
-48341 Moore, Texas
-40141 Tillman, Oklahoma
-21141 Logan, Kentucky
-56041 Uinta, Wyoming
-48241 Jasper, Texas
-29141 Morgan, Missouri
-17041 Douglas, Illinois
-5041 Desha, Arkansas
-47041 Dekalb, Tennessee
-49041 Sevier, Utah
-48041 Brazos, Texas
-48141 El Paso, Texas
-41041 Lincoln, Oregon
-37141 Pender, North Carolina
-19141 Obrien, Iowa
-17141 Ogle, Illinois
-27141 Sherburne, Minnesota
-24041 Talbot, Maryland
-53041 Lewis, Washington
-20141 Osborne, Kansas
-38041 Hettinger, North Dakota
-51141 Patrick, Virginia
-21041 Carroll, Kentucky
-42041 Cumberland, Pennsylvania
-30041 Hill, Montana
-16041 Franklin, Idaho
-27041 Douglas, Minnesota
-36041 Hamilton, New York
-31041 Custer, Nebraska
-8041 El Paso, Colorado
-26041 Delta, Michigan
-34041 Warren, New Jersey
-39141 Ross, Ohio
-46041 Dewey, South Dakota
-5141 Van Buren, Arkansas
-19041 Clay, Iowa
-18041 Fayette, Indiana
-55041 Forest, Wisconsin
-37041 Chowan, North Carolina
-55141 Wood, Wisconsin
-18141 St Joseph, Indiana
-29041 Chariton, Missouri
-13141 Hancock, Georgia
-1041 Crenshaw, Alabama
-13241 Rabun, Georgia
-28041 Greene, Mississippi
-54041 Lewis, West Virginia
-48441 Taylor, Texas
-51041 Chesterfield, Virginia
-45041 Florence, South Carolina
-20041 Dickinson, Kansas
-26141 Presque Isle, Michigan
-6041 Marin, California
-22041 Franklin, Louisiana
-40041 Delaware, Oklahoma
-40143 Tulsa, Oklahoma
-13243 Randolph, Georgia
-45043 Georgetown, South Carolina
-20043 Doniphan, Kansas
-27143 Sibley, Minnesota
-18043 Floyd, Indiana
-46043 Douglas, South Dakota
-16043 Fremont, Idaho
-51143 Pittsylvania, Virginia
-5143 Washington, Arkansas
-13043 Candler, Georgia
-21043 Carter, Kentucky
-19043 Clayton, Iowa
-22043 Grant, Louisiana
-53043 Lincoln, Washington
-48243 Jeff Davis, Texas
-48443 Terrell, Texas
-26143 Roscommon, Michigan
-47143 Rhea, Tennessee
-28043 Grenada, Mississippi
-31143 Polk, Nebraska
-6043 Mariposa, California
-17043 Du Page, Illinois
-54043 Lincoln, West Virginia
-39143 Sandusky, Ohio
-12043 Glades, Florida
-31043 Dakota, Nebraska
-18143 Scott, Indiana
-42043 Dauphin, Pennsylvania
-21143 Lyon, Kentucky
-35043 Sandoval, New Mexico
-30043 Jefferson, Montana
-38043 Kidder, North Dakota
-37043 Clay, North Carolina
-28143 Tunica, Mississippi
-51043 Clarke, Virginia
-41043 Linn, Oregon
-48043 Brewster, Texas
-20143 Ottawa, Kansas
-29043 Christian, Missouri
-29143 New Madrid, Missouri
-17143 Peoria, Illinois
-55043 Grant, Wisconsin
-27043 Faribault, Minnesota
-49043 Summit, Utah
-13143 Haralson, Georgia
-40043 Dewey, Oklahoma
-24043 Washington, Maryland
-39043 Erie, Ohio
-48143 Erath, Texas
-5043 Drew, Arkansas
-37143 Perquimans, North Carolina
-8043 Fremont, Colorado
-48343 Morris, Texas
-19143 Osceola, Iowa
-36043 Herkimer, New York
-56043 Washakie, Wyoming
-26043 Dickinson, Michigan
-1043 Cullman, Alabama
-47043 Dickson, Tennessee
-51045 Craig, Virginia
-26145 Saginaw, Michigan
-13145 Harris, Georgia
-18045 Fountain, Indiana
-29145 Newton, Missouri
-5145 White, Arkansas
-48345 Motley, Texas
-41045 Malheur, Oregon
-28045 Hancock, Mississippi
-20045 Douglas, Kansas
-55045 Green, Wisconsin
-39145 Scioto, Ohio
-45045 Greenville, South Carolina
-37045 Cleveland, North Carolina
-48445 Terry, Texas
-22045 Iberia, Louisiana
-17145 Perry, Illinois
-21045 Casey, Kentucky
-40145 Wagoner, Oklahoma
-37145 Person, North Carolina
-13245 Richmond, Georgia
-54045 Logan, West Virginia
-27145 Stearns, Minnesota
-28145 Union, Mississippi
-48045 Briscoe, Texas
-8045 Garfield, Colorado
-36045 Jefferson, New York
-30045 Judith Basin, Montana
-19045 Clinton, Iowa
-48145 Falls, Texas
-56045 Weston, Wyoming
-12045 Gulf, Florida
-26045 Eaton, Michigan
-47145 Roane, Tennessee
-5045 Faulkner, Arkansas
-48245 Jefferson, Texas
-1045 Dale, Alabama
-27045 Fillmore, Minnesota
-53045 Mason, Washington
-16045 Gem, Idaho
-31145 Red Willow, Nebraska
-18145 Shelby, Indiana
-13045 Carroll, Georgia
-39045 Fairfield, Ohio
-51145 Powhatan, Virginia
-6045 Mendocino, California
-20145 Pawnee, Kansas
-17045 Edgar, Illinois
-21145 McCracken, Kentucky
-35045 San Juan, New Mexico
-49045 Tooele, Utah
-38045 Lamoure, North Dakota
-31045 Dawes, Nebraska
-47045 Dyer, Tennessee
-46045 Edmunds, South Dakota
-40045 Ellis, Oklahoma
-19145 Page, Iowa
-24045 Wicomico, Maryland
-29045 Clark, Missouri
-42045 Delaware, Pennsylvania
-27147 Steele, Minnesota
-28047 Harrison, Mississippi
-46047 Fall River, South Dakota
-49047 Uintah, Utah
-42047 Elk, Pennsylvania
-22047 Iberville, Louisiana
-26047 Emmet, Michigan
-37147 Pitt, North Carolina
-29047 Clay, Missouri
-18147 Spencer, Indiana
-19047 Crawford, Iowa
-51047 Culpeper, Virginia
-35047 San Miguel, New Mexico
-39047 Fayette, Ohio
-5147 Woodruff, Arkansas
-13247 Rockdale, Georgia
-17147 Piatt, Illinois
-21147 McCreary, Kentucky
-39147 Seneca, Ohio
-51147 Prince Edward, Virginia
-21047 Christian, Kentucky
-30047 Lake, Montana
-54047 McDowell, West Virginia
-37047 Columbus, North Carolina
-31047 Dawson, Nebraska
-19147 Palo Alto, Iowa
-48447 Throckmorton, Texas
-29147 Nodaway, Missouri
-8047 Gilpin, Colorado
-36047 Kings, New York
-18047 Franklin, Indiana
-41047 Marion, Oregon
-1047 Dallas, Alabama
-40147 Washington, Oklahoma
-48347 Nacogdoches, Texas
-12047 Hamilton, Florida
-13047 Catoosa, Georgia
-24047 Worcester, Maryland
-48147 Fannin, Texas
-38047 Logan, North Dakota
-31147 Richardson, Nebraska
-48247 Jim Hogg, Texas
-47147 Robertson, Tennessee
-20147 Phillips, Kansas
-5047 Franklin, Arkansas
-17047 Edwards, Illinois
-20047 Edwards, Kansas
-26147 St Clair, Michigan
-45047 Greenwood, South Carolina
-16047 Gooding, Idaho
-28147 Walthall, Mississippi
-48047 Brooks, Texas
-53047 Okanogan, Washington
-27047 Freeborn, Minnesota
-47047 Fayette, Tennessee
-40047 Garfield, Oklahoma
-13147 Hart, Georgia
-6047 Merced, California
-55047 Green Lake, Wisconsin
-26049 Genesee, Michigan
-36049 Lewis, New York
-47149 Rutherford, Tennessee
-8049 Grand, Colorado
-13149 Heard, Georgia
-20149 Pottawatomie, Kansas
-48349 Navarro, Texas
-46049 Faulk, South Dakota
-20049 Elk, Kansas
-17049 Effingham, Illinois
-21049 Clark, Kentucky
-40049 Garvin, Oklahoma
-16049 Idaho, Idaho
-30049 Lewis and Clark, Montana
-6049 Modoc, California
-41049 Morrow, Oregon
-54049 Marion, West Virginia
-13049 Charlton, Georgia
-12049 Hardee, Florida
-18149 Starke, Indiana
-51049 Cumberland, Virginia
-40149 Washita, Oklahoma
-21149 Mclean, Kentucky
-49049 Utah, Utah
-48149 Fayette, Texas
-1049 De Kalb, Alabama
-48249 Jim Wells, Texas
-42049 Erie, Pennsylvania
-28049 Hinds, Mississippi
-29049 Clinton, Missouri
-5049 Fulton, Arkansas
-27049 Goodhue, Minnesota
-48449 Titus, Texas
-5149 Yell, Arkansas
-18049 Fulton, Indiana
-37049 Craven, North Carolina
-55049 Iowa, Wisconsin
-39049 Franklin, Ohio
-51149 Prince George, Virginia
-29149 Oregon, Missouri
-48049 Brown, Texas
-31149 Rock, Nebraska
-19049 Dallas, Iowa
-28149 Warren, Mississippi
-39149 Shelby, Ohio
-19149 Plymouth, Iowa
-47049 Fentress, Tennessee
-26149 St Joseph, Michigan
-35049 Santa Fe, New Mexico
-37149 Polk, North Carolina
-27149 Stevens, Minnesota
-38049 McHenry, North Dakota
-17149 Pike, Illinois
-22049 Jackson, Louisiana
-53049 Pacific, Washington
-45049 Hampton, South Carolina
-31049 Deuel, Nebraska
-13249 Schley, Georgia
-51750 Radford, Virginia
-2150 Kodiak Island, Alaska
-51550 Chesapeake City, Virginia
-2050 Bethel, Alaska
-51650 Hampton City, Virginia
-13051 Chatham, Georgia
-42051 Fayette, Pennsylvania
-17151 Pope, Illinois
-5051 Garland, Arkansas
-8051 Gunnison, Colorado
-28051 Holmes, Mississippi
-27151 Swift, Minnesota
-19151 Pocahontas, Iowa
-49051 Wasatch, Utah
-26051 Gladwin, Michigan
-30051 Liberty, Montana
-21151 Madison, Kentucky
-35051 Sierra, New Mexico
-51051 Dickenson, Virginia
-18051 Gibson, Indiana
-41051 Multnomah, Oregon
-45051 Horry, South Carolina
-40051 Grady, Oklahoma
-17051 Fayette, Illinois
-1051 Elmore, Alabama
-54051 Marshall, West Virginia
-46051 Grant, South Dakota
-26151 Sanilac, Michigan
-48251 Johnson, Texas
-19051 Davis, Iowa
-47051 Franklin, Tennessee
-48051 Burleson, Texas
-13251 Screven, Georgia
-48451 Tom Green, Texas
-40151 Woods, Oklahoma
-29151 Osage, Missouri
-39151 Stark, Ohio
-37151 Randolph, North Carolina
-29051 Cole, Missouri
-21051 Clay, Kentucky
-36051 Livingston, New York
-47151 Scott, Tennessee
-39051 Fulton, Ohio
-55051 Iron, Wisconsin
-12051 Hendry, Florida
-53051 Pend Oreille, Washington
-31051 Dixon, Nebraska
-18151 Steuben, Indiana
-13151 Henry, Georgia
-48351 Newton, Texas
-38051 McIntosh, North Dakota
-16051 Jefferson, Idaho
-6051 Mono, California
-37051 Cumberland, North Carolina
-22051 Jefferson, Louisiana
-31151 Saline, Nebraska
-48151 Fisher, Texas
-27051 Grant, Minnesota
-20151 Pratt, Kansas
-20051 Ellis, Kansas
-28151 Washington, Mississippi
-13153 Houston, Georgia
-51053 Dinwiddie, Virginia
-16053 Jerome, Idaho
-20153 Rawlins, Kansas
-55053 Jackson, Wisconsin
-47153 Sequatchie, Tennessee
-42053 Forest, Pennsylvania
-30053 Lincoln, Montana
-29153 Ozark, Missouri
-37053 Currituck, North Carolina
-28053 Humphreys, Mississippi
-49053 Washington, Utah
-8053 Hinsdale, Colorado
-31053 Dodge, Nebraska
-5053 Grant, Arkansas
-13053 Chattahoochee, Georgia
-47053 Gibson, Tennessee
-26153 Schoolcraft, Michigan
-19053 Decatur, Iowa
-38053 Mckenzie, North Dakota
-26053 Gogebic, Michigan
-6053 Monterey, California
-51153 Prince William, Virginia
-28153 Wayne, Mississippi
-39153 Summit, Ohio
-20053 Ellsworth, Kansas
-48453 Travis, Texas
-31153 Sarpy, Nebraska
-48253 Jones, Texas
-1053 Escambia, Alabama
-48153 Floyd, Texas
-21053 Clinton, Kentucky
-17153 Pulaski, Illinois
-37153 Richmond, North Carolina
-36053 Madison, New York
-46053 Gregory, South Dakota
-12053 Hernando, Florida
-13253 Seminole, Georgia
-48053 Burnet, Texas
-19153 Polk, Iowa
-27153 Todd, Minnesota
-35053 Socorro, New Mexico
-54053 Mason, West Virginia
-18153 Sullivan, Indiana
-22053 Jefferson Davis, Louisiana
-48353 Nolan, Texas
-27053 Hennepin, Minnesota
-29053 Cooper, Missouri
-45053 Jasper, South Carolina
-41053 Polk, Oregon
-21153 Magoffin, Kentucky
-53053 Pierce, Washington
-39053 Gallia, Ohio
-40053 Grant, Oklahoma
-18053 Grant, Indiana
-40153 Woodward, Oklahoma
-17053 Ford, Illinois
-19155 Pottawattamie, Iowa
-18055 Greene, Indiana
-46055 Haakon, South Dakota
-38055 Mclean, North Dakota
-48355 Nueces, Texas
-49055 Wayne, Utah
-47155 Sevier, Tennessee
-20155 Reno, Kansas
-13055 Chattooga, Georgia
-12055 Highlands, Florida
-13155 Irwin, Georgia
-13255 Spalding, Georgia
-37055 Dare, North Carolina
-51155 Pulaski, Virginia
-42055 Franklin, Pennsylvania
-55055 Jefferson, Wisconsin
-36055 Monroe, New York
-8055 Huerfano, Colorado
-28155 Webster, Mississippi
-40055 Greer, Oklahoma
-21055 Crittenden, Kentucky
-31155 Saunders, Nebraska
-54055 Mercer, West Virginia
-1055 Etowah, Alabama
-39155 Trumbull, Ohio
-5055 Greene, Arkansas
-30055 McCone, Montana
-19055 Delaware, Iowa
-35055 Taos, New Mexico
-28055 Issaquena, Mississippi
-31055 Douglas, Nebraska
-17055 Franklin, Illinois
-48155 Foard, Texas
-17155 Putnam, Illinois
-29055 Crawford, Missouri
-47055 Giles, Tennessee
-6055 Napa, California
-37155 Robeson, North Carolina
-45055 Kershaw, South Carolina
-41055 Sherman, Oregon
-53055 San Juan, Washington
-48455 Trinity, Texas
-27155 Traverse, Minnesota
-20055 Finney, Kansas
-22055 Lafayette, Louisiana
-18155 Switzerland, Indiana
-16055 Kootenai, Idaho
-39055 Geauga, Ohio
-48255 Karnes, Texas
-48055 Caldwell, Texas
-26055 Grand Traverse, Michigan
-21155 Marion, Kentucky
-26155 Shiawassee, Michigan
-29155 Pemiscot, Missouri
-27055 Houston, Minnesota
-31057 Dundy, Nebraska
-49057 Weber, Utah
-17157 Randolph, Illinois
-8057 Jackson, Colorado
-26057 Gratiot, Michigan
-18057 Hamilton, Indiana
-13057 Cherokee, Georgia
-47057 Grainger, Tennessee
-19057 Des Moines, Iowa
-39157 Tuscarawas, Ohio
-48357 Ochiltree, Texas
-6057 Nevada, California
-37057 Davidson, North Carolina
-35057 Torrance, New Mexico
-21157 Marshall, Kentucky
-22057 Lafourche, Louisiana
-27057 Hubbard, Minnesota
-38057 Mercer, North Dakota
-13157 Jackson, Georgia
-28157 Wilkinson, Mississippi
-36057 Montgomery, New York
-21057 Cumberland, Kentucky
-51157 Rappahannock, Virginia
-29157 Perry, Missouri
-48157 Fort Bend, Texas
-5057 Hempstead, Arkansas
-17057 Fulton, Illinois
-12057 Hillsborough, Florida
-53057 Skagit, Washington
-28057 Itawamba, Mississippi
-48057 Calhoun, Texas
-51057 Essex, Virginia
-40057 Harmon, Oklahoma
-16057 Latah, Idaho
-54057 Mineral, West Virginia
-48457 Tyler, Texas
-37157 Rockingham, North Carolina
-19157 Poweshiek, Iowa
-26157 Tuscola, Michigan
-20157 Republic, Kansas
-41057 Tillamook, Oregon
-1057 Fayette, Alabama
-30057 Madison, Montana
-46057 Hamlin, South Dakota
-31157 Scotts Bluff, Nebraska
-48257 Kaufman, Texas
-29057 Dade, Missouri
-18157 Tippecanoe, Indiana
-27157 Wabasha, Minnesota
-47157 Shelby, Tennessee
-20057 Ford, Kansas
-13257 Stephens, Georgia
-45057 Lancaster, South Carolina
-42057 Fulton, Pennsylvania
-39057 Greene, Ohio
-55057 Juneau, Wisconsin
-26059 Hillsdale, Michigan
-45059 Laurens, South Carolina
-18059 Hancock, Indiana
-13059 Clarke, Georgia
-28059 Jackson, Mississippi
-21059 Daviess, Kentucky
-47159 Smith, Tennessee
-47059 Greene, Tennessee
-17059 Gallatin, Illinois
-8059 Jefferson, Colorado
-13159 Jasper, Georgia
-53059 Skamania, Washington
-17159 Richland, Illinois
-31159 Seward, Nebraska
-37159 Rowan, North Carolina
-36059 Nassau, New York
-20159 Rice, Kansas
-41059 Umatilla, Oregon
-46059 Hand, South Dakota
-48059 Callahan, Texas
-20059 Franklin, Kansas
-38059 Morton, North Dakota
-12059 Holmes, Florida
-48259 Kendall, Texas
-35059 Union, New Mexico
-48159 Franklin, Texas
-30059 Meagher, Montana
-39059 Guernsey, Ohio
-16059 Lemhi, Idaho
-6059 Orange, California
-48459 Upshur, Texas
-29059 Dallas, Missouri
-40059 Harper, Oklahoma
-22059 La Salle, Louisiana
-18159 Tipton, Indiana
-51059 Fairfax, Virginia
-19159 Ringgold, Iowa
-27059 Isanti, Minnesota
-27159 Wadena, Minnesota
-5059 Hot Spring, Arkansas
-19059 Dickinson, Iowa
-31059 Fillmore, Nebraska
-21159 Martin, Kentucky
-55059 Kenosha, Wisconsin
-39159 Union, Ohio
-26159 Van Buren, Michigan
-54059 Mingo, West Virginia
-48359 Oldham, Texas
-29159 Pettis, Missouri
-37059 Davie, North Carolina
-28159 Winston, Mississippi
-51159 Richmond, Virginia
-42059 Greene, Pennsylvania
-1059 Franklin, Alabama
-13259 Stewart, Georgia
-51760 Richmond City, Virginia
-51560 Clifton Forge City, Virginia
-2060 Bristol Bay, Alaska
-51660 Harrisonburg City, Virginia
-2261 Valdez Cordova, Alaska
-12061 Indian River, Florida
-53061 Snohomish, Washington
-29161 Phelps, Missouri
-18061 Harrison, Indiana
-41061 Union, Oregon
-28061 Jasper, Mississippi
-38061 Mountrail, North Dakota
-55061 Kewaunee, Wisconsin
-47061 Grundy, Tennessee
-48061 Cameron, Texas
-54061 Monongalia, West Virginia
-31061 Franklin, Nebraska
-27061 Itasca, Minnesota
-26061 Houghton, Michigan
-13261 Sumter, Georgia
-39061 Hamilton, Ohio
-8061 Kiowa, Colorado
-13161 Jeff Davis, Georgia
-26161 Washtenaw, Michigan
-48461 Upton, Texas
-37061 Duplin, North Carolina
-48361 Orange, Texas
-19061 Dubuque, Iowa
-29061 Daviess, Missouri
-51161 Roanoke, Virginia
-21161 Mason, Kentucky
-18161 Union, Indiana
-20061 Geary, Kansas
-5061 Howard, Arkansas
-39161 Van Wert, Ohio
-16061 Lewis, Idaho
-28161 Yalobusha, Mississippi
-31161 Sheridan, Nebraska
-42061 Huntingdon, Pennsylvania
-1061 Geneva, Alabama
-51061 Fauquier, Virginia
-46061 Hanson, South Dakota
-21061 Edmonson, Kentucky
-48161 Freestone, Texas
-35061 Valencia, New Mexico
-27161 Waseca, Minnesota
-30061 Mineral, Montana
-17061 Greene, Illinois
-20161 Riley, Kansas
-19161 Sac, Iowa
-6061 Placer, California
-37161 Rutherford, North Carolina
-17161 Rock Island, Illinois
-47161 Stewart, Tennessee
-40061 Haskell, Oklahoma
-22061 Lincoln, Louisiana
-13061 Clay, Georgia
-45061 Lee, South Carolina
-36061 New York, New York
-48261 Kenedy, Texas
-37163 Sampson, North Carolina
-39163 Vinton, Ohio
-27063 Jackson, Minnesota
-30063 Missoula, Montana
-17163 St Clair, Illinois
-8063 Kit Carson, Colorado
-12063 Jackson, Florida
-28163 Yazoo, Mississippi
-5063 Independence, Arkansas
-17063 Grundy, Illinois
-26063 Huron, Michigan
-13063 Clayton, Georgia
-28063 Jefferson, Mississippi
-13163 Jefferson, Georgia
-31063 Frontier, Nebraska
-21163 Meade, Kentucky
-48463 Uvalde, Texas
-18063 Hendricks, Indiana
-6063 Plumas, California
-29063 Dekalb, Missouri
-51063 Floyd, Virginia
-48163 Frio, Texas
-42063 Indiana, Pennsylvania
-48263 Kent, Texas
-53063 Spokane, Washington
-20163 Rooks, Kansas
-36063 Niagara, New York
-19163 Scott, Iowa
-47163 Sullivan, Tennessee
-37063 Durham, North Carolina
-18163 Vanderburgh, Indiana
-1063 Greene, Alabama
-47063 Hamblen, Tennessee
-31163 Sherman, Nebraska
-29163 Pike, Missouri
-21063 Elliott, Kentucky
-46063 Harding, South Dakota
-20063 Gove, Kansas
-38063 Nelson, North Dakota
-41063 Wallowa, Oregon
-13263 Talbot, Georgia
-48363 Palo Pinto, Texas
-51163 Rockbridge, Virginia
-48063 Camp, Texas
-39063 Hancock, Ohio
-55063 La Crosse, Wisconsin
-26163 Wayne, Michigan
-45063 Lexington, South Carolina
-54063 Monroe, West Virginia
-19063 Emmet, Iowa
-22063 Livingston, Louisiana
-27163 Washington, Minnesota
-40063 Hughes, Oklahoma
-16063 Lincoln, Idaho
-2164 Lake and Peninsula, Alaska
-19065 Fayette, Iowa
-27165 Watonwan, Minnesota
-19165 Shelby, Iowa
-48365 Panola, Texas
-45065 McCormick, South Carolina
-12065 Jefferson, Florida
-20165 Rush, Kansas
-30065 Musselshell, Montana
-26165 Wexford, Michigan
-42065 Jefferson, Pennsylvania
-17065 Hamilton, Illinois
-37065 Edgecombe, North Carolina
-39165 Warren, Ohio
-27065 Kanabec, Minnesota
-18065 Henry, Indiana
-13065 Clinch, Georgia
-51165 Rockingham, Virginia
-8065 Lake, Colorado
-1065 Hale, Alabama
-46065 Hughes, South Dakota
-47165 Sumner, Tennessee
-16065 Madison, Idaho
-13265 Taliaferro, Georgia
-39065 Hardin, Ohio
-41065 Wasco, Oregon
-47065 Hamilton, Tennessee
-31165 Sioux, Nebraska
-21165 Menifee, Kentucky
-29065 Dent, Missouri
-48065 Carson, Texas
-40065 Jackson, Oklahoma
-28065 Jefferson Davis, Mississippi
-36065 Oneida, New York
-17165 Saline, Illinois
-20065 Graham, Kansas
-37165 Scotland, North Carolina
-54065 Morgan, West Virginia
-48465 Val Verde, Texas
-26065 Ingham, Michigan
-18165 Vermillion, Indiana
-5065 Izard, Arkansas
-13165 Jenkins, Georgia
-48265 Kerr, Texas
-55065 Lafayette, Wisconsin
-53065 Stevens, Washington
-6065 Riverside, California
-21065 Estill, Kentucky
-51065 Fluvanna, Virginia
-48165 Gaines, Texas
-38065 Oliver, North Dakota
-29165 Platte, Missouri
-31065 Furnas, Nebraska
-22065 Madison, Louisiana
-54067 Nicholas, West Virginia
-39167 Washington, Ohio
-20167 Russell, Kansas
-13067 Cobb, Georgia
-22067 Morehouse, Louisiana
-8067 La Plata, Colorado
-51067 Franklin, Virginia
-46067 Hutchinson, South Dakota
-19067 Floyd, Iowa
-51167 Russell, Virginia
-30067 Park, Montana
-48167 Galveston, Texas
-6067 Sacramento, California
-47167 Tipton, Tennessee
-48067 Cass, Texas
-27167 Wilkin, Minnesota
-27067 Kandiyohi, Minnesota
-18067 Howard, Indiana
-42067 Juniata, Pennsylvania
-53067 Thurston, Washington
-37167 Stanly, North Carolina
-47067 Hancock, Tennessee
-20067 Grant, Kansas
-13267 Tattnall, Georgia
-18167 Vigo, Indiana
-48467 Van Zandt, Texas
-12067 Lafayette, Florida
-5067 Jackson, Arkansas
-36067 Onondaga, New York
-31167 Stanton, Nebraska
-41067 Washington, Oregon
-55067 Langlade, Wisconsin
-37067 Forsyth, North Carolina
-17167 Sangamon, Illinois
-45067 Marion, South Carolina
-29167 Polk, Missouri
-31067 Gage, Nebraska
-19167 Sioux, Iowa
-28067 Jones, Mississippi
-1067 Henry, Alabama
-40067 Jefferson, Oklahoma
+2100: Haines, Alaska
+8083: Montezuma, Colorado
+13083: Dade, Georgia
+17067: Hancock, Illinois
+17091: Kankakee, Illinois
+13199: Meriwether, Georgia
+21083: Graves, Kentucky
+20083: Hodgeman, Kansas
+17083: Jersey, Illinois
+19097: Jackson, Iowa
+27091: Martin, Minnesota
+22099: St Martin, Louisiana
+29195: Saline, Missouri
+39041: Delaware, Ohio
+28141: Tishomingo, Mississippi
+35041: Roosevelt, New Mexico
+26099: Macomb, Michigan
+40083: Logan, Oklahoma
+13283: Treutlen, Georgia
+19183: Washington, Iowa
+26083: Keweenaw, Michigan
+37195: Wilson, North Carolina
+46095: Mellette, South Dakota
+1095: Marshall, Alabama
+29095: Jackson, Missouri
+39095: Lucas, Ohio
+27095: Mille Lacs, Minnesota
+22095: St John The Baptist, Louisiana
+42095: Northampton, Pennsylvania
+37099: Jackson, North Carolina
+48199: Hardin, Texas
+20099: Labette, Kansas
+5099: Nevada, Arkansas
+48291: Liberty, Texas
+26091: Lenawee, Michigan
+29091: Howell, Missouri
+1091: Marengo, Alabama
+20191: Sumner, Kansas
+36099: Seneca, New York
+48367: Parker, Texas
+39067: Harrison, Ohio
+26067: Ionia, Michigan
+21067: Fayette, Kentucky
+16067: Minidoka, Idaho
+21167: Mercer, Kentucky
+29067: Douglas, Missouri
+48267: Kimble, Texas
+38067: Pembina, North Dakota
+13167: Johnson, Georgia
+2068: Denali, Alaska
+47069: Hardeman, Tennessee
+30069: Petroleum, Montana
+19169: Story, Iowa
+46069: Hyde, South Dakota
+48399: Runnels, Texas
+18099: Marshall, Indiana
+31099: Kearney, Nebraska
+17199: Williamson, Illinois
+28099: Neshoba, Mississippi
+38099: Walsh, North Dakota
+48497: Wise, Texas
+28097: Montgomery, Mississippi
+51069: Frederick, Virginia
+17069: Hardin, Illinois
+37169: Stokes, North Carolina
+40069: Johnston, Oklahoma
+21069: Fleming, Kentucky
+26069: Iosco, Michigan
+39069: Henry, Ohio
+18169: Wabash, Indiana
+51091: Highland, Virginia
+21191: Pendleton, Kentucky
+37091: Hertford, North Carolina
+39091: Logan, Ohio
+48491: Williamson, Texas
+30091: Sheridan, Montana
+47091: Johnson, Tennessee
+48191: Hall, Texas
+17191: Wayne, Illinois
+13191: McIntosh, Georgia
+36091: Saratoga, New York
+21091: Hancock, Kentucky
+31091: Hooker, Nebraska
+20091: Johnson, Kansas
+37191: Wayne, North Carolina
+45091: York, South Carolina
+51183: Sussex, Virginia
+16083: Twin Falls, Idaho
+48083: Coleman, Texas
+38083: Sheridan, North Dakota
+51083: Halifax, Virginia
+13183: Long, Georgia
+45083: Spartanburg, South Carolina
+18083: Knox, Indiana
+13297: Walton, Georgia
+51595: Emporia City, Virginia
+48095: Concho, Texas
+17095: Knox, Illinois
+51195: Wise, Virginia
+13095: Dougherty, Georgia
+17195: Whiteside, Illinois
+51097: King and Queen, Virginia
+40097: Mayes, Oklahoma
+36097: Schuyler, New York
+29097: Jasper, Missouri
+51099: King George, Virginia
+51600: Fairfax City, Virginia
+51800: Suffolk City, Virginia
+51700: Newport News City, Virginia
+47001: Anderson, Tennessee
+42001: Adams, Pennsylvania
+35001: Bernalillo, New Mexico
+54069: Ohio, West Virginia
+16069: Nez Perce, Idaho
+17169: Schuyler, Illinois
+51169: Scott, Virginia
+13269: Taylor, Georgia
+13069: Coffee, Georgia
+31169: Thayer, Nebraska
+45069: Marlboro, South Carolina
+21169: Metcalfe, Kentucky
+48169: Garza, Texas
+18069: Huntington, Indiana
+22069: Natchitoches, Louisiana
+41069: Wheeler, Oregon
+42069: Lackawanna, Pennsylvania
+48069: Castro, Texas
+53069: Wahkiakum, Washington
+36069: Ontario, New York
+48269: King, Texas
+48469: Victoria, Texas
+13169: Jones, Georgia
+28069: Kemper, Mississippi
+39169: Wayne, Ohio
+47169: Trousdale, Tennessee
+19069: Franklin, Iowa
+29169: Pulaski, Missouri
+38069: Pierce, North Dakota
+20169: Saline, Kansas
+29069: Dunklin, Missouri
+12069: Lake, Florida
+1069: Houston, Alabama
+27069: Kittson, Minnesota
+27169: Winona, Minnesota
+31069: Garden, Nebraska
+20069: Gray, Kansas
+6069: San Benito, California
+48369: Parmer, Texas
+5069: Jefferson, Arkansas
+54097: Upshur, West Virginia
+21197: Powell, Kentucky
+48197: Hardeman, Texas
+22097: St Landry, Louisiana
+48099: Coryell, Texas
+42099: Perry, Pennsylvania
+21199: Pulaski, Kentucky
+12099: Palm Beach, Florida
+13099: Early, Georgia
+19099: Jasper, Iowa
+29099: Jefferson, Missouri
+48299: Llano, Texas
+17099: La Salle, Illinois
+29199: Scotland, Missouri
+30099: Teton, Montana
+27099: Mower, Minnesota
+21099: Hart, Kentucky
+6099: Stanislaus, California
+20199: Wallace, Kansas
+48499: Wood, Texas
+51199: York, Virginia
+54099: Wayne, West Virginia
+46099: Minnehaha, South Dakota
+39099: Mahoning, Ohio
+1099: Monroe, Alabama
+37199: Yancey, North Carolina
+55069: Lincoln, Wisconsin
+8069: Larimer, Colorado
+37069: Franklin, North Carolina
+51670: Hopewell City, Virginia
+2170: Matanuska Susitna, Alaska
+2270: Wade Hampton, Alaska
+51770: Roanoke City, Virginia
+2070: Dillingham, Alaska
+51570: Colonial Heights City, Virginia
+39171: Williams, Ohio
+16071: Oneida, Idaho
+19071: Fremont, Iowa
+37171: Surry, North Carolina
+31171: Thomas, Nebraska
+13271: Telfair, Georgia
+19171: Tama, Iowa
+20171: Scott, Kansas
+40071: Kay, Oklahoma
+29071: Franklin, Missouri
+42071: Lancaster, Pennsylvania
+18071: Jackson, Indiana
+47171: Unicoi, Tennessee
+51071: Giles, Virginia
+51171: Shenandoah, Virginia
+36071: Orange, New York
+26071: Iron, Michigan
+37071: Gaston, North Carolina
+47071: Hardin, Tennessee
+21171: Monroe, Kentucky
+30071: Phillips, Montana
+48171: Gillespie, Texas
+29171: Putnam, Missouri
+13171: Lamar, Georgia
+48371: Pecos, Texas
+48471: Walker, Texas
+5071: Johnson, Arkansas
+13071: Colquitt, Georgia
+48071: Chambers, Texas
+38071: Ramsey, North Dakota
+18171: Warren, Indiana
+21071: Floyd, Kentucky
+12071: Lee, Florida
+22071: Orleans, Louisiana
+45071: Newberry, South Carolina
+17071: Henderson, Illinois
+17171: Scott, Illinois
+27171: Wright, Minnesota
+6071: San Bernardino, California
+41071: Yamhill, Oregon
+39071: Highland, Ohio
+1071: Jackson, Alabama
+53071: Walla Walla, Washington
+8071: Las Animas, Colorado
+54071: Pendleton, West Virginia
+48271: Kinney, Texas
+55071: Manitowoc, Wisconsin
+31071: Garfield, Nebraska
+28071: Lafayette, Mississippi
+20071: Greeley, Kansas
+27071: Koochiching, Minnesota
+46071: Jackson, South Dakota
+8073: Lincoln, Colorado
+13173: Lanier, Georgia
+5073: Lafayette, Arkansas
+31073: Gosper, Nebraska
+45073: Oconee, South Carolina
+42073: Lawrence, Pennsylvania
+38073: Ransom, North Dakota
+6073: San Diego, California
+26073: Isabella, Michigan
+47173: Union, Tennessee
+18073: Jasper, Indiana
+53073: Whatcom, Washington
+48273: Kleberg, Texas
+48373: Polk, Texas
+17073: Henry, Illinois
+29173: Ralls, Missouri
+39073: Hocking, Ohio
+29073: Gasconade, Missouri
+19173: Taylor, Iowa
+13073: Columbia, Georgia
+30073: Pondera, Montana
+22073: Ouachita, Louisiana
+48173: Glasscock, Texas
+12073: Leon, Florida
+39173: Wood, Ohio
+51173: Smyth, Virginia
+20073: Greenwood, Kansas
+16073: Owyhee, Idaho
+51073: Gloucester, Virginia
+40073: Kingfisher, Oklahoma
+18173: Warrick, Indiana
+37073: Gates, North Carolina
+48473: Waller, Texas
+21073: Franklin, Kentucky
+27073: Lac Qui Parle, Minnesota
+17173: Shelby, Illinois
+36073: Orleans, New York
+20173: Sedgwick, Kansas
+21173: Montgomery, Kentucky
+55073: Marathon, Wisconsin
+31173: Thurston, Nebraska
+28073: Lamar, Mississippi
+19073: Greene, Iowa
+48073: Cherokee, Texas
+37173: Swain, North Carolina
+54073: Pleasants, West Virginia
+46073: Jerauld, South Dakota
+13273: Terrell, Georgia
+27173: Yellow Medicine, Minnesota
+1073: Jefferson, Alabama
+47073: Hawkins, Tennessee
+18075: Jay, Indiana
+37175: Transylvania, North Carolina
+17075: Iroquois, Illinois
+13275: Thomas, Georgia
+40075: Kiowa, Oklahoma
+22075: Plaquemines, Louisiana
+51175: Southampton, Virginia
+51075: Goochland, Virginia
+27075: Lake, Minnesota
+46075: Jones, South Dakota
+36075: Oswego, New York
+29075: Gentry, Missouri
+17175: Stark, Illinois
+12075: Levy, Florida
+8075: Logan, Colorado
+53075: Whitman, Washington
+30075: Powder River, Montana
+42075: Lebanon, Pennsylvania
+38075: Renville, North Dakota
+19075: Grundy, Iowa
+48375: Potter, Texas
+21075: Fulton, Kentucky
+48175: Goliad, Texas
+48475: Ward, Texas
+13175: Laurens, Georgia
+21175: Morgan, Kentucky
+16075: Payette, Idaho
+28075: Lauderdale, Mississippi
+6075: San Francisco, California
+26075: Jackson, Michigan
+55075: Marinette, Wisconsin
+47175: Van Buren, Tennessee
+1075: Lamar, Alabama
+20175: Seward, Kansas
+54075: Pocahontas, West Virginia
+47075: Haywood, Tennessee
+31075: Grant, Nebraska
+39075: Holmes, Ohio
+37075: Graham, North Carolina
+20075: Hamilton, Kansas
+39175: Wyandot, Ohio
+45075: Orangeburg, South Carolina
+19175: Union, Iowa
+29175: Randolph, Missouri
+48275: Knox, Texas
+31175: Valley, Nebraska
+13075: Cook, Georgia
+5075: Lawrence, Arkansas
+48075: Childress, Texas
+18175: Washington, Indiana
+51775: Salem City, Virginia
+6077: San Joaquin, California
+19177: Van Buren, Iowa
+40077: Latimer, Oklahoma
+48177: Gonzales, Texas
+29177: Ray, Missouri
+19077: Guthrie, Iowa
+51177: Spotsylvania, Virginia
+54077: Preston, West Virginia
+28077: Lawrence, Mississippi
+37077: Granville, North Carolina
+53077: Yakima, Washington
+31077: Greeley, Nebraska
+55077: Marquette, Wisconsin
+18177: Wayne, Indiana
+17177: Stephenson, Illinois
+20177: Shawnee, Kansas
+47077: Henderson, Tennessee
+30077: Powell, Montana
+38077: Richland, North Dakota
+48277: Lamar, Texas
+51077: Grayson, Virginia
+21177: Muhlenberg, Kentucky
+17077: Jackson, Illinois
+13177: Lee, Georgia
+46077: Kingsbury, South Dakota
+36077: Otsego, New York
+13077: Coweta, Georgia
+48377: Presidio, Texas
+1077: Lauderdale, Alabama
+48477: Washington, Texas
+37177: Tyrrell, North Carolina
+27077: Lake of The Woods, Minnesota
+8077: Mesa, Colorado
+47177: Warren, Tennessee
+22077: Pointe Coupee, Louisiana
+16077: Power, Idaho
+39077: Huron, Ohio
+31177: Washington, Nebraska
+12077: Liberty, Florida
+42077: Lehigh, Pennsylvania
+29077: Greene, Missouri
+13277: Tift, Georgia
+48077: Clay, Texas
+26077: Kalamazoo, Michigan
+21077: Gallatin, Kentucky
+18077: Jefferson, Indiana
+5077: Lee, Arkansas
+20077: Harper, Kansas
+45077: Pickens, South Carolina
+51678: Lexington City, Virginia
+55078: Menominee, Wisconsin
+31179: Wayne, Nebraska
+40079: Le Flore, Oklahoma
+47079: Henry, Tennessee
+20079: Harvey, Kansas
+18179: Wells, Indiana
+19079: Hamilton, Iowa
+29079: Grundy, Missouri
+27079: Le Sueur, Minnesota
+17179: Tazewell, Illinois
+26079: Kalkaska, Michigan
+17079: Jasper, Illinois
+42079: Luzerne, Pennsylvania
+21079: Garrard, Kentucky
+21179: Nelson, Kentucky
+8079: Mineral, Colorado
+20179: Sheridan, Kansas
+38079: Rolette, North Dakota
+6079: San Luis Obispo, California
+29179: Reynolds, Missouri
+16079: Shoshone, Idaho
+31079: Hall, Nebraska
+18079: Jennings, Indiana
+5079: Lincoln, Arkansas
+13079: Crawford, Georgia
+30079: Prairie, Montana
+36079: Putnam, New York
+46079: Lake, South Dakota
+48479: Webb, Texas
+13279: Toombs, Georgia
+37179: Union, North Carolina
+19179: Wapello, Iowa
+1079: Lawrence, Alabama
+28079: Leake, Mississippi
+51179: Stafford, Virginia
+37079: Greene, North Carolina
+12079: Madison, Florida
+39079: Jackson, Ohio
+48179: Gray, Texas
+55079: Milwaukee, Wisconsin
+47179: Washington, Tennessee
+48379: Rains, Texas
+48079: Cochran, Texas
+54079: Putnam, West Virginia
+51079: Greene, Virginia
+13179: Liberty, Georgia
+45079: Richland, South Carolina
+22079: Rapides, Louisiana
+48279: Lamb, Texas
+51780: South Boston City, Virginia
+2280: Wrangell Petersburg, Alaska
+2180: Nome, Alaska
+51580: Covington City, Virginia
+51680: Lynchburg City, Virginia
+47181: Wayne, Tennessee
+18181: White, Indiana
+48181: Grayson, Texas
+1081: Lee, Alabama
+17181: Union, Illinois
+28081: Lee, Mississippi
+39081: Jefferson, Ohio
+6081: San Mateo, California
+22081: Red River, Louisiana
+21181: Nicholas, Kentucky
+19081: Hancock, Iowa
+46081: Lawrence, South Dakota
+12081: Manatee, Florida
+48481: Wharton, Texas
+19181: Warren, Iowa
+55081: Monroe, Wisconsin
+48281: Lampasas, Texas
+48081: Coke, Texas
+17081: Jefferson, Illinois
+29081: Harrison, Missouri
+36081: Queens, New York
+37181: Vance, North Carolina
+29181: Ripley, Missouri
+13181: Lincoln, Georgia
+37081: Guilford, North Carolina
+51181: Surry, Virginia
+47081: Hickman, Tennessee
+48381: Randall, Texas
+26081: Kent, Michigan
+38081: Sargent, North Dakota
+13081: Crisp, Georgia
+21081: Grant, Kentucky
+31181: Webster, Nebraska
+27081: Lincoln, Minnesota
+8081: Moffat, Colorado
+5081: Little River, Arkansas
+30081: Ravalli, Montana
+54081: Raleigh, West Virginia
+51081: Greensville, Virginia
+16081: Teton, Idaho
+13281: Towns, Georgia
+18081: Johnson, Indiana
+20181: Sherman, Kansas
+31081: Hamilton, Nebraska
+45081: Saluda, South Carolina
+20081: Haskell, Kansas
+42081: Lycoming, Pennsylvania
+40081: Lincoln, Oklahoma
+2282: Yakutat, Alaska
+37083: Halifax, North Carolina
+54083: Randolph, West Virginia
+36083: Rensselaer, New York
+22083: Richland, Louisiana
+46083: Lincoln, South Dakota
+18183: Whitley, Indiana
+21183: Ohio, Kentucky
+29083: Henry, Missouri
+30083: Richland, Montana
+48483: Wheeler, Texas
+12083: Marion, Florida
+19083: Hardin, Iowa
+6083: Santa Barbara, California
+47083: Houston, Tennessee
+48383: Reagan, Texas
+27083: Lyon, Minnesota
+55083: Oconto, Wisconsin
+31183: Wheeler, Nebraska
+42083: McKean, Pennsylvania
+31083: Harlan, Nebraska
+48283: La Salle, Texas
+17183: Vermilion, Illinois
+20183: Smith, Kansas
+39083: Knox, Ohio
+37183: Wake, North Carolina
+47183: Weakley, Tennessee
+29183: St Charles, Missouri
+51683: Manassas City, Virginia
+28083: Leflore, Mississippi
+5083: Logan, Arkansas
+48183: Gregg, Texas
+1083: Limestone, Alabama
+22085: Sabine, Louisiana
+13085: Dawson, Georgia
+48085: Collin, Texas
+36085: Richmond, New York
+18085: Kosciusko, Indiana
+30085: Roosevelt, Montana
+39085: Lake, Ohio
+37185: Warren, North Carolina
+27085: McLeod, Minnesota
+29085: Hickory, Missouri
+16085: Valley, Idaho
+19185: Wayne, Iowa
+47085: Humphreys, Tennessee
+21185: Oldham, Kentucky
+37085: Harnett, North Carolina
+1085: Lowndes, Alabama
+29185: St Clair, Missouri
+48285: Lavaca, Texas
+40085: Love, Oklahoma
+2185: North Slope, Alaska
+31185: York, Nebraska
+48385: Real, Texas
+12085: Martin, Florida
+28085: Lincoln, Mississippi
+20185: Stafford, Kansas
+17185: Wabash, Illinois
+13285: Troup, Georgia
+45085: Sumter, South Carolina
+46085: Lyman, South Dakota
+47185: White, Tennessee
+21085: Grayson, Kentucky
+31085: Hayes, Nebraska
+48485: Wichita, Texas
+20085: Jackson, Kansas
+38085: Sioux, North Dakota
+6085: Santa Clara, California
+51185: Tazewell, Virginia
+51685: Manassas Park City, Virginia
+48185: Grimes, Texas
+54085: Ritchie, West Virginia
+19085: Harrison, Iowa
+13185: Lowndes, Georgia
+55085: Oneida, Wisconsin
+42085: Mercer, Pennsylvania
+5085: Lonoke, Arkansas
+17085: Jo Daviess, Illinois
+26085: Lake, Michigan
+8085: Montrose, Colorado
+51085: Hanover, Virginia
+29186: Ste Genevieve, Missouri
+12086: Miami-Dade, Florida
+21087: Green, Kentucky
+46087: McCook, South Dakota
+54087: Roane, West Virginia
+39087: Lawrence, Ohio
+38087: Slope, North Dakota
+28087: Lowndes, Mississippi
+48087: Collingsworth, Texas
+13287: Turner, Georgia
+37087: Haywood, North Carolina
+17087: Johnson, Illinois
+26087: Lapeer, Michigan
+29187: St Francois, Missouri
+6087: Santa Cruz, California
+20087: Jefferson, Kansas
+31087: Hitchcock, Nebraska
+19187: Webster, Iowa
+48387: Red River, Texas
+29087: Holt, Missouri
+13087: Decatur, Georgia
+12087: Monroe, Florida
+17187: Warren, Illinois
+37187: Washington, North Carolina
+8087: Morgan, Colorado
+1087: Macon, Alabama
+55087: Outagamie, Wisconsin
+36087: Rockland, New York
+21187: Owen, Kentucky
+47087: Jackson, Tennessee
+48287: Lee, Texas
+22087: St Bernard, Louisiana
+13187: Lumpkin, Georgia
+51087: Henrico, Virginia
+19087: Henry, Iowa
+5087: Madison, Arkansas
+42087: Mifflin, Pennsylvania
+40087: Mcclain, Oklahoma
+48487: Wilbarger, Texas
+20187: Stanton, Kansas
+30087: Rosebud, Montana
+47187: Williamson, Tennessee
+16087: Washington, Idaho
+45087: Union, South Carolina
+27087: Mahnomen, Minnesota
+51187: Warren, Virginia
+48187: Guadalupe, Texas
+18087: Lagrange, Indiana
+2188: Northwest Arctic, Alaska
+27089: Marshall, Minnesota
+47089: Jefferson, Tennessee
+5089: Marion, Arkansas
+20189: Stevens, Kansas
+40089: McCurtain, Oklahoma
+54089: Summers, West Virginia
+1089: Madison, Alabama
+48189: Hale, Texas
+31089: Holt, Nebraska
+47189: Wilson, Tennessee
+17189: Washington, Illinois
+38089: Stark, North Dakota
+29089: Howard, Missouri
+19089: Howard, Iowa
+28089: Madison, Mississippi
+55089: Ozaukee, Wisconsin
+13289: Twiggs, Georgia
+22089: St Charles, Louisiana
+37089: Henderson, North Carolina
+39089: Licking, Ohio
+48289: Leon, Texas
+45089: Williamsburg, South Carolina
+13089: De Kalb, Georgia
+48089: Colorado, Texas
+12089: Nassau, Florida
+36089: St Lawrence, New York
+21189: Owsley, Kentucky
+42089: Monroe, Pennsylvania
+51089: Henry, Virginia
+46089: McPherson, South Dakota
+37189: Watauga, North Carolina
+18089: Lake, Indiana
+29189: St Louis, Missouri
+48389: Reeves, Texas
+6089: Shasta, California
+21089: Greenup, Kentucky
+48489: Willacy, Texas
+13189: McDuffie, Georgia
+26089: Leelanau, Michigan
+19189: Winnebago, Iowa
+8089: Otero, Colorado
+20089: Jewell, Kansas
+30089: Sanders, Montana
+17089: Kane, Illinois
+2090: Fairbanks North Star, Alaska
+2290: Yukon Koyukuk, Alaska
+51690: Martinsville City, Virginia
+51590: Danville City, Virginia
+51790: Staunton City, Virginia
+18091: La Porte, Indiana
+13091: Dodge, Georgia
+6091: Sierra, California
+12091: Okaloosa, Florida
+54091: Taylor, West Virginia
+46091: Marshall, South Dakota
+40091: McIntosh, Oklahoma
+19091: Humboldt, Iowa
+28091: Marion, Mississippi
+13291: Union, Georgia
+51191: Washington, Virginia
+48091: Comal, Texas
+8091: Ouray, Colorado
+5091: Miller, Arkansas
+19191: Winneshiek, Iowa
+38091: Steele, North Dakota
+8099: Prowers, Colorado
+55091: Pepin, Wisconsin
+22091: St Helena, Louisiana
+48391: Refugio, Texas
+42091: Montgomery, Pennsylvania
+20193: Thomas, Kansas
+46093: Meade, South Dakota
+21093: Hardin, Kentucky
+38093: Stutsman, North Dakota
+51193: Westmoreland, Virginia
+31093: Howard, Nebraska
+1093: Marion, Alabama
+42093: Montour, Pennsylvania
+36093: Schenectady, New York
+48293: Limestone, Texas
+55093: Pierce, Wisconsin
+19193: Woodbury, Iowa
+47093: Knox, Tennessee
+48193: Hamilton, Texas
+22093: St James, Louisiana
+13093: Dooly, Georgia
+5093: Mississippi, Arkansas
+12093: Okeechobee, Florida
+21193: Perry, Kentucky
+6093: Siskiyou, California
+30093: Silver Bow, Montana
+48093: Comanche, Texas
+28093: Marshall, Mississippi
+40093: Major, Oklahoma
+27093: Meeker, Minnesota
+17193: White, Illinois
+51093: Isle of Wight, Virginia
+26093: Livingston, Michigan
+54093: Tucker, West Virginia
+37193: Wilkes, North Carolina
+48393: Roberts, Texas
+18093: Lawrence, Indiana
+20093: Kearny, Kansas
+17093: Kendall, Illinois
+39093: Lorain, Ohio
+13193: Macon, Georgia
+37093: Hoke, North Carolina
+48493: Wilson, Texas
+8093: Park, Colorado
+13293: Upson, Georgia
+29093: Iron, Missouri
+19093: Ida, Iowa
+20195: Trego, Kansas
+48395: Robertson, Texas
+48195: Hansford, Texas
+38095: Towner, North Dakota
+51095: James City, Virginia
+19195: Worth, Iowa
+5095: Monroe, Arkansas
+55095: Polk, Wisconsin
+40095: Marshall, Oklahoma
+21095: Harlan, Kentucky
+21195: Pike, Kentucky
+26095: Luce, Michigan
+36095: Schoharie, New York
+8095: Phillips, Colorado
+48495: Winkler, Texas
+48295: Lipscomb, Texas
+18095: Madison, Indiana
+47095: Lake, Tennessee
+13195: Madison, Georgia
+20095: Kingman, Kansas
+30095: Stillwater, Montana
+19095: Iowa, Iowa
+54095: Tyler, West Virginia
+37095: Hyde, North Carolina
+31095: Jefferson, Nebraska
+13295: Walker, Georgia
+12095: Orange, Florida
+6095: Solano, California
+28095: Monroe, Mississippi
+40099: Murray, Oklahoma
+55097: Portage, Wisconsin
+12097: Osceola, Florida
+29197: Schuyler, Missouri
+38097: Traill, North Dakota
+19197: Wright, Iowa
+27097: Morrison, Minnesota
+20197: Wabaunsee, Kansas
+26097: Mackinac, Michigan
+37097: Iredell, North Carolina
+17097: Lake, Illinois
+39097: Madison, Ohio
+13097: Douglas, Georgia
+47097: Lauderdale, Tennessee
+51197: Wythe, Virginia
+31097: Johnson, Nebraska
+1097: Mobile, Alabama
+17197: Will, Illinois
+48397: Rockwall, Texas
+46097: Miner, South Dakota
+13197: Marion, Georgia
+48097: Cooke, Texas
+21097: Harrison, Kentucky
+6097: Sonoma, California
+18097: Marion, Indiana
+8097: Pitkin, Colorado
+37197: Yadkin, North Carolina
+30097: Sweet Grass, Montana
+20097: Kiowa, Kansas
+48297: Live Oak, Texas
+42097: Northumberland, Pennsylvania
+47099: Lawrence, Tennessee
+55099: Price, Wisconsin
+13299: Ware, Georgia
+55101: Racine, Wisconsin
+37101: Johnston, North Carolina
+12101: Pasco, Florida
+44001: Bristol, Rhode Island
+40001: Adair, Oklahoma
+13001: Appling, Georgia
+19101: Jefferson, Iowa
+55001: Adams, Wisconsin
+48201: Harris, Texas
+41001: Baker, Oregon
+2201: Prince Wales Ketchikan, Alaska
+49001: Beaver, Utah
+33001: Belknap, New Hampshire
+48101: Cottle, Texas
+13101: Echols, Georgia
+13301: Warren, Georgia
+11001: District of Columbia, District of Columbia
+6101: Sutter, California
+48501: Yoakum, Texas
+42101: Philadelphia, Pennsylvania
+40101: Muskogee, Oklahoma
+12001: Alachua, Florida
+18001: Adams, Indiana
+30001: Beaverhead, Montana
+28101: Newton, Mississippi
+4001: Apache, Arizona
+17101: Lawrence, Illinois
+31101: Keith, Nebraska
+22001: Acadia, Louisiana
+27001: Aitkin, Minnesota
+13201: Miller, Georgia
+8001: Adams, Colorado
+17201: Winnebago, Illinois
+15001: Hawaii, Hawaii
+22101: St Mary, Louisiana
+53001: Adams, Washington
+21001: Adair, Kentucky
+46101: Moody, South Dakota
+20101: Lane, Kansas
+48001: Anderson, Texas
+21101: Henderson, Kentucky
+21201: Robertson, Kentucky
+1001: Autauga, Alabama
+39101: Marion, Ohio
+28001: Adams, Mississippi
+48301: Loving, Texas
+54001: Barbour, West Virginia
+51101: King William, Virginia
+38001: Adams, North Dakota
+50001: Addison, Vermont
+26101: Manistee, Michigan
+19001: Adair, Iowa
+8101: Pueblo, Colorado
+5101: Newton, Arkansas
+23001: Androscoggin, Maine
+48401: Rusk, Texas
+36101: Steuben, New York
+37001: Alamance, North Carolina
+56001: Albany, Wyoming
+32001: Churchill, Nevada
+10001: Kent, Delaware
+5001: Arkansas, Arkansas
+20201: Washington, Kansas
+16001: Ada, Idaho
+18101: Martin, Indiana
+25001: Barnstable, Massachusetts
+31001: Adams, Nebraska
+26001: Alcona, Michigan
+17001: Adams, Illinois
+45001: Abbeville, South Carolina
+47101: Lewis, Tennessee
+9001: Fairfield, Connecticut
+51001: Accomack, Virginia
+54101: Webster, West Virginia
+20001: Allen, Kansas
+34001: Atlantic, New Jersey
+39001: Adams, Ohio
+30101: Toole, Montana
+1101: Montgomery, Alabama
+24001: Allegany, Maryland
+6001: Alameda, California
+38101: Ward, North Dakota
+29201: Scott, Missouri
+29001: Adair, Missouri
+36001: Albany, New York
+27101: Murray, Minnesota
+29101: Johnson, Missouri
+19003: Adams, Iowa
+29103: Knox, Missouri
+38103: Wells, North Dakota
+31003: Antelope, Nebraska
+37003: Alexander, North Carolina
+34003: Bergen, New Jersey
+12003: Baker, Florida
+49003: Box Elder, Utah
+39103: Medina, Ohio
+48303: Lubbock, Texas
+51003: Albemarle, Virginia
+44003: Kent, Rhode Island
+18003: Allen, Indiana
+27103: Nicollet, Minnesota
+8103: Rio Blanco, Colorado
+25003: Berkshire, Massachusetts
+28003: Alcorn, Mississippi
+48103: Crane, Texas
+18103: Miami, Indiana
+29003: Andrew, Missouri
+42103: Pike, Pennsylvania
+26103: Marquette, Michigan
+9003: Hartford, Connecticut
+5103: Ouachita, Arkansas
+20003: Anderson, Kansas
+23003: Aroostook, Maine
+41003: Benton, Oregon
+32003: Clark, Nevada
+31103: Keya Paha, Nebraska
+5003: Ashley, Arkansas
+46003: Aurora, South Dakota
+1003: Baldwin, Alabama
+40003: Alfalfa, Oklahoma
+48203: Harrison, Texas
+20103: Leavenworth, Kansas
+6003: Alpine, California
+13103: Effingham, Georgia
+12103: Pinellas, Florida
+8003: Alamosa, Colorado
+50003: Bennington, Vermont
+22003: Allen, Louisiana
+48503: Young, Texas
+30103: Treasure, Montana
+16003: Adams, Idaho
+53003: Asotin, Washington
+55003: Ashland, Wisconsin
+15003: Honolulu, Hawaii
+17003: Alexander, Illinois
+1103: Morgan, Alabama
+38003: Barnes, North Dakota
+46103: Pennington, South Dakota
+54103: Wetzel, West Virginia
+45003: Aiken, South Carolina
+36003: Allegany, New York
+6103: Tehama, California
+21203: Rockcastle, Kentucky
+27003: Anoka, Minnesota
+24003: Anne Arundel, Maryland
+17203: Woodford, Illinois
+13003: Atkinson, Georgia
+48403: Sabine, Texas
+51103: Lancaster, Virginia
+22103: St Tammany, Louisiana
+28103: Noxubee, Mississippi
+17103: Lee, Illinois
+47003: Bedford, Tennessee
+47103: Lincoln, Tennessee
+56003: Big Horn, Wyoming
+55103: Richland, Wisconsin
+39003: Allen, Ohio
+35003: Catron, New Mexico
+4003: Cochise, Arizona
+19103: Johnson, Iowa
+36103: Suffolk, New York
+33003: Carroll, New Hampshire
+30003: Big Horn, Montana
+26003: Alger, Michigan
+21103: Henry, Kentucky
+10003: New Castle, Delaware
+37103: Jones, North Carolina
+21003: Allen, Kentucky
+29203: Shannon, Missouri
+42003: Allegheny, Pennsylvania
+13303: Washington, Georgia
+20203: Wichita, Kansas
+40103: Noble, Oklahoma
+48003: Andrews, Texas
+54003: Berkeley, West Virginia
+31105: Kimball, Nebraska
+19005: Allamakee, Iowa
+54105: Wirt, West Virginia
+12005: Bay, Florida
+13105: Elbert, Georgia
+20005: Atchison, Kansas
+48105: Crockett, Texas
+36105: Sullivan, New York
+51105: Lee, Virginia
+24005: Baltimore, Maryland
+13005: Bacon, Georgia
+21005: Anderson, Kentucky
+50005: Caledonia, Vermont
+26105: Mason, Michigan
+37105: Lee, North Carolina
+8105: Rio Grande, Colorado
+56005: Campbell, Wyoming
+22105: Tangipahoa, Louisiana
+16005: Bannock, Idaho
+34005: Burlington, New Jersey
+30105: Valley, Montana
+46005: Beadle, South Dakota
+26005: Allegan, Michigan
+13305: Wayne, Georgia
+47105: Loudon, Tennessee
+44005: Newport, Rhode Island
+40105: Nowata, Oklahoma
+5005: Baxter, Arkansas
+38005: Benson, North Dakota
+25005: Bristol, Massachusetts
+18005: Bartholomew, Indiana
+4005: Coconino, Arizona
+6105: Trinity, California
+38105: Williams, North Dakota
+27005: Becker, Minnesota
+37005: Alleghany, North Carolina
+46105: Perkins, South Dakota
+40005: Atoka, Oklahoma
+8005: Arapahoe, Colorado
+48305: Lynn, Texas
+17105: Livingston, Illinois
+41005: Clackamas, Oregon
+48505: Zapata, Texas
+51005: Alleghany, Virginia
+55005: Barron, Wisconsin
+13205: Mitchell, Georgia
+21105: Hickman, Kentucky
+35005: Chaves, New Mexico
+31005: Arthur, Nebraska
+36005: Bronx, New York
+29005: Atchison, Missouri
+55105: Rock, Wisconsin
+39005: Ashland, Ohio
+45005: Allendale, South Carolina
+23005: Cumberland, Maine
+17005: Bond, Illinois
+21205: Rowan, Kentucky
+10005: Sussex, Delaware
+28005: Amite, Mississippi
+1005: Barbour, Alabama
+9005: Litchfield, Connecticut
+48405: San Augustine, Texas
+6005: Amador, California
+29205: Shelby, Missouri
+42005: Armstrong, Pennsylvania
+29105: Laclede, Missouri
+47005: Benton, Tennessee
+12105: Polk, Florida
+22005: Ascension, Louisiana
+49005: Cache, Utah
+42105: Potter, Pennsylvania
+20205: Wilson, Kansas
+5105: Perry, Arkansas
+19105: Jones, Iowa
+28105: Oktibbeha, Mississippi
+54005: Boone, West Virginia
+18105: Monroe, Indiana
+48005: Angelina, Texas
+53005: Benton, Washington
+33005: Cheshire, New Hampshire
+32005: Douglas, Nevada
+48205: Hartley, Texas
+27105: Nobles, Minnesota
+1105: Perry, Alabama
+39105: Meigs, Ohio
+20105: Lincoln, Kansas
+30005: Blaine, Montana
+35006: Cibola, New Mexico
+31007: Banner, Nebraska
+23007: Franklin, Maine
+47007: Bledsoe, Tennessee
+13007: Baker, Georgia
+29007: Audrain, Missouri
+21107: Hopkins, Kentucky
+19107: Keokuk, Iowa
+53007: Chelan, Washington
+29107: Lafayette, Missouri
+28107: Panola, Mississippi
+46107: Potter, South Dakota
+54007: Braxton, West Virginia
+29207: Stoddard, Missouri
+22007: Assumption, Louisiana
+38007: Billings, North Dakota
+40107: Okfuskee, Oklahoma
+9007: Middlesex, Connecticut
+54107: Wood, West Virginia
+31107: Knox, Nebraska
+22107: Tensas, Louisiana
+51107: Loudoun, Virginia
+12107: Putnam, Florida
+21207: Russell, Kentucky
+44007: Providence, Rhode Island
+37007: Anson, North Carolina
+33007: Coos, New Hampshire
+6007: Butte, California
+27107: Norman, Minnesota
+48207: Haskell, Texas
+46007: Bennett, South Dakota
+15007: Kauai, Hawaii
+25007: Dukes, Massachusetts
+42007: Beaver, Pennsylvania
+48307: McCulloch, Texas
+21007: Ballard, Kentucky
+5107: Phillips, Arkansas
+48507: Zavala, Texas
+26007: Alpena, Michigan
+36107: Tioga, New York
+8107: Routt, Colorado
+34007: Camden, New Jersey
+39007: Ashtabula, Ohio
+48407: San Jacinto, Texas
+50007: Chittenden, Vermont
+8007: Archuleta, Colorado
+37107: Lenoir, North Carolina
+16007: Bear Lake, Idaho
+41007: Clatsop, Oregon
+40007: Beaver, Oklahoma
+47107: McMinn, Tennessee
+26107: Mecosta, Michigan
+32007: Elko, Nevada
+6107: Tulare, California
+39107: Mercer, Ohio
+18007: Benton, Indiana
+12007: Bradford, Florida
+20207: Woodson, Kansas
+17107: Logan, Illinois
+45007: Anderson, South Carolina
+49007: Carbon, Utah
+55107: Rusk, Wisconsin
+30107: Wheatland, Montana
+30007: Broadwater, Montana
+36007: Broome, New York
+17007: Boone, Illinois
+5007: Benton, Arkansas
+1007: Bibb, Alabama
+13307: Webster, Georgia
+27007: Beltrami, Minnesota
+48107: Crosby, Texas
+56007: Carbon, Wyoming
+20107: Linn, Kansas
+20007: Barber, Kansas
+13207: Monroe, Georgia
+42107: Schuylkill, Pennsylvania
+48007: Aransas, Texas
+19007: Appanoose, Iowa
+35007: Colfax, New Mexico
+1107: Pickens, Alabama
+55007: Bayfield, Wisconsin
+28007: Attala, Mississippi
+13107: Emanuel, Georgia
+18107: Montgomery, Indiana
+4007: Gila, Arizona
+51007: Amelia, Virginia
+46009: Bon Homme, South Dakota
+12109: St Johns, Florida
+8109: Saguache, Colorado
+19109: Kossuth, Iowa
+28009: Benton, Mississippi
+45009: Bamberg, South Carolina
+19009: Audubon, Iowa
+1109: Pike, Alabama
+54009: Brooke, West Virginia
+26109: Menominee, Michigan
+53009: Clallam, Washington
+27009: Benton, Minnesota
+42109: Snyder, Pennsylvania
+48209: Hays, Texas
+31109: Lancaster, Nebraska
+31009: Blaine, Nebraska
+21009: Barren, Kentucky
+30109: Wibaux, Montana
+21209: Scott, Kentucky
+20009: Barton, Kansas
+29109: Lawrence, Missouri
+25009: Essex, Massachusetts
+27109: Olmsted, Minnesota
+36009: Cattaraugus, New York
+13209: Montgomery, Georgia
+48109: Culberson, Texas
+35009: Curry, New Mexico
+13009: Baldwin, Georgia
+41009: Columbia, Oregon
+39009: Athens, Ohio
+13309: Wheeler, Georgia
+50009: Essex, Vermont
+17109: McDonough, Illinois
+20209: Wyandotte, Kansas
+46109: Roberts, South Dakota
+29209: Stone, Missouri
+33009: Grafton, New Hampshire
+36109: Tompkins, New York
+22109: Terrebonne, Louisiana
+39109: Miami, Ohio
+40109: Oklahoma, Oklahoma
+37009: Ashe, North Carolina
+16009: Benewah, Idaho
+47009: Blount, Tennessee
+22009: Avoyelles, Louisiana
+51109: Louisa, Virginia
+20109: Logan, Kansas
+56009: Converse, Wyoming
+54109: Wyoming, West Virginia
+32009: Esmeralda, Nevada
+18009: Blackford, Indiana
+51009: Amherst, Virginia
+48409: San Patricio, Texas
+34009: Cape May, New Jersey
+18109: Morgan, Indiana
+9009: New Haven, Connecticut
+37109: Lincoln, North Carolina
+42009: Bedford, Pennsylvania
+55109: St Croix, Wisconsin
+21109: Jackson, Kentucky
+13109: Evans, Georgia
+48309: McLennan, Texas
+49009: Daggett, Utah
+47109: McNairy, Tennessee
+12009: Brevard, Florida
+38009: Bottineau, North Dakota
+44009: Washington, Rhode Island
+28109: Pearl River, Mississippi
+6109: Tuolumne, California
+24009: Calvert, Maryland
+29009: Barry, Missouri
+26009: Antrim, Michigan
+6009: Calaveras, California
+5009: Boone, Arkansas
+1009: Blount, Alabama
+30009: Carbon, Montana
+4009: Graham, Arizona
+23009: Hancock, Maine
+5109: Pike, Arkansas
+17009: Brown, Illinois
+15009: Maui, Hawaii
+48009: Archer, Texas
+8009: Baca, Colorado
+55009: Brown, Wisconsin
+40009: Beckham, Oklahoma
+32510: Carson City, Nevada
+2110: Juneau, Alaska
+51710: Norfolk City, Virginia
+51810: Virginia Beach City, Virginia
+24510: Baltimore City, Maryland
+51510: Alexandria City, Virginia
+51610: Falls Church City, Virginia
+29510: St Louis City, Missouri
+31011: Boone, Nebraska
+19011: Benton, Iowa
+48311: McMullen, Texas
+22011: Beauregard, Louisiana
+55111: Sauk, Wisconsin
+9011: New London, Connecticut
+26011: Arenac, Michigan
+35011: De Baca, New Mexico
+21211: Shelby, Kentucky
+21111: Jefferson, Kentucky
+17111: McHenry, Illinois
+28111: Perry, Mississippi
+42111: Somerset, Pennsylvania
+40111: Okmulgee, Oklahoma
+48011: Armstrong, Texas
+22111: Union, Louisiana
+25011: Franklin, Massachusetts
+13111: Fannin, Georgia
+6111: Ventura, California
+51011: Appomattox, Virginia
+27011: Big Stone, Minnesota
+18111: Newton, Indiana
+56011: Crook, Wyoming
+28011: Bolivar, Mississippi
+49011: Davis, Utah
+38011: Bowman, North Dakota
+20111: Lyon, Kansas
+21011: Bath, Kentucky
+36111: Ulster, New York
+45011: Barnwell, South Carolina
+48111: Dallam, Texas
+41011: Coos, Oregon
+33011: Hillsborough, New Hampshire
+27111: Otter Tail, Minnesota
+46111: Sanborn, South Dakota
+47011: Bradley, Tennessee
+53011: Clark, Washington
+29011: Barton, Missouri
+31111: Lincoln, Nebraska
+48411: San Saba, Texas
+39011: Auglaize, Ohio
+6011: Colusa, California
+55011: Buffalo, Wisconsin
+13311: White, Georgia
+30011: Carter, Montana
+24011: Caroline, Maryland
+46011: Brookings, South Dakota
+1011: Bullock, Alabama
+8011: Bent, Colorado
+5111: Poinsett, Arkansas
+37111: McDowell, North Carolina
+34011: Cumberland, New Jersey
+39111: Monroe, Ohio
+17011: Bureau, Illinois
+20011: Bourbon, Kansas
+47111: Macon, Tennessee
+30111: Yellowstone, Montana
+42011: Berks, Pennsylvania
+12011: Broward, Florida
+54011: Cabell, West Virginia
+36011: Cayuga, New York
+13011: Banks, Georgia
+37011: Avery, North Carolina
+13211: Morgan, Georgia
+50011: Franklin, Vermont
+16011: Bingham, Idaho
+29111: Lewis, Missouri
+29211: Sullivan, Missouri
+5011: Bradley, Arkansas
+40011: Blaine, Oklahoma
+48211: Hemphill, Texas
+12111: St Lucie, Florida
+18011: Boone, Indiana
+8111: San Juan, Colorado
+32011: Eureka, Nevada
+23011: Kennebec, Maine
+19111: Lee, Iowa
+26111: Midland, Michigan
+1111: Randolph, Alabama
+4011: Greenlee, Arizona
+51111: Lunenburg, Virginia
+4012: La Paz, Arizona
+5013: Calhoun, Arkansas
+50013: Grand Isle, Vermont
+23013: Knox, Maine
+19113: Linn, Iowa
+42113: Sullivan, Pennsylvania
+32013: Humboldt, Nevada
+51113: Madison, Virginia
+13013: Barrow, Georgia
+21013: Bell, Kentucky
+22113: Vermilion, Louisiana
+29013: Bates, Missouri
+55013: Burnett, Wisconsin
+13313: Whitfield, Georgia
+26113: Missaukee, Michigan
+26013: Baraga, Michigan
+36113: Warren, New York
+5113: Polk, Arkansas
+47113: Madison, Tennessee
+37113: Macon, North Carolina
+19013: Black Hawk, Iowa
+20113: McPherson, Kansas
+27013: Blue Earth, Minnesota
+29213: Taney, Missouri
+1013: Butler, Alabama
+18113: Noble, Indiana
+40013: Bryan, Oklahoma
+36013: Chautauqua, New York
+21213: Simpson, Kentucky
+6113: Yolo, California
+6013: Contra Costa, California
+31013: Box Butte, Nebraska
+40113: Osage, Oklahoma
+35013: Dona Ana, New Mexico
+29113: Lincoln, Missouri
+48313: Madison, Texas
+28013: Calhoun, Mississippi
+51013: Arlington, Virginia
+25013: Hampden, Massachusetts
+12013: Calhoun, Florida
+12113: Santa Rosa, Florida
+49013: Duchesne, Utah
+4013: Maricopa, Arizona
+41013: Crook, Oregon
+54013: Calhoun, West Virginia
+55113: Sawyer, Wisconsin
+38013: Burke, North Dakota
+20013: Brown, Kansas
+39113: Montgomery, Ohio
+48413: Schleicher, Texas
+21113: Jessamine, Kentucky
+46013: Brown, South Dakota
+17013: Calhoun, Illinois
+31113: Logan, Nebraska
+37013: Beaufort, North Carolina
+42013: Blair, Pennsylvania
+2013: Aleutians East, Alaska
+48213: Henderson, Texas
+48013: Atascosa, Texas
+17113: Mclean, Illinois
+33013: Merrimack, New Hampshire
+8113: San Miguel, Colorado
+34013: Essex, New Jersey
+45013: Beaufort, South Carolina
+8013: Boulder, Colorado
+39013: Belmont, Ohio
+9013: Tolland, Connecticut
+48113: Dallas, Texas
+30013: Cascade, Montana
+16013: Blaine, Idaho
+18013: Brown, Indiana
+47013: Campbell, Tennessee
+53013: Columbia, Washington
+24013: Carroll, Maryland
+13113: Fayette, Georgia
+1113: Russell, Alabama
+46113: Shannon, South Dakota
+22013: Bienville, Louisiana
+56013: Fremont, Wyoming
+28113: Pike, Mississippi
+13213: Murray, Georgia
+27113: Pennington, Minnesota
+8014: Broomfield, Colorado
+31115: Loup, Nebraska
+26015: Barry, Michigan
+6015: Del Norte, California
+38015: Burleigh, North Dakota
+6115: Yuba, California
+48115: Dawson, Texas
+23015: Lincoln, Maine
+29115: Linn, Missouri
+32015: Lander, Nevada
+13315: Wilcox, Georgia
+19015: Boone, Iowa
+5115: Pope, Arkansas
+16015: Boise, Idaho
+13115: Floyd, Georgia
+42115: Susquehanna, Pennsylvania
+21015: Boone, Kentucky
+27115: Pine, Minnesota
+8015: Chaffee, Colorado
+17015: Carroll, Illinois
+53015: Cowlitz, Washington
+48315: Marion, Texas
+48015: Austin, Texas
+51015: Augusta, Virginia
+51115: Mathews, Virginia
+5015: Carroll, Arkansas
+37115: Madison, North Carolina
+51515: Bedford City, Virginia
+26115: Monroe, Michigan
+20015: Butler, Kansas
+39115: Morgan, Ohio
+21215: Spencer, Kentucky
+8115: Sedgwick, Colorado
+49015: Emery, Utah
+1015: Calhoun, Alabama
+46115: Spink, South Dakota
+54015: Clay, West Virginia
+25015: Hampshire, Massachusetts
+22115: Vernon, Louisiana
+29215: Texas, Missouri
+48215: Hidalgo, Texas
+12015: Charlotte, Florida
+46015: Brule, South Dakota
+36115: Washington, New York
+55015: Calumet, Wisconsin
+55115: Shawano, Wisconsin
+36015: Chemung, New York
+50015: Lamoille, Vermont
+42015: Bradford, Pennsylvania
+40015: Caddo, Oklahoma
+9015: Windham, Connecticut
+56015: Goshen, Wyoming
+30015: Chouteau, Montana
+20115: Marion, Kansas
+45015: Berkeley, South Carolina
+24015: Cecil, Maryland
+1115: St Clair, Alabama
+40115: Ottawa, Oklahoma
+17115: Macon, Illinois
+39015: Brown, Ohio
+31015: Boyd, Nebraska
+12115: Sarasota, Florida
+27015: Brown, Minnesota
+18115: Ohio, Indiana
+22015: Bossier, Louisiana
+47115: Marion, Tennessee
+37015: Bertie, North Carolina
+34015: Gloucester, New Jersey
+13015: Bartow, Georgia
+35015: Eddy, New Mexico
+28015: Carroll, Mississippi
+4015: Mohave, Arizona
+48415: Scurry, Texas
+47015: Cannon, Tennessee
+33015: Rockingham, New Hampshire
+18015: Carroll, Indiana
+28115: Pontotoc, Mississippi
+21115: Johnson, Kentucky
+41015: Curry, Oregon
+13215: Muscogee, Georgia
+29015: Benton, Missouri
+19115: Louisa, Iowa
+2016: Aleutians West, Alaska
+48117: Deaf Smith, Texas
+18117: Orange, Indiana
+5017: Chicot, Arkansas
+27017: Carlton, Minnesota
+42117: Tioga, Pennsylvania
+5117: Prairie, Arkansas
+54017: Doddridge, West Virginia
+13317: Wilkes, Georgia
+29117: Livingston, Missouri
+29017: Bollinger, Missouri
+21217: Taylor, Kentucky
+38017: Cass, North Dakota
+51117: Mecklenburg, Virginia
+12017: Citrus, Florida
+1017: Chambers, Alabama
+27117: Pipestone, Minnesota
+17017: Cass, Illinois
+22017: Caddo, Louisiana
+53017: Douglas, Washington
+35017: Grant, New Mexico
+24017: Charles, Maryland
+1117: Shelby, Alabama
+45017: Calhoun, South Carolina
+8017: Cheyenne, Colorado
+6017: El Dorado, California
+41017: Deschutes, Oregon
+48417: Shackelford, Texas
+48317: Martin, Texas
+13017: Ben Hill, Georgia
+13217: Newton, Georgia
+47017: Carroll, Tennessee
+21017: Bourbon, Kentucky
+46117: Stanley, South Dakota
+51017: Bath, Virginia
+36017: Chenango, New York
+39117: Morrow, Ohio
+19117: Lucas, Iowa
+40117: Pawnee, Oklahoma
+25017: Middlesex, Massachusetts
+56017: Hot Springs, Wyoming
+31017: Brown, Nebraska
+39017: Butler, Ohio
+12117: Seminole, Florida
+13117: Forsyth, Georgia
+50017: Orange, Vermont
+36117: Wayne, New York
+21117: Kenton, Kentucky
+23017: Oxford, Maine
+30017: Custer, Montana
+18017: Cass, Indiana
+55117: Sheboygan, Wisconsin
+26117: Montcalm, Michigan
+22117: Washington, Louisiana
+49017: Garfield, Utah
+31117: McPherson, Nebraska
+46017: Buffalo, South Dakota
+42017: Bucks, Pennsylvania
+28117: Prentiss, Mississippi
+37017: Bladen, North Carolina
+4017: Navajo, Arizona
+48017: Bailey, Texas
+20117: Marshall, Kansas
+33017: Strafford, New Hampshire
+32017: Lincoln, Nevada
+28017: Chickasaw, Mississippi
+26017: Bay, Michigan
+20017: Chase, Kansas
+8117: Summit, Colorado
+16017: Bonner, Idaho
+47117: Marshall, Tennessee
+34017: Hudson, New Jersey
+19017: Bremer, Iowa
+55017: Chippewa, Wisconsin
+17117: Macoupin, Illinois
+48217: Hill, Texas
+37117: Martin, North Carolina
+29217: Vernon, Missouri
+40017: Canadian, Oklahoma
+27119: Polk, Minnesota
+4019: Pima, Arizona
+13119: Franklin, Georgia
+18019: Clark, Indiana
+6019: Fresno, California
+50019: Orleans, Vermont
+29019: Boone, Missouri
+13019: Berrien, Georgia
+25019: Nantucket, Massachusetts
+5019: Clark, Arkansas
+17019: Champaign, Illinois
+23019: Penobscot, Maine
+37119: Mecklenburg, North Carolina
+31119: Madison, Nebraska
+35019: Guadalupe, New Mexico
+36119: Westchester, New York
+22119: Webster, Louisiana
+20019: Chautauqua, Kansas
+42019: Butler, Pennsylvania
+54019: Fayette, West Virginia
+21119: Knott, Kentucky
+19019: Buchanan, Iowa
+48019: Bandera, Texas
+38019: Cavalier, North Dakota
+47019: Carter, Tennessee
+26019: Benzie, Michigan
+12019: Clay, Florida
+37019: Brunswick, North Carolina
+13319: Wilkinson, Georgia
+39119: Muskingum, Ohio
+48319: Mason, Texas
+20119: Meade, Kansas
+48419: Shelby, Texas
+28019: Choctaw, Mississippi
+55019: Clark, Wisconsin
+53019: Ferry, Washington
+18119: Owen, Indiana
+55119: Taylor, Wisconsin
+21219: Todd, Kentucky
+33019: Sullivan, New Hampshire
+8119: Teller, Colorado
+31019: Buffalo, Nebraska
+47119: Maury, Tennessee
+12119: Sumter, Florida
+1119: Sumter, Alabama
+30019: Daniels, Montana
+51119: Middlesex, Virginia
+46019: Butte, South Dakota
+1019: Cherokee, Alabama
+24019: Dorchester, Maryland
+48119: Delta, Texas
+32019: Lyon, Nevada
+5119: Pulaski, Arkansas
+46119: Sully, South Dakota
+29119: Mcdonald, Missouri
+19119: Lyon, Iowa
+49019: Grand, Utah
+21019: Boyd, Kentucky
+45019: Charleston, South Carolina
+41019: Douglas, Oregon
+16019: Bonneville, Idaho
+22019: Calcasieu, Louisiana
+39019: Carroll, Ohio
+34019: Hunterdon, New Jersey
+13219: Oconee, Georgia
+42119: Union, Pennsylvania
+48219: Hockley, Texas
+28119: Quitman, Mississippi
+29219: Warren, Missouri
+56019: Johnson, Wyoming
+8019: Clear Creek, Colorado
+27019: Carver, Minnesota
+40019: Carter, Oklahoma
+17119: Madison, Illinois
+51019: Bedford, Virginia
+26119: Montmorency, Michigan
+40119: Payne, Oklahoma
+36019: Clinton, New York
+51620: Franklin City, Virginia
+51520: Bristol City, Virginia
+51820: Waynesboro City, Virginia
+2220: Sitka, Alaska
+51720: Norton City, Virginia
+2020: Anchorage, Alaska
+55121: Trempealeau, Wisconsin
+20021: Cherokee, Kansas
+19121: Madison, Iowa
+36121: Wyoming, New York
+48321: Matagorda, Texas
+56021: Laramie, Wyoming
+55021: Columbia, Wisconsin
+32021: Mineral, Nevada
+40121: Pittsburg, Oklahoma
+27021: Cass, Minnesota
+49021: Iron, Utah
+18021: Clay, Indiana
+47121: Meigs, Tennessee
+26121: Muskegon, Michigan
+36021: Columbia, New York
+46021: Campbell, South Dakota
+5021: Clay, Arkansas
+8121: Washington, Colorado
+22021: Caldwell, Louisiana
+37021: Buncombe, North Carolina
+29121: Macon, Missouri
+42021: Cambria, Pennsylvania
+50021: Rutland, Vermont
+39121: Noble, Ohio
+35021: Harding, New Mexico
+37121: Mitchell, North Carolina
+53021: Franklin, Washington
+48221: Hood, Texas
+34021: Mercer, New Jersey
+13221: Oglethorpe, Georgia
+48421: Sherman, Texas
+47021: Cheatham, Tennessee
+25021: Norfolk, Massachusetts
+19021: Buena Vista, Iowa
+6021: Glenn, California
+48121: Denton, Texas
+39021: Champaign, Ohio
+42121: Venango, Pennsylvania
+18121: Parke, Indiana
+40021: Cherokee, Oklahoma
+17121: Marion, Illinois
+22121: West Baton Rouge, Louisiana
+21121: Knox, Kentucky
+13121: Fulton, Georgia
+16021: Boundary, Idaho
+28021: Claiborne, Mississippi
+21221: Trigg, Kentucky
+1021: Chilton, Alabama
+4021: Pinal, Arizona
+31021: Burt, Nebraska
+8021: Conejos, Colorado
+45021: Cherokee, South Carolina
+12021: Collier, Florida
+29021: Buchanan, Missouri
+51121: Montgomery, Virginia
+23021: Piscataquis, Maine
+24021: Frederick, Maryland
+28121: Rankin, Mississippi
+26021: Berrien, Michigan
+20121: Miami, Kansas
+13321: Worth, Georgia
+48021: Bastrop, Texas
+51021: Bland, Virginia
+29221: Washington, Missouri
+46121: Todd, South Dakota
+27121: Pope, Minnesota
+1121: Talladega, Alabama
+30021: Dawson, Montana
+21021: Boyle, Kentucky
+41021: Gilliam, Oregon
+54021: Gilmer, West Virginia
+17021: Christian, Illinois
+5121: Randolph, Arkansas
+31121: Merrick, Nebraska
+13021: Bibb, Georgia
+12121: Suwannee, Florida
+38021: Dickey, North Dakota
+2122: Kenai Peninsula, Alaska
+48023: Baylor, Texas
+42123: Warren, Pennsylvania
+28023: Clarke, Mississippi
+19123: Mahaska, Iowa
+32023: Nye, Nevada
+51023: Botetourt, Virginia
+5123: St Francis, Arkansas
+31023: Butler, Nebraska
+39023: Clark, Ohio
+26023: Branch, Michigan
+17023: Clark, Illinois
+19023: Butler, Iowa
+37023: Burke, North Carolina
+5023: Cleburne, Arkansas
+13223: Paulding, Georgia
+48423: Smith, Texas
+24023: Garrett, Maryland
+22123: West Carroll, Louisiana
+46023: Charles Mix, South Dakota
+12123: Taylor, Florida
+25023: Plymouth, Massachusetts
+48123: De Witt, Texas
+53023: Garfield, Washington
+13023: Bleckley, Georgia
+55023: Crawford, Wisconsin
+18123: Perry, Indiana
+27123: Ramsey, Minnesota
+49023: Juab, Utah
+39123: Ottawa, Ohio
+42023: Cameron, Pennsylvania
+21123: Larue, Kentucky
+23023: Sagadahoc, Maine
+17123: Marshall, Illinois
+48323: Maverick, Texas
+4023: Santa Cruz, Arizona
+21023: Bracken, Kentucky
+8123: Weld, Colorado
+41023: Grant, Oregon
+45023: Chester, South Carolina
+38023: Divide, North Dakota
+12023: Columbia, Florida
+50023: Washington, Vermont
+26123: Newaygo, Michigan
+27023: Chippewa, Minnesota
+40123: Pontotoc, Oklahoma
+36123: Yates, New York
+31123: Morrill, Nebraska
+29123: Madison, Missouri
+40023: Choctaw, Oklahoma
+46123: Tripp, South Dakota
+28123: Scott, Mississippi
+55123: Vernon, Wisconsin
+22023: Cameron, Louisiana
+34023: Middlesex, New Jersey
+1023: Choctaw, Alabama
+13123: Gilmer, Georgia
+48223: Hopkins, Texas
+29223: Wayne, Missouri
+29023: Butler, Missouri
+36023: Cortland, New York
+18023: Clinton, Indiana
+54023: Grant, West Virginia
+16023: Butte, Idaho
+37123: Montgomery, North Carolina
+8023: Costilla, Colorado
+6023: Humboldt, California
+30023: Deer Lodge, Montana
+35023: Hidalgo, New Mexico
+56023: Lincoln, Wyoming
+20023: Cheyenne, Kansas
+47023: Chester, Tennessee
+21223: Trimble, Kentucky
+1123: Tallapoosa, Alabama
+20123: Mitchell, Kansas
+47123: Monroe, Tennessee
+18125: Pike, Indiana
+34025: Monmouth, New Jersey
+35025: Lea, New Mexico
+48425: Somervell, Texas
+45025: Chesterfield, South Carolina
+16025: Camas, Idaho
+12125: Union, Florida
+39025: Clermont, Ohio
+23025: Somerset, Maine
+26125: Oakland, Michigan
+51025: Brunswick, Virginia
+48125: Dickens, Texas
+21125: Laurel, Kentucky
+25025: Suffolk, Massachusetts
+27125: Red Lake, Minnesota
+49025: Kane, Utah
+47025: Claiborne, Tennessee
+17025: Clay, Illinois
+48225: Houston, Texas
+5125: Saline, Arkansas
+39125: Paulding, Ohio
+42125: Washington, Pennsylvania
+56025: Natrona, Wyoming
+19125: Marion, Iowa
+22125: West Feliciana, Louisiana
+31125: Nance, Nebraska
+27025: Chisago, Minnesota
+29225: Webster, Missouri
+47125: Montgomery, Tennessee
+17125: Mason, Illinois
+40125: Pottawatomie, Oklahoma
+28025: Clay, Mississippi
+5025: Cleveland, Arkansas
+51125: Nelson, Virginia
+28125: Sharkey, Mississippi
+40025: Cimarron, Oklahoma
+8025: Crowley, Colorado
+55125: Vilas, Wisconsin
+36025: Delaware, New York
+53025: Grant, Washington
+1025: Clarke, Alabama
+50025: Windham, Vermont
+13125: Glascock, Georgia
+42025: Carbon, Pennsylvania
+48025: Bee, Texas
+20025: Clark, Kansas
+18025: Crawford, Indiana
+13225: Peach, Georgia
+37125: Moore, North Carolina
+41025: Harney, Oregon
+21025: Breathitt, Kentucky
+54025: Greenbrier, West Virginia
+8125: Yuma, Colorado
+24025: Harford, Maryland
+1125: Tuscaloosa, Alabama
+29025: Caldwell, Missouri
+20125: Montgomery, Kansas
+55025: Dane, Wisconsin
+26025: Calhoun, Michigan
+46025: Clark, South Dakota
+13025: Brantley, Georgia
+6025: Imperial, California
+22025: Catahoula, Louisiana
+4025: Yavapai, Arizona
+30025: Fallon, Montana
+21225: Union, Kentucky
+38025: Dunn, North Dakota
+29125: Maries, Missouri
+37025: Cabarrus, North Carolina
+46125: Turner, South Dakota
+48325: Medina, Texas
+19025: Calhoun, Iowa
+31025: Cass, Nebraska
+37027: Caldwell, North Carolina
+56027: Niobrara, Wyoming
+21227: Warren, Kentucky
+13027: Brooks, Georgia
+18027: Daviess, Indiana
+1127: Walker, Alabama
+53027: Grays Harbor, Washington
+29227: Worth, Missouri
+36027: Dutchess, New York
+49027: Millard, Utah
+27027: Clay, Minnesota
+20127: Morris, Kansas
+29027: Callaway, Missouri
+48027: Bell, Texas
+21127: Lawrence, Kentucky
+8027: Custer, Colorado
+28127: Simpson, Mississippi
+22027: Claiborne, Louisiana
+1027: Clay, Alabama
+17127: Massac, Illinois
+46127: Union, South Dakota
+17027: Clinton, Illinois
+20027: Clay, Kansas
+50027: Windsor, Vermont
+13227: Pickens, Georgia
+48127: Dimmit, Texas
+4027: Yuma, Arizona
+26127: Oceana, Michigan
+18127: Porter, Indiana
+5027: Columbia, Arkansas
+42027: Centre, Pennsylvania
+37127: Nash, North Carolina
+27127: Redwood, Minnesota
+6027: Inyo, California
+34027: Morris, New Jersey
+26027: Cass, Michigan
+47127: Moore, Tennessee
+21027: Breckinridge, Kentucky
+48327: Menard, Texas
+54027: Hampshire, West Virginia
+55127: Walworth, Wisconsin
+48427: Starr, Texas
+46027: Clay, South Dakota
+39027: Clinton, Ohio
+5127: Scott, Arkansas
+32027: Pershing, Nevada
+25027: Worcester, Massachusetts
+51027: Buchanan, Virginia
+40027: Cleveland, Oklahoma
+45027: Clarendon, South Carolina
+30027: Fergus, Montana
+13127: Glynn, Georgia
+12027: De Soto, Florida
+35027: Lincoln, New Mexico
+19027: Carroll, Iowa
+23027: Waldo, Maine
+16027: Canyon, Idaho
+12127: Volusia, Florida
+51127: New Kent, Virginia
+41027: Hood River, Oregon
+42127: Wayne, Pennsylvania
+40127: Pushmataha, Oklahoma
+31027: Cedar, Nebraska
+28027: Coahoma, Mississippi
+38027: Eddy, North Dakota
+39127: Perry, Ohio
+19127: Marshall, Iowa
+55027: Dodge, Wisconsin
+31127: Nemaha, Nebraska
+48227: Howard, Texas
+47027: Clay, Tennessee
+22127: Winn, Louisiana
+24027: Howard, Maryland
+29127: Marion, Missouri
+35028: Los Alamos, New Mexico
+13129: Gordon, Georgia
+17029: Coles, Illinois
+28129: Smith, Mississippi
+30029: Flathead, Montana
+22029: Concordia, Louisiana
+49029: Morgan, Utah
+21029: Bullitt, Kentucky
+46129: Walworth, South Dakota
+29229: Wright, Missouri
+21129: Lee, Kentucky
+40029: Coal, Oklahoma
+27029: Clearwater, Minnesota
+42029: Chester, Pennsylvania
+31129: Nuckolls, Nebraska
+41029: Jackson, Oregon
+27129: Renville, Minnesota
+8029: Delta, Colorado
+37029: Camden, North Carolina
+55129: Washburn, Wisconsin
+39129: Pickaway, Ohio
+54029: Hancock, West Virginia
+13029: Bryan, Georgia
+47129: Morgan, Tennessee
+35029: Luna, New Mexico
+26129: Ogemaw, Michigan
+19129: Mills, Iowa
+37129: New Hanover, North Carolina
+20129: Morton, Kansas
+21229: Washington, Kentucky
+39029: Columbiana, Ohio
+12029: Dixie, Florida
+29029: Camden, Missouri
+36029: Erie, New York
+1029: Cleburne, Alabama
+48129: Donley, Texas
+12129: Wakulla, Florida
+26029: Charlevoix, Michigan
+16029: Caribou, Idaho
+55029: Door, Wisconsin
+20029: Cloud, Kansas
+23029: Washington, Maine
+18029: Dearborn, Indiana
+6029: Kern, California
+46029: Codington, South Dakota
+24029: Kent, Maryland
+32029: Storey, Nevada
+48229: Hudspeth, Texas
+45029: Colleton, South Carolina
+18129: Posey, Indiana
+42129: Westmoreland, Pennsylvania
+31029: Chase, Nebraska
+5029: Conway, Arkansas
+48329: Midland, Texas
+51029: Buckingham, Virginia
+1129: Washington, Alabama
+19029: Cass, Iowa
+47029: Cocke, Tennessee
+56029: Park, Wyoming
+34029: Ocean, New Jersey
+28029: Copiah, Mississippi
+40129: Roger Mills, Oklahoma
+38029: Emmons, North Dakota
+5129: Searcy, Arkansas
+17129: Menard, Illinois
+13229: Pierce, Georgia
+29129: Mercer, Missouri
+48029: Bexar, Texas
+48429: Stephens, Texas
+53029: Island, Washington
+2130: Ketchikan Gateway, Alaska
+51530: Buena Vista City, Virginia
+51830: Williamsburg City, Virginia
+51630: Fredericksburg City, Virginia
+51730: Petersburg City, Virginia
+20031: Coffey, Kansas
+48031: Blanco, Texas
+1131: Wilcox, Alabama
+55131: Washington, Wisconsin
+47031: Coffee, Tennessee
+29131: Miller, Missouri
+29031: Cape Girardeau, Missouri
+17131: Mercer, Illinois
+1031: Coffee, Alabama
+42031: Clarion, Pennsylvania
+13231: Pike, Georgia
+26131: Ontonagon, Michigan
+32031: Washoe, Nevada
+5131: Sebastian, Arkansas
+19131: Mitchell, Iowa
+28131: Stone, Mississippi
+39031: Coshocton, Ohio
+6031: Kings, California
+45031: Darlington, South Carolina
+40031: Comanche, Oklahoma
+55031: Douglas, Wisconsin
+35031: Mckinley, New Mexico
+8031: Denver, Colorado
+18031: Decatur, Indiana
+21131: Leslie, Kentucky
+49031: Piute, Utah
+56031: Platte, Wyoming
+30031: Gallatin, Montana
+13031: Bulloch, Georgia
+27031: Cook, Minnesota
+39131: Pike, Ohio
+27131: Rice, Minnesota
+48331: Milam, Texas
+17031: Cook, Illinois
+16031: Cassia, Idaho
+23031: York, Maine
+31131: Otoe, Nebraska
+21231: Wayne, Kentucky
+12031: Duval, Florida
+5031: Craighead, Arkansas
+11031: Montgomery, District of Columbia
+13131: Grady, Georgia
+18131: Pulaski, Indiana
+36031: Essex, New York
+41031: Jefferson, Oregon
+31031: Cherry, Nebraska
+42131: Wyoming, Pennsylvania
+34031: Passaic, New Jersey
+21031: Butler, Kentucky
+24031: Montgomery, Maryland
+26031: Cheboygan, Michigan
+40131: Rogers, Oklahoma
+51131: Northampton, Virginia
+12131: Walton, Florida
+48131: Duval, Texas
+48431: Sterling, Texas
+22031: De Soto, Louisiana
+20131: Nemaha, Kansas
+47131: Obion, Tennessee
+38031: Foster, North Dakota
+46031: Corson, South Dakota
+37131: Northampton, North Carolina
+53031: Jefferson, Washington
+48231: Hunt, Texas
+28031: Covington, Mississippi
+37031: Carteret, North Carolina
+51031: Campbell, Virginia
+19031: Cedar, Iowa
+54031: Hardy, West Virginia
+2232: Skagway Hoonah Angoon, Alaska
+49033: Rich, Utah
+19033: Cerro Gordo, Iowa
+40033: Cotton, Oklahoma
+24033: Prince Georges, Maryland
+46033: Custer, South Dakota
+13133: Greene, Georgia
+28133: Sunflower, Mississippi
+45033: Dillon, South Carolina
+39033: Crawford, Ohio
+21033: Caldwell, Kentucky
+12133: Washington, Florida
+31033: Cheyenne, Nebraska
+18033: De Kalb, Indiana
+6033: Lake, California
+48333: Mills, Texas
+20133: Neosho, Kansas
+51133: Northumberland, Virginia
+54033: Harrison, West Virginia
+1133: Winston, Alabama
+55133: Waukesha, Wisconsin
+5033: Crawford, Arkansas
+22033: East Baton Rouge, Louisiana
+34033: Salem, New Jersey
+48433: Stonewall, Texas
+18133: Putnam, Indiana
+48033: Borden, Texas
+8033: Dolores, Colorado
+27133: Rock, Minnesota
+21133: Letcher, Kentucky
+47033: Crockett, Tennessee
+19133: Monona, Iowa
+5133: Sevier, Arkansas
+27033: Cottonwood, Minnesota
+30033: Garfield, Montana
+41033: Josephine, Oregon
+21233: Webster, Kentucky
+35033: Mora, New Mexico
+48233: Hutchinson, Texas
+39133: Portage, Ohio
+17033: Crawford, Illinois
+37033: Caswell, North Carolina
+40133: Seminole, Oklahoma
+37133: Onslow, North Carolina
+13033: Burke, Georgia
+20033: Comanche, Kansas
+12033: Escambia, Florida
+42033: Clearfield, Pennsylvania
+51033: Caroline, Virginia
+26033: Chippewa, Michigan
+29033: Carroll, Missouri
+48133: Eastland, Texas
+13233: Polk, Georgia
+28033: De Soto, Mississippi
+1033: Colbert, Alabama
+38033: Golden Valley, North Dakota
+16033: Clark, Idaho
+55033: Dunn, Wisconsin
+56033: Sheridan, Wyoming
+26133: Osceola, Michigan
+32033: White Pine, Nevada
+42133: York, Pennsylvania
+17133: Monroe, Illinois
+36033: Franklin, New York
+29133: Mississippi, Missouri
+53033: King, Washington
+31133: Pawnee, Nebraska
+47133: Overton, Tennessee
+27135: Roseau, Minnesota
+56035: Sublette, Wyoming
+40135: Sequoyah, Oklahoma
+17035: Cumberland, Illinois
+51035: Carroll, Virginia
+12035: Flagler, Florida
+48135: Ector, Texas
+19035: Cherokee, Iowa
+55035: Eau Claire, Wisconsin
+46035: Davison, South Dakota
+31035: Clay, Nebraska
+24035: Queen Annes, Maryland
+21235: Whitley, Kentucky
+13235: Pulaski, Georgia
+40035: Craig, Oklahoma
+34035: Somerset, New Jersey
+6035: Lassen, California
+21035: Calloway, Kentucky
+42035: Clinton, Pennsylvania
+30035: Glacier, Montana
+46135: Yankton, South Dakota
+26135: Oscoda, Michigan
+55135: Waupaca, Wisconsin
+37135: Orange, North Carolina
+47135: Perry, Tennessee
+18135: Randolph, Indiana
+29135: Moniteau, Missouri
+53035: Kitsap, Washington
+1035: Conecuh, Alabama
+39135: Preble, Ohio
+48035: Bosque, Texas
+45035: Dorchester, South Carolina
+26035: Clare, Michigan
+27035: Crow Wing, Minnesota
+35035: Otero, New Mexico
+13135: Gwinnett, Georgia
+17135: Montgomery, Illinois
+51135: Nottoway, Virginia
+51735: Poquoson City, Virginia
+29035: Carter, Missouri
+28135: Tallahatchie, Mississippi
+48235: Irion, Texas
+8035: Douglas, Colorado
+41035: Klamath, Oregon
+18035: Delaware, Indiana
+37035: Catawba, North Carolina
+54035: Jackson, West Virginia
+49035: Salt Lake, Utah
+5035: Crittenden, Arkansas
+19135: Monroe, Iowa
+47035: Cumberland, Tennessee
+48435: Sutton, Texas
+21135: Lewis, Kentucky
+28035: Forrest, Mississippi
+16035: Clearwater, Idaho
+38035: Grand Forks, North Dakota
+5135: Sharp, Arkansas
+22035: East Carroll, Louisiana
+20035: Cowley, Kansas
+20135: Ness, Kansas
+36035: Fulton, New York
+48335: Mitchell, Texas
+39035: Cuyahoga, Ohio
+31135: Perkins, Nebraska
+13035: Butts, Georgia
+51036: Charles City, Virginia
+1037: Coosa, Alabama
+41037: Lake, Oregon
+39137: Putnam, Ohio
+48137: Edwards, Texas
+31137: Phelps, Nebraska
+39037: Darke, Ohio
+29137: Monroe, Missouri
+35037: Quay, New Mexico
+47037: Davidson, Tennessee
+18037: Dubois, Indiana
+53037: Kittitas, Washington
+46137: Ziebach, South Dakota
+6037: Los Angeles, California
+12037: Franklin, Florida
+48037: Bowie, Texas
+5037: Cross, Arkansas
+38037: Grant, North Dakota
+47137: Pickett, Tennessee
+21037: Campbell, Kentucky
+19037: Chickasaw, Iowa
+30037: Golden Valley, Montana
+21237: Wolfe, Kentucky
+13037: Calhoun, Georgia
+24037: St Marys, Maryland
+26037: Clinton, Michigan
+51137: Orange, Virginia
+37137: Pamlico, North Carolina
+28137: Tate, Mississippi
+18137: Ripley, Indiana
+16037: Custer, Idaho
+55137: Waushara, Wisconsin
+20037: Crawford, Kansas
+40037: Creek, Oklahoma
+54037: Jefferson, West Virginia
+48437: Swisher, Texas
+49037: San Juan, Utah
+27137: St Louis, Minnesota
+28037: Franklin, Mississippi
+13237: Putnam, Georgia
+45037: Edgefield, South Carolina
+56037: Sweetwater, Wyoming
+13137: Habersham, Georgia
+20137: Norton, Kansas
+19137: Montgomery, Iowa
+31037: Colfax, Nebraska
+26137: Otsego, Michigan
+37037: Chatham, North Carolina
+29037: Cass, Missouri
+17137: Morgan, Illinois
+51037: Charlotte, Virginia
+17037: De Kalb, Illinois
+5137: Stone, Arkansas
+46037: Day, South Dakota
+34037: Sussex, New Jersey
+42037: Columbia, Pennsylvania
+8037: Eagle, Colorado
+40137: Stephens, Oklahoma
+55037: Florence, Wisconsin
+36037: Genesee, New York
+22037: East Feliciana, Louisiana
+48237: Jack, Texas
+21137: Lincoln, Kentucky
+48337: Montague, Texas
+27037: Dakota, Minnesota
+17139: Moultrie, Illinois
+20139: Osage, Kansas
+13139: Hall, Georgia
+19039: Clarke, Iowa
+28139: Tippah, Mississippi
+21139: Livingston, Kentucky
+18139: Rush, Indiana
+42039: Crawford, Pennsylvania
+1039: Covington, Alabama
+34039: Union, New Jersey
+48339: Montgomery, Texas
+13039: Camden, Georgia
+54039: Kanawha, West Virginia
+48039: Brazoria, Texas
+49039: Sanpete, Utah
+31139: Pierce, Nebraska
+53039: Klickitat, Washington
+51139: Page, Virginia
+55039: Fond Du Lac, Wisconsin
+56039: Teton, Wyoming
+48439: Tarrant, Texas
+48239: Jackson, Texas
+35039: Rio Arriba, New Mexico
+21239: Woodford, Kentucky
+45039: Fairfield, South Carolina
+26039: Crawford, Michigan
+29039: Cedar, Missouri
+21039: Carlisle, Kentucky
+41039: Lane, Oregon
+24039: Somerset, Maryland
+39039: Defiance, Ohio
+47139: Polk, Tennessee
+36039: Greene, New York
+40139: Texas, Oklahoma
+38039: Griggs, North Dakota
+30039: Granite, Montana
+26139: Ottawa, Michigan
+40039: Custer, Oklahoma
+6039: Madera, California
+17039: Dewitt, Illinois
+5039: Dallas, Arkansas
+5139: Union, Arkansas
+16039: Elmore, Idaho
+37039: Cherokee, North Carolina
+13239: Quitman, Georgia
+8039: Elbert, Colorado
+46039: Deuel, South Dakota
+12039: Gadsden, Florida
+18039: Elkhart, Indiana
+48139: Ellis, Texas
+19139: Muscatine, Iowa
+20039: Decatur, Kansas
+27139: Scott, Minnesota
+22039: Evangeline, Louisiana
+47039: Decatur, Tennessee
+37139: Pasquotank, North Carolina
+28039: George, Mississippi
+29139: Montgomery, Missouri
+31039: Cuming, Nebraska
+55139: Winnebago, Wisconsin
+39139: Richland, Ohio
+27039: Dodge, Minnesota
+51740: Portsmouth City, Virginia
+51540: Charlottesville City, Virginia
+51840: Winchester City, Virginia
+2240: Southeast Fairbanks, Alaska
+51640: Galax City, Virginia
+47141: Putnam, Tennessee
+31141: Platte, Nebraska
+12041: Gilchrist, Florida
+48341: Moore, Texas
+40141: Tillman, Oklahoma
+21141: Logan, Kentucky
+56041: Uinta, Wyoming
+48241: Jasper, Texas
+29141: Morgan, Missouri
+17041: Douglas, Illinois
+5041: Desha, Arkansas
+47041: Dekalb, Tennessee
+49041: Sevier, Utah
+48041: Brazos, Texas
+48141: El Paso, Texas
+41041: Lincoln, Oregon
+37141: Pender, North Carolina
+19141: Obrien, Iowa
+17141: Ogle, Illinois
+27141: Sherburne, Minnesota
+24041: Talbot, Maryland
+53041: Lewis, Washington
+20141: Osborne, Kansas
+38041: Hettinger, North Dakota
+51141: Patrick, Virginia
+21041: Carroll, Kentucky
+42041: Cumberland, Pennsylvania
+30041: Hill, Montana
+16041: Franklin, Idaho
+27041: Douglas, Minnesota
+36041: Hamilton, New York
+31041: Custer, Nebraska
+8041: El Paso, Colorado
+26041: Delta, Michigan
+34041: Warren, New Jersey
+39141: Ross, Ohio
+46041: Dewey, South Dakota
+5141: Van Buren, Arkansas
+19041: Clay, Iowa
+18041: Fayette, Indiana
+55041: Forest, Wisconsin
+37041: Chowan, North Carolina
+55141: Wood, Wisconsin
+18141: St Joseph, Indiana
+29041: Chariton, Missouri
+13141: Hancock, Georgia
+1041: Crenshaw, Alabama
+13241: Rabun, Georgia
+28041: Greene, Mississippi
+54041: Lewis, West Virginia
+48441: Taylor, Texas
+51041: Chesterfield, Virginia
+45041: Florence, South Carolina
+20041: Dickinson, Kansas
+26141: Presque Isle, Michigan
+6041: Marin, California
+22041: Franklin, Louisiana
+40041: Delaware, Oklahoma
+40143: Tulsa, Oklahoma
+13243: Randolph, Georgia
+45043: Georgetown, South Carolina
+20043: Doniphan, Kansas
+27143: Sibley, Minnesota
+18043: Floyd, Indiana
+46043: Douglas, South Dakota
+16043: Fremont, Idaho
+51143: Pittsylvania, Virginia
+5143: Washington, Arkansas
+13043: Candler, Georgia
+21043: Carter, Kentucky
+19043: Clayton, Iowa
+22043: Grant, Louisiana
+53043: Lincoln, Washington
+48243: Jeff Davis, Texas
+48443: Terrell, Texas
+26143: Roscommon, Michigan
+47143: Rhea, Tennessee
+28043: Grenada, Mississippi
+31143: Polk, Nebraska
+6043: Mariposa, California
+17043: Du Page, Illinois
+54043: Lincoln, West Virginia
+39143: Sandusky, Ohio
+12043: Glades, Florida
+31043: Dakota, Nebraska
+18143: Scott, Indiana
+42043: Dauphin, Pennsylvania
+21143: Lyon, Kentucky
+35043: Sandoval, New Mexico
+30043: Jefferson, Montana
+38043: Kidder, North Dakota
+37043: Clay, North Carolina
+28143: Tunica, Mississippi
+51043: Clarke, Virginia
+41043: Linn, Oregon
+48043: Brewster, Texas
+20143: Ottawa, Kansas
+29043: Christian, Missouri
+29143: New Madrid, Missouri
+17143: Peoria, Illinois
+55043: Grant, Wisconsin
+27043: Faribault, Minnesota
+49043: Summit, Utah
+13143: Haralson, Georgia
+40043: Dewey, Oklahoma
+24043: Washington, Maryland
+39043: Erie, Ohio
+48143: Erath, Texas
+5043: Drew, Arkansas
+37143: Perquimans, North Carolina
+8043: Fremont, Colorado
+48343: Morris, Texas
+19143: Osceola, Iowa
+36043: Herkimer, New York
+56043: Washakie, Wyoming
+26043: Dickinson, Michigan
+1043: Cullman, Alabama
+47043: Dickson, Tennessee
+51045: Craig, Virginia
+26145: Saginaw, Michigan
+13145: Harris, Georgia
+18045: Fountain, Indiana
+29145: Newton, Missouri
+5145: White, Arkansas
+48345: Motley, Texas
+41045: Malheur, Oregon
+28045: Hancock, Mississippi
+20045: Douglas, Kansas
+55045: Green, Wisconsin
+39145: Scioto, Ohio
+45045: Greenville, South Carolina
+37045: Cleveland, North Carolina
+48445: Terry, Texas
+22045: Iberia, Louisiana
+17145: Perry, Illinois
+21045: Casey, Kentucky
+40145: Wagoner, Oklahoma
+37145: Person, North Carolina
+13245: Richmond, Georgia
+54045: Logan, West Virginia
+27145: Stearns, Minnesota
+28145: Union, Mississippi
+48045: Briscoe, Texas
+8045: Garfield, Colorado
+36045: Jefferson, New York
+30045: Judith Basin, Montana
+19045: Clinton, Iowa
+48145: Falls, Texas
+56045: Weston, Wyoming
+12045: Gulf, Florida
+26045: Eaton, Michigan
+47145: Roane, Tennessee
+5045: Faulkner, Arkansas
+48245: Jefferson, Texas
+1045: Dale, Alabama
+27045: Fillmore, Minnesota
+53045: Mason, Washington
+16045: Gem, Idaho
+31145: Red Willow, Nebraska
+18145: Shelby, Indiana
+13045: Carroll, Georgia
+39045: Fairfield, Ohio
+51145: Powhatan, Virginia
+6045: Mendocino, California
+20145: Pawnee, Kansas
+17045: Edgar, Illinois
+21145: McCracken, Kentucky
+35045: San Juan, New Mexico
+49045: Tooele, Utah
+38045: Lamoure, North Dakota
+31045: Dawes, Nebraska
+47045: Dyer, Tennessee
+46045: Edmunds, South Dakota
+40045: Ellis, Oklahoma
+19145: Page, Iowa
+24045: Wicomico, Maryland
+29045: Clark, Missouri
+42045: Delaware, Pennsylvania
+27147: Steele, Minnesota
+28047: Harrison, Mississippi
+46047: Fall River, South Dakota
+49047: Uintah, Utah
+42047: Elk, Pennsylvania
+22047: Iberville, Louisiana
+26047: Emmet, Michigan
+37147: Pitt, North Carolina
+29047: Clay, Missouri
+18147: Spencer, Indiana
+19047: Crawford, Iowa
+51047: Culpeper, Virginia
+35047: San Miguel, New Mexico
+39047: Fayette, Ohio
+5147: Woodruff, Arkansas
+13247: Rockdale, Georgia
+17147: Piatt, Illinois
+21147: McCreary, Kentucky
+39147: Seneca, Ohio
+51147: Prince Edward, Virginia
+21047: Christian, Kentucky
+30047: Lake, Montana
+54047: McDowell, West Virginia
+37047: Columbus, North Carolina
+31047: Dawson, Nebraska
+19147: Palo Alto, Iowa
+48447: Throckmorton, Texas
+29147: Nodaway, Missouri
+8047: Gilpin, Colorado
+36047: Kings, New York
+18047: Franklin, Indiana
+41047: Marion, Oregon
+1047: Dallas, Alabama
+40147: Washington, Oklahoma
+48347: Nacogdoches, Texas
+12047: Hamilton, Florida
+13047: Catoosa, Georgia
+24047: Worcester, Maryland
+48147: Fannin, Texas
+38047: Logan, North Dakota
+31147: Richardson, Nebraska
+48247: Jim Hogg, Texas
+47147: Robertson, Tennessee
+20147: Phillips, Kansas
+5047: Franklin, Arkansas
+17047: Edwards, Illinois
+20047: Edwards, Kansas
+26147: St Clair, Michigan
+45047: Greenwood, South Carolina
+16047: Gooding, Idaho
+28147: Walthall, Mississippi
+48047: Brooks, Texas
+53047: Okanogan, Washington
+27047: Freeborn, Minnesota
+47047: Fayette, Tennessee
+40047: Garfield, Oklahoma
+13147: Hart, Georgia
+6047: Merced, California
+55047: Green Lake, Wisconsin
+26049: Genesee, Michigan
+36049: Lewis, New York
+47149: Rutherford, Tennessee
+8049: Grand, Colorado
+13149: Heard, Georgia
+20149: Pottawatomie, Kansas
+48349: Navarro, Texas
+46049: Faulk, South Dakota
+20049: Elk, Kansas
+17049: Effingham, Illinois
+21049: Clark, Kentucky
+40049: Garvin, Oklahoma
+16049: Idaho, Idaho
+30049: Lewis and Clark, Montana
+6049: Modoc, California
+41049: Morrow, Oregon
+54049: Marion, West Virginia
+13049: Charlton, Georgia
+12049: Hardee, Florida
+18149: Starke, Indiana
+51049: Cumberland, Virginia
+40149: Washita, Oklahoma
+21149: Mclean, Kentucky
+49049: Utah, Utah
+48149: Fayette, Texas
+1049: De Kalb, Alabama
+48249: Jim Wells, Texas
+42049: Erie, Pennsylvania
+28049: Hinds, Mississippi
+29049: Clinton, Missouri
+5049: Fulton, Arkansas
+27049: Goodhue, Minnesota
+48449: Titus, Texas
+5149: Yell, Arkansas
+18049: Fulton, Indiana
+37049: Craven, North Carolina
+55049: Iowa, Wisconsin
+39049: Franklin, Ohio
+51149: Prince George, Virginia
+29149: Oregon, Missouri
+48049: Brown, Texas
+31149: Rock, Nebraska
+19049: Dallas, Iowa
+28149: Warren, Mississippi
+39149: Shelby, Ohio
+19149: Plymouth, Iowa
+47049: Fentress, Tennessee
+26149: St Joseph, Michigan
+35049: Santa Fe, New Mexico
+37149: Polk, North Carolina
+27149: Stevens, Minnesota
+38049: McHenry, North Dakota
+17149: Pike, Illinois
+22049: Jackson, Louisiana
+53049: Pacific, Washington
+45049: Hampton, South Carolina
+31049: Deuel, Nebraska
+13249: Schley, Georgia
+51750: Radford, Virginia
+2150: Kodiak Island, Alaska
+51550: Chesapeake City, Virginia
+2050: Bethel, Alaska
+51650: Hampton City, Virginia
+13051: Chatham, Georgia
+42051: Fayette, Pennsylvania
+17151: Pope, Illinois
+5051: Garland, Arkansas
+8051: Gunnison, Colorado
+28051: Holmes, Mississippi
+27151: Swift, Minnesota
+19151: Pocahontas, Iowa
+49051: Wasatch, Utah
+26051: Gladwin, Michigan
+30051: Liberty, Montana
+21151: Madison, Kentucky
+35051: Sierra, New Mexico
+51051: Dickenson, Virginia
+18051: Gibson, Indiana
+41051: Multnomah, Oregon
+45051: Horry, South Carolina
+40051: Grady, Oklahoma
+17051: Fayette, Illinois
+1051: Elmore, Alabama
+54051: Marshall, West Virginia
+46051: Grant, South Dakota
+26151: Sanilac, Michigan
+48251: Johnson, Texas
+19051: Davis, Iowa
+47051: Franklin, Tennessee
+48051: Burleson, Texas
+13251: Screven, Georgia
+48451: Tom Green, Texas
+40151: Woods, Oklahoma
+29151: Osage, Missouri
+39151: Stark, Ohio
+37151: Randolph, North Carolina
+29051: Cole, Missouri
+21051: Clay, Kentucky
+36051: Livingston, New York
+47151: Scott, Tennessee
+39051: Fulton, Ohio
+55051: Iron, Wisconsin
+12051: Hendry, Florida
+53051: Pend Oreille, Washington
+31051: Dixon, Nebraska
+18151: Steuben, Indiana
+13151: Henry, Georgia
+48351: Newton, Texas
+38051: McIntosh, North Dakota
+16051: Jefferson, Idaho
+6051: Mono, California
+37051: Cumberland, North Carolina
+22051: Jefferson, Louisiana
+31151: Saline, Nebraska
+48151: Fisher, Texas
+27051: Grant, Minnesota
+20151: Pratt, Kansas
+20051: Ellis, Kansas
+28151: Washington, Mississippi
+13153: Houston, Georgia
+51053: Dinwiddie, Virginia
+16053: Jerome, Idaho
+20153: Rawlins, Kansas
+55053: Jackson, Wisconsin
+47153: Sequatchie, Tennessee
+42053: Forest, Pennsylvania
+30053: Lincoln, Montana
+29153: Ozark, Missouri
+37053: Currituck, North Carolina
+28053: Humphreys, Mississippi
+49053: Washington, Utah
+8053: Hinsdale, Colorado
+31053: Dodge, Nebraska
+5053: Grant, Arkansas
+13053: Chattahoochee, Georgia
+47053: Gibson, Tennessee
+26153: Schoolcraft, Michigan
+19053: Decatur, Iowa
+38053: Mckenzie, North Dakota
+26053: Gogebic, Michigan
+6053: Monterey, California
+51153: Prince William, Virginia
+28153: Wayne, Mississippi
+39153: Summit, Ohio
+20053: Ellsworth, Kansas
+48453: Travis, Texas
+31153: Sarpy, Nebraska
+48253: Jones, Texas
+1053: Escambia, Alabama
+48153: Floyd, Texas
+21053: Clinton, Kentucky
+17153: Pulaski, Illinois
+37153: Richmond, North Carolina
+36053: Madison, New York
+46053: Gregory, South Dakota
+12053: Hernando, Florida
+13253: Seminole, Georgia
+48053: Burnet, Texas
+19153: Polk, Iowa
+27153: Todd, Minnesota
+35053: Socorro, New Mexico
+54053: Mason, West Virginia
+18153: Sullivan, Indiana
+22053: Jefferson Davis, Louisiana
+48353: Nolan, Texas
+27053: Hennepin, Minnesota
+29053: Cooper, Missouri
+45053: Jasper, South Carolina
+41053: Polk, Oregon
+21153: Magoffin, Kentucky
+53053: Pierce, Washington
+39053: Gallia, Ohio
+40053: Grant, Oklahoma
+18053: Grant, Indiana
+40153: Woodward, Oklahoma
+17053: Ford, Illinois
+19155: Pottawattamie, Iowa
+18055: Greene, Indiana
+46055: Haakon, South Dakota
+38055: Mclean, North Dakota
+48355: Nueces, Texas
+49055: Wayne, Utah
+47155: Sevier, Tennessee
+20155: Reno, Kansas
+13055: Chattooga, Georgia
+12055: Highlands, Florida
+13155: Irwin, Georgia
+13255: Spalding, Georgia
+37055: Dare, North Carolina
+51155: Pulaski, Virginia
+42055: Franklin, Pennsylvania
+55055: Jefferson, Wisconsin
+36055: Monroe, New York
+8055: Huerfano, Colorado
+28155: Webster, Mississippi
+40055: Greer, Oklahoma
+21055: Crittenden, Kentucky
+31155: Saunders, Nebraska
+54055: Mercer, West Virginia
+1055: Etowah, Alabama
+39155: Trumbull, Ohio
+5055: Greene, Arkansas
+30055: McCone, Montana
+19055: Delaware, Iowa
+35055: Taos, New Mexico
+28055: Issaquena, Mississippi
+31055: Douglas, Nebraska
+17055: Franklin, Illinois
+48155: Foard, Texas
+17155: Putnam, Illinois
+29055: Crawford, Missouri
+47055: Giles, Tennessee
+6055: Napa, California
+37155: Robeson, North Carolina
+45055: Kershaw, South Carolina
+41055: Sherman, Oregon
+53055: San Juan, Washington
+48455: Trinity, Texas
+27155: Traverse, Minnesota
+20055: Finney, Kansas
+22055: Lafayette, Louisiana
+18155: Switzerland, Indiana
+16055: Kootenai, Idaho
+39055: Geauga, Ohio
+48255: Karnes, Texas
+48055: Caldwell, Texas
+26055: Grand Traverse, Michigan
+21155: Marion, Kentucky
+26155: Shiawassee, Michigan
+29155: Pemiscot, Missouri
+27055: Houston, Minnesota
+31057: Dundy, Nebraska
+49057: Weber, Utah
+17157: Randolph, Illinois
+8057: Jackson, Colorado
+26057: Gratiot, Michigan
+18057: Hamilton, Indiana
+13057: Cherokee, Georgia
+47057: Grainger, Tennessee
+19057: Des Moines, Iowa
+39157: Tuscarawas, Ohio
+48357: Ochiltree, Texas
+6057: Nevada, California
+37057: Davidson, North Carolina
+35057: Torrance, New Mexico
+21157: Marshall, Kentucky
+22057: Lafourche, Louisiana
+27057: Hubbard, Minnesota
+38057: Mercer, North Dakota
+13157: Jackson, Georgia
+28157: Wilkinson, Mississippi
+36057: Montgomery, New York
+21057: Cumberland, Kentucky
+51157: Rappahannock, Virginia
+29157: Perry, Missouri
+48157: Fort Bend, Texas
+5057: Hempstead, Arkansas
+17057: Fulton, Illinois
+12057: Hillsborough, Florida
+53057: Skagit, Washington
+28057: Itawamba, Mississippi
+48057: Calhoun, Texas
+51057: Essex, Virginia
+40057: Harmon, Oklahoma
+16057: Latah, Idaho
+54057: Mineral, West Virginia
+48457: Tyler, Texas
+37157: Rockingham, North Carolina
+19157: Poweshiek, Iowa
+26157: Tuscola, Michigan
+20157: Republic, Kansas
+41057: Tillamook, Oregon
+1057: Fayette, Alabama
+30057: Madison, Montana
+46057: Hamlin, South Dakota
+31157: Scotts Bluff, Nebraska
+48257: Kaufman, Texas
+29057: Dade, Missouri
+18157: Tippecanoe, Indiana
+27157: Wabasha, Minnesota
+47157: Shelby, Tennessee
+20057: Ford, Kansas
+13257: Stephens, Georgia
+45057: Lancaster, South Carolina
+42057: Fulton, Pennsylvania
+39057: Greene, Ohio
+55057: Juneau, Wisconsin
+26059: Hillsdale, Michigan
+45059: Laurens, South Carolina
+18059: Hancock, Indiana
+13059: Clarke, Georgia
+28059: Jackson, Mississippi
+21059: Daviess, Kentucky
+47159: Smith, Tennessee
+47059: Greene, Tennessee
+17059: Gallatin, Illinois
+8059: Jefferson, Colorado
+13159: Jasper, Georgia
+53059: Skamania, Washington
+17159: Richland, Illinois
+31159: Seward, Nebraska
+37159: Rowan, North Carolina
+36059: Nassau, New York
+20159: Rice, Kansas
+41059: Umatilla, Oregon
+46059: Hand, South Dakota
+48059: Callahan, Texas
+20059: Franklin, Kansas
+38059: Morton, North Dakota
+12059: Holmes, Florida
+48259: Kendall, Texas
+35059: Union, New Mexico
+48159: Franklin, Texas
+30059: Meagher, Montana
+39059: Guernsey, Ohio
+16059: Lemhi, Idaho
+6059: Orange, California
+48459: Upshur, Texas
+29059: Dallas, Missouri
+40059: Harper, Oklahoma
+22059: La Salle, Louisiana
+18159: Tipton, Indiana
+51059: Fairfax, Virginia
+19159: Ringgold, Iowa
+27059: Isanti, Minnesota
+27159: Wadena, Minnesota
+5059: Hot Spring, Arkansas
+19059: Dickinson, Iowa
+31059: Fillmore, Nebraska
+21159: Martin, Kentucky
+55059: Kenosha, Wisconsin
+39159: Union, Ohio
+26159: Van Buren, Michigan
+54059: Mingo, West Virginia
+48359: Oldham, Texas
+29159: Pettis, Missouri
+37059: Davie, North Carolina
+28159: Winston, Mississippi
+51159: Richmond, Virginia
+42059: Greene, Pennsylvania
+1059: Franklin, Alabama
+13259: Stewart, Georgia
+51760: Richmond City, Virginia
+51560: Clifton Forge City, Virginia
+2060: Bristol Bay, Alaska
+51660: Harrisonburg City, Virginia
+2261: Valdez Cordova, Alaska
+12061: Indian River, Florida
+53061: Snohomish, Washington
+29161: Phelps, Missouri
+18061: Harrison, Indiana
+41061: Union, Oregon
+28061: Jasper, Mississippi
+38061: Mountrail, North Dakota
+55061: Kewaunee, Wisconsin
+47061: Grundy, Tennessee
+48061: Cameron, Texas
+54061: Monongalia, West Virginia
+31061: Franklin, Nebraska
+27061: Itasca, Minnesota
+26061: Houghton, Michigan
+13261: Sumter, Georgia
+39061: Hamilton, Ohio
+8061: Kiowa, Colorado
+13161: Jeff Davis, Georgia
+26161: Washtenaw, Michigan
+48461: Upton, Texas
+37061: Duplin, North Carolina
+48361: Orange, Texas
+19061: Dubuque, Iowa
+29061: Daviess, Missouri
+51161: Roanoke, Virginia
+21161: Mason, Kentucky
+18161: Union, Indiana
+20061: Geary, Kansas
+5061: Howard, Arkansas
+39161: Van Wert, Ohio
+16061: Lewis, Idaho
+28161: Yalobusha, Mississippi
+31161: Sheridan, Nebraska
+42061: Huntingdon, Pennsylvania
+1061: Geneva, Alabama
+51061: Fauquier, Virginia
+46061: Hanson, South Dakota
+21061: Edmonson, Kentucky
+48161: Freestone, Texas
+35061: Valencia, New Mexico
+27161: Waseca, Minnesota
+30061: Mineral, Montana
+17061: Greene, Illinois
+20161: Riley, Kansas
+19161: Sac, Iowa
+6061: Placer, California
+37161: Rutherford, North Carolina
+17161: Rock Island, Illinois
+47161: Stewart, Tennessee
+40061: Haskell, Oklahoma
+22061: Lincoln, Louisiana
+13061: Clay, Georgia
+45061: Lee, South Carolina
+36061: New York, New York
+48261: Kenedy, Texas
+37163: Sampson, North Carolina
+39163: Vinton, Ohio
+27063: Jackson, Minnesota
+30063: Missoula, Montana
+17163: St Clair, Illinois
+8063: Kit Carson, Colorado
+12063: Jackson, Florida
+28163: Yazoo, Mississippi
+5063: Independence, Arkansas
+17063: Grundy, Illinois
+26063: Huron, Michigan
+13063: Clayton, Georgia
+28063: Jefferson, Mississippi
+13163: Jefferson, Georgia
+31063: Frontier, Nebraska
+21163: Meade, Kentucky
+48463: Uvalde, Texas
+18063: Hendricks, Indiana
+6063: Plumas, California
+29063: Dekalb, Missouri
+51063: Floyd, Virginia
+48163: Frio, Texas
+42063: Indiana, Pennsylvania
+48263: Kent, Texas
+53063: Spokane, Washington
+20163: Rooks, Kansas
+36063: Niagara, New York
+19163: Scott, Iowa
+47163: Sullivan, Tennessee
+37063: Durham, North Carolina
+18163: Vanderburgh, Indiana
+1063: Greene, Alabama
+47063: Hamblen, Tennessee
+31163: Sherman, Nebraska
+29163: Pike, Missouri
+21063: Elliott, Kentucky
+46063: Harding, South Dakota
+20063: Gove, Kansas
+38063: Nelson, North Dakota
+41063: Wallowa, Oregon
+13263: Talbot, Georgia
+48363: Palo Pinto, Texas
+51163: Rockbridge, Virginia
+48063: Camp, Texas
+39063: Hancock, Ohio
+55063: La Crosse, Wisconsin
+26163: Wayne, Michigan
+45063: Lexington, South Carolina
+54063: Monroe, West Virginia
+19063: Emmet, Iowa
+22063: Livingston, Louisiana
+27163: Washington, Minnesota
+40063: Hughes, Oklahoma
+16063: Lincoln, Idaho
+2164: Lake and Peninsula, Alaska
+19065: Fayette, Iowa
+27165: Watonwan, Minnesota
+19165: Shelby, Iowa
+48365: Panola, Texas
+45065: McCormick, South Carolina
+12065: Jefferson, Florida
+20165: Rush, Kansas
+30065: Musselshell, Montana
+26165: Wexford, Michigan
+42065: Jefferson, Pennsylvania
+17065: Hamilton, Illinois
+37065: Edgecombe, North Carolina
+39165: Warren, Ohio
+27065: Kanabec, Minnesota
+18065: Henry, Indiana
+13065: Clinch, Georgia
+51165: Rockingham, Virginia
+8065: Lake, Colorado
+1065: Hale, Alabama
+46065: Hughes, South Dakota
+47165: Sumner, Tennessee
+16065: Madison, Idaho
+13265: Taliaferro, Georgia
+39065: Hardin, Ohio
+41065: Wasco, Oregon
+47065: Hamilton, Tennessee
+31165: Sioux, Nebraska
+21165: Menifee, Kentucky
+29065: Dent, Missouri
+48065: Carson, Texas
+40065: Jackson, Oklahoma
+28065: Jefferson Davis, Mississippi
+36065: Oneida, New York
+17165: Saline, Illinois
+20065: Graham, Kansas
+37165: Scotland, North Carolina
+54065: Morgan, West Virginia
+48465: Val Verde, Texas
+26065: Ingham, Michigan
+18165: Vermillion, Indiana
+5065: Izard, Arkansas
+13165: Jenkins, Georgia
+48265: Kerr, Texas
+55065: Lafayette, Wisconsin
+53065: Stevens, Washington
+6065: Riverside, California
+21065: Estill, Kentucky
+51065: Fluvanna, Virginia
+48165: Gaines, Texas
+38065: Oliver, North Dakota
+29165: Platte, Missouri
+31065: Furnas, Nebraska
+22065: Madison, Louisiana
+54067: Nicholas, West Virginia
+39167: Washington, Ohio
+20167: Russell, Kansas
+13067: Cobb, Georgia
+22067: Morehouse, Louisiana
+8067: La Plata, Colorado
+51067: Franklin, Virginia
+46067: Hutchinson, South Dakota
+19067: Floyd, Iowa
+51167: Russell, Virginia
+30067: Park, Montana
+48167: Galveston, Texas
+6067: Sacramento, California
+47167: Tipton, Tennessee
+48067: Cass, Texas
+27167: Wilkin, Minnesota
+27067: Kandiyohi, Minnesota
+18067: Howard, Indiana
+42067: Juniata, Pennsylvania
+53067: Thurston, Washington
+37167: Stanly, North Carolina
+47067: Hancock, Tennessee
+20067: Grant, Kansas
+13267: Tattnall, Georgia
+18167: Vigo, Indiana
+48467: Van Zandt, Texas
+12067: Lafayette, Florida
+5067: Jackson, Arkansas
+36067: Onondaga, New York
+31167: Stanton, Nebraska
+41067: Washington, Oregon
+55067: Langlade, Wisconsin
+37067: Forsyth, North Carolina
+17167: Sangamon, Illinois
+45067: Marion, South Carolina
+29167: Polk, Missouri
+31067: Gage, Nebraska
+19167: Sioux, Iowa
+28067: Jones, Mississippi
+1067: Henry, Alabama
+40067: Jefferson, Oklahoma
