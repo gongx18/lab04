@@ -23,7 +23,7 @@ class Table{
 	void put(Entry e); 
 	std::string get(unsigned int key) const; 
 	bool remove(unsigned int key);
-        int hashFunction(int x) const; 
+        int hashFunction(int x, int entries) const; 
   //      void mergeSort(Entry a[], int size);
 //	void merge(Entry a[], int l, int  r);	
 	

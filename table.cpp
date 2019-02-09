@@ -15,6 +15,9 @@ void mergeSort(Entry a[], int size){
 	if(size>1){
 		leftArraySize = size/2;
 		rightArraySize = size - leftArraySize; 
+		
+		mergeSort(a, leftArraySize);
+
 		mergeSort((a+leftArraySize), rightArraySize);
 		
 		merge(a, leftArraySize, rightArraySize); 
@@ -52,8 +55,8 @@ void merge(Entry a[], int leftArraySize, int rightArraySize){
 	delete[] tempArray; 
 }
 
-int Table::hashFunction(int key) const{ //not sure why do I need to put const at the end; 
-	return key % 100;
+int Table::hashFunction(int key, int entries) const{ //not sure why do I need to put const at the end; 
+	return key % entries;
 }
 
 
@@ -83,25 +86,25 @@ void Table::put(unsigned int key, std::string data){
 }
 
 void Table::put(Entry e){
-	int index = hashFunction(e.get_key());
+	int index = hashFunction(e.get_key(), BUCKET);
 	table[index].push_back(e); 		
 }
 
 std::string Table::get(unsigned int key) const{
-	int index = hashFunction(key); 
+	int index = hashFunction(key, BUCKET); 
 	list<Entry>:: iterator i;  
 	for(i = table[index].begin(); i != table[index].end(); i++){
-		cout<<"entered"<<endl;
-		cout<<"i->key is: "<< i->get_key()<<endl;  
+//		cout<<"entered"<<endl;
+//		cout<<"i->key is: "<< i->get_key()<<endl;  
 		if(i->get_key() == key){
 			return i->get_data(); 			
 		}
 	}
-	return "emtpy"; 
+	return ""; 
 }
 
 bool Table::remove(unsigned int key){
-	int index = hashFunction(key);
+	int index = hashFunction(key, BUCKET);
 	list<Entry>:: iterator i;
 	for(i = table[index].begin(); i != table[index].end(); i++){
 		if(i->get_key() == key) break;
