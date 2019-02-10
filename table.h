@@ -24,8 +24,8 @@ class Table{
 	std::string get(unsigned int key) const; 
 	bool remove(unsigned int key);
         int hashFunction(int x, int entries) const; 
-  //      void mergeSort(Entry a[], int size);
-//	void merge(Entry a[], int l, int  r);	
+        void mergeSort(Entry a[], int l, int r);
+	void merge(Entry a[], int l, int  r);	
 	
 	
 	friend std::ostream& operator<<(std::ostream& out, const Table& t); 

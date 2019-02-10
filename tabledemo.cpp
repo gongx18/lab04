@@ -17,12 +17,18 @@ unsigned int user_remove(Table &t);
 int main() {
     
     cout << "Demonstrate very small table\n";
-    Table t(5);
+    Table t(10);
     t.put(7, "seven");
     t.put(9, "nine");
     t.put(17, "Seventeen");
     t.put(4, "four");
     t.put(36, "Thirty-six");
+    t.put(23, "sd");
+    t.put(3 , "ss");
+ 
+    t.put(2 , "ss");
+    t.put(1 , "ss");
+    t.put(5 , "ss");
     cout << t;
     cout << "key accesses: " << Entry::access_count() << endl;
     
