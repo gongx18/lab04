@@ -16,7 +16,7 @@ unsigned int Entry::accesses = 0;
 
 
 string toString(Entry e){
-	return std::to_string(e.get_key()) + ": " + e.get_data() + "\n"; 
+	return to_string(e.get_key()) + ": " + e.get_data() + "\n"; 
 }
 
 Entry::Entry(unsigned int key, std::string data)

@@ -6,7 +6,7 @@
 #include "entry.h"
 #include "table.h"
 
-using namespace std; 
+//using namespace std; 
 
 //void mergeSort(Entry a[], int size){
 //	int leftArraySize;
