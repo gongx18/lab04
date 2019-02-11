@@ -17,7 +17,7 @@ unsigned int user_remove(Table &t);
 int main() {
     
     cout << "Demonstrate very small table\n";
-    Table t(10);
+    Table t(0);
     t.put(7, "seven");
     t.put(9, "nine");
     t.put(17, "Seventeen");

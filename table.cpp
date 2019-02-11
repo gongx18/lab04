@@ -135,12 +135,12 @@ int Table::hashFunction(int key, int entries) const{ //not sure why do I need to
 
  	
 Table::Table(unsigned int max_entries){ //do not redefine default parameter in cpp file. 
-	this->BUCKET = 100;
+	BUCKET = 100;
 	table = new list<Entry>[BUCKET];//used table as a pointer to the array of list;  
 }
 
 Table::Table(unsigned int entries, std::istream& input){
-	this->BUCKET = entries; 
+	BUCKET = entries; 
 	table = new list<Entry>[entries];
 	for(int i = 0; i < entries; i++){
 		Entry e;
