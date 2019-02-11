@@ -6,7 +6,7 @@
 #include "entry.h"
 #include "table.h"
 
-//using namespace std; 
+using namespace std; 
 
 //void mergeSort(Entry a[], int size){
 //	int leftArraySize;
@@ -214,7 +214,7 @@ std::ostream& operator<<(std::ostream& out, const Table& t){
 
 	mergeSort(a, 0, count-1); //merge sort is not called on Table object;  
 	for(int k = 0; k < count; k++){
-		out << toString(a[k]); 
+		out << std::to_string(a[k].get_key())<<": "<<a[k].get_data()<<"\n"; 
 	}
 
 //	delete[] a; 
