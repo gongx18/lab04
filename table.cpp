@@ -158,7 +158,16 @@ void Table::put(unsigned int key, std::string data){
 
 void Table::put(Entry e){
 	int index = hashFunction(e.get_key(), BUCKET);
-	table[index].push_back(e); 		
+	bool b = true; 
+	for(list<Entry>::iterator i = table[index].begin(); i != table[index].end(); i++){
+		if(i->get_key() == e.get_key()){
+			i->set_data(e.get_data());
+			b = false;  
+			break;
+		}
+	}
+	if(b)
+		table[index].push_back(e); 		
 }
 
 std::string Table::get(unsigned int key) const{
