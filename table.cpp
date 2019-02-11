@@ -177,7 +177,8 @@ std::string Table::get(unsigned int key) const{
 bool Table::remove(unsigned int key){
 	int index = hashFunction(key, BUCKET);
 	list<Entry>:: iterator i;
-	if(BUCKET == 0) return false; 
+	if(BUCKET == 0) return false;
+	 
 	for(i = table[index].begin(); i != table[index].end(); i++){
 		if(i->get_key() == key) break;
 	}
@@ -209,7 +210,7 @@ std::ostream& operator<<(std::ostream& out, const Table& t){
 			count++;
 		}
 	}
-	cout<<"The total number of elements in this vector is" << count<<endl;
+	//cout<<"The total number of elements in this vector is" << count<<endl;
 
 	mergeSort(a, 0, count-1); //merge sort is not called on Table object;  
 	for(int k = 0; k < count; k++){
